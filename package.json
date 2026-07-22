@@ -1,0 +1,9 @@
+{
+  "name": "vienna-po-tracker",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Vienna Senior Product Owner job tracker with auto-sync",
+  "scripts": {
+    "fetch": "node scripts/fetch-jobs.js"
+  }
+}

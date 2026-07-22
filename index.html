@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Vienna PO Job Tracker — Mrunal Moghe</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@2.44.0/tabler-icons.min.css">
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    :root {
+      --bg: #f5f5f3; --surface: #ffffff; --surface-alt: #f9f9f8;
+      --border: rgba(0,0,0,0.10); --border-strong: rgba(0,0,0,0.18);
+      --text: #1a1a18; --text-secondary: #5a5a57; --text-muted: #999890;
+      --accent: #185fa5; --accent-bg: #e6f1fb; --accent-text: #0c447c;
+      --success: #3b6d11; --success-bg: #eaf3de;
+      --warning: #854f0b; --warning-bg: #faeeda;
+      --danger: #a32d2d; --danger-bg: #fcebeb;
+      --pro: #534ab7; --pro-bg: #eeedfe;
+      --radius: 8px;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: #1a1a18; --surface: #2a2a27; --surface-alt: #222220;
+        --border: rgba(255,255,255,0.10); --border-strong: rgba(255,255,255,0.18);
+        --text: #f0f0ec; --text-secondary: #b0b0aa; --text-muted: #707068;
+        --accent: #378add; --accent-bg: #0c2a4a; --accent-text: #85b7eb;
+        --success: #97c459; --success-bg: #1a2e08;
+        --warning: #ef9f27; --warning-bg: #2e1f04;
+        --danger: #f09595; --danger-bg: #2e0a0a;
+        --pro: #afa9ec; --pro-bg: #1e1b3a;
+      }
+    }
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: var(--bg); color: var(--text); min-height: 100vh; padding: 2rem 1.5rem; }
+    .header { display: flex; align-items: flex-start; justify-content: space-between; margin-bottom: 1.75rem; flex-wrap: wrap; gap: 1rem; }
+    .header-left h1 { font-size: 20px; font-weight: 600; color: var(--text); margin-bottom: 4px; }
+    .header-left p { font-size: 13px; color: var(--text-muted); }
+    .header-right { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
+    .pill { font-size: 12px; color: var(--text-muted); background: var(--surface); border: 0.5px solid var(--border); border-radius: var(--radius); padding: 6px 12px; display: flex; align-items: center; gap: 6px; }
+    .pill.syncing { color: var(--accent-text); border-color: var(--accent); }
+    .pill.error   { color: var(--danger);       border-color: var(--danger); }
+    .stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(130px, 1fr)); gap: 10px; margin-bottom: 1.25rem; }
+    .stat { background: var(--surface); border: 0.5px solid var(--border); border-radius: 12px; padding: 1rem; }
+    .stat-val { font-size: 26px; font-weight: 600; color: var(--text); line-height: 1; }
+    .stat-lbl { font-size: 11px; color: var(--text-muted); margin-top: 5px; text-transform: uppercase; letter-spacing: .04em; }
+    .controls { display: flex; gap: 8px; margin-bottom: 1rem; flex-wrap: wrap; }
+    .controls input, .controls select { font-size: 13px; padding: 8px 12px; border: 0.5px solid var(--border-strong); border-radius: var(--radius); background: var(--surface); color: var(--text); outline: none; transition: border-color .15s; }
+    .controls input { flex: 1; min-width: 180px; }
+    .controls select { min-width: 130px; }
+    .controls input:focus, .controls select:focus { border-color: var(--accent); }
+    .tbl-wrap { background: var(--surface); border: 0.5px solid var(--border); border-radius: 12px; overflow: auto; }
+    table { width: 100%; border-collapse: collapse; min-width: 860px; }
+    thead th { font-size: 11px; font-weight: 600; color: var(--text-muted); text-transform: uppercase; letter-spacing: .06em; padding: 11px 16px; border-bottom: 0.5px solid var(--border); text-align: left; cursor: pointer; user-select: none; background: var(--surface-alt); white-space: nowrap; }
+    thead th:hover { color: var(--text-secondary); }
+    thead th.sorted { color: var(--accent); }
+    thead th.no-sort { cursor: default; }
+    thead th.no-sort:hover { color: var(--text-muted); }
+    tbody tr { border-bottom: 0.5px solid var(--border); transition: background .1s; }
+    tbody tr:last-child { border-bottom: none; }
+    tbody tr:hover { background: var(--surface-alt); }
+    td { font-size: 13px; color: var(--text); padding: 12px 16px; vertical-align: middle; }
+    .company-name { font-weight: 500; }
+    .platform-label { font-size: 11px; color: var(--text-muted); margin-top: 2px; }
+    .fresh { color: var(--success); font-weight: 500; }
+    .aging { color: var(--warning); }
+    .old   { color: var(--danger); }
+    .tag { display: inline-block; font-size: 11px; font-weight: 500; padding: 3px 9px; border-radius: 20px; }
+    .tag-ig   { background: var(--pro-bg);     color: var(--pro); }
+    .tag-fin  { background: var(--accent-bg);  color: var(--accent-text); }
+    .tag-tech { background: var(--success-bg); color: var(--success); }
+    .tag-auto { background: var(--warning-bg); color: var(--warning); }
+    .tag-intl { background: var(--danger-bg);  color: var(--danger); }
+    .status-sel { font-size: 12px; border: 0.5px solid var(--border-strong); border-radius: var(--radius); padding: 4px 8px; background: var(--surface); color: var(--text); cursor: pointer; width: 100%; }
+    .sort-arrow { font-size: 10px; margin-left: 3px; opacity: .5; }
+    .view-btn { display: inline-flex; align-items: center; gap: 5px; font-size: 12px; font-weight: 500; color: var(--accent-text); text-decoration: none; padding: 5px 11px; border: 0.5px solid var(--accent); border-radius: var(--radius); white-space: nowrap; transition: background .1s; }
+    .view-btn:hover { background: var(--accent-bg); }
+    .empty { text-align: center; padding: 3rem; color: var(--text-muted); font-size: 14px; }
+    .footer { margin-top: 1.5rem; font-size: 12px; color: var(--text-muted); text-align: center; line-height: 1.8; }
+    .add-btn { font-size: 13px; padding: 8px 14px; border: 0.5px solid var(--border-strong); border-radius: var(--radius); background: var(--surface); color: var(--text); cursor: pointer; display: inline-flex; align-items: center; gap: 6px; transition: background .1s; }
+    .add-btn:hover { background: var(--surface-alt); }
+    .modal-bg { display: none; position: fixed; inset: 0; background: rgba(0,0,0,0.45); z-index: 100; align-items: center; justify-content: center; padding: 1rem; }
+    .modal-bg.open { display: flex; }
+    .modal { background: var(--surface); border: 0.5px solid var(--border-strong); border-radius: 12px; padding: 1.5rem; width: 100%; max-width: 460px; }
+    .modal h2 { font-size: 16px; font-weight: 600; margin-bottom: 1rem; color: var(--text); }
+    .form-row { margin-bottom: .75rem; }
+    .form-row label { display: block; font-size: 12px; color: var(--text-secondary); margin-bottom: 4px; font-weight: 500; }
+    .form-row input, .form-row select { width: 100%; font-size: 13px; padding: 8px 12px; border: 0.5px solid var(--border-strong); border-radius: var(--radius); background: var(--surface); color: var(--text); outline: none; }
+    .form-row input:focus, .form-row select:focus { border-color: var(--accent); }
+    .modal-actions { display: flex; gap: 8px; justify-content: flex-end; margin-top: 1.25rem; }
+    .btn-primary { font-size: 13px; font-weight: 500; padding: 8px 18px; border: none; border-radius: var(--radius); background: var(--accent); color: #fff; cursor: pointer; }
+    .btn-cancel  { font-size: 13px; padding: 8px 14px; border: 0.5px solid var(--border-strong); border-radius: var(--radius); background: transparent; color: var(--text-secondary); cursor: pointer; }
+    .badge-new { display: inline-block; font-size: 10px; font-weight: 600; padding: 1px 6px; border-radius: 20px; background: var(--success-bg); color: var(--success); margin-left: 6px; vertical-align: middle; text-transform: uppercase; letter-spacing: .04em; }
+  </style>
+</head>
+<body>
+
+<div class="header">
+  <div class="header-left">
+    <h1>Vienna Senior PO — Job Tracker</h1>
+    <p>Mrunal Moghe · Senior Product Owner · Open to work</p>
+  </div>
+  <div class="header-right">
+    <span class="pill syncing" id="sync-status"><i class="ti ti-refresh" style="font-size:14px"></i> <span id="sync-label">Syncing live roles…</span></span>
+    <button class="add-btn" onclick="openModal()"><i class="ti ti-plus" style="font-size:15px"></i> Add role</button>
+  </div>
+</div>
+
+<div class="stats">
+  <div class="stat"><div class="stat-val" id="s-total">—</div><div class="stat-lbl">Total roles</div></div>
+  <div class="stat"><div class="stat-val" id="s-fresh" style="color:var(--success)">—</div><div class="stat-lbl">Posted this week</div></div>
+  <div class="stat"><div class="stat-val" id="s-applied" style="color:var(--accent-text)">—</div><div class="stat-lbl">Applied</div></div>
+  <div class="stat"><div class="stat-val" id="s-interview" style="color:var(--pro)">—</div><div class="stat-lbl">Interviews</div></div>
+</div>
+
+<div class="controls">
+  <input type="text" id="search" placeholder="Search company, role, sector…">
+  <select id="filterSector">
+    <option value="">All sectors</option>
+    <option value="iGaming">iGaming</option>
+    <option value="Fintech">Fintech</option>
+    <option value="Tech">Tech</option>
+    <option value="Automotive">Automotive</option>
+    <option value="Intl Org">Intl Org</option>
+  </select>
+  <select id="filterStatus">
+    <option value="">All statuses</option>
+    <option value="Not applied">Not applied</option>
+    <option value="Applied">Applied</option>
+    <option value="Interview">Interview</option>
+    <option value="Rejected">Rejected</option>
+    <option value="Offer">Offer</option>
+  </select>
+  <select id="filterAge">
+    <option value="">Any date</option>
+    <option value="3">Last 3 days</option>
+    <option value="7">Last 7 days</option>
+    <option value="14">Last 14 days</option>
+  </select>
+</div>
+
+<div class="tbl-wrap">
+  <table>
+    <thead>
+      <tr>
+        <th onclick="sort('company')">Company <span class="sort-arrow" id="arr-company"></span></th>
+        <th onclick="sort('role')">Role <span class="sort-arrow" id="arr-role"></span></th>
+        <th onclick="sort('sector')">Sector <span class="sort-arrow" id="arr-sector"></span></th>
+        <th onclick="sort('daysAgo')">Posted <span class="sort-arrow sorted" id="arr-daysAgo">▲</span></th>
+        <th onclick="sort('salary')">Salary (€k) <span class="sort-arrow" id="arr-salary"></span></th>
+        <th onclick="sort('status')">Status <span class="sort-arrow" id="arr-status"></span></th>
+        <th class="no-sort">Link</th>
+        <th class="no-sort"></th>
+      </tr>
+    </thead>
+    <tbody id="tbody"></tbody>
+  </table>
+</div>
+
+<div class="footer" id="footer-note">Loading live roles…</div>
+
+<!-- Add role modal -->
+<div class="modal-bg" id="modal-bg" onclick="closeModalOutside(event)">
+  <div class="modal">
+    <h2>Add a role manually</h2>
+    <div class="form-row"><label>Company</label><input id="f-company" placeholder="e.g. Bitpanda"></div>
+    <div class="form-row"><label>Role title</label><input id="f-role" placeholder="e.g. Senior Product Owner – Crypto"></div>
+    <div class="form-row"><label>Sector</label>
+      <select id="f-sector">
+        <option value="iGaming">iGaming</option>
+        <option value="Fintech">Fintech</option>
+        <option value="Tech" selected>Tech</option>
+        <option value="Automotive">Automotive</option>
+        <option value="Intl Org">Intl Org</option>
+      </select>
+    </div>
+    <div class="form-row"><label>Date posted</label><input type="date" id="f-posted"></div>
+    <div class="form-row"><label>Salary range (€k)</label><input id="f-salary" placeholder="e.g. 75–90"></div>
+    <div class="form-row"><label>Platform</label><input id="f-platform" placeholder="e.g. LinkedIn"></div>
+    <div class="form-row"><label>Direct job URL</label><input id="f-url" placeholder="https://…"></div>
+    <div class="modal-actions">
+      <button class="btn-cancel" onclick="closeModal()">Cancel</button>
+      <button class="btn-primary" onclick="addJob()">Add role</button>
+    </div>
+  </div>
+</div>
+
+<script>
+const MANUAL_KEY = 'po_tracker_manual_v1';
+const STATUS_KEY = 'po_tracker_statuses_v1';
+const today = new Date(); today.setHours(0,0,0,0);
+
+function daysAgo(d) { return Math.round((today - new Date(d)) / 86400000); }
+
+let liveJobs    = [];
+let manualJobs  = JSON.parse(localStorage.getItem(MANUAL_KEY) || '[]');
+let statuses    = JSON.parse(localStorage.getItem(STATUS_KEY) || '{}');
+let syncedAt    = null;
+let sortKey     = 'daysAgo', sortDir = 1;
+let nextId      = Math.max(0, ...manualJobs.map(j => j.id || 0)) + 1000;
+let newJobIds   = new Set();
+
+// ── Fetch live jobs.json ──────────────────────────────────────────────────────
+async function syncJobs() {
+  const el = document.getElementById('sync-status');
+  const lb = document.getElementById('sync-label');
+  try {
+    const res  = await fetch('jobs.json?t=' + Date.now());
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    const data = await res.json();
+
+    // mark newly added roles
+    const existingIds = new Set(liveJobs.map(j => String(j.id)));
+    liveJobs = (data.jobs || []).map(j => ({ ...j, _live: true }));
+    liveJobs.forEach(j => { if (!existingIds.has(String(j.id))) newJobIds.add(String(j.id)); });
+
+    syncedAt = data.synced_at ? new Date(data.synced_at) : new Date();
+    const timeStr = syncedAt.toLocaleTimeString('en-GB', { hour: '2-digit', minute: '2-digit' });
+    el.className = 'pill';
+    lb.textContent = 'Synced at ' + timeStr;
+    document.getElementById('footer-note').textContent =
+      liveJobs.length + ' live roles fetched from Adzuna · Next sync in ~6 hrs · Your status changes are saved in this browser.';
+  } catch (e) {
+    el.className = 'pill error';
+    lb.textContent = 'Live sync unavailable';
+    document.getElementById('footer-note').textContent =
+      'Could not load jobs.json — showing manually added roles only. Make sure you have committed jobs.json to your repo.';
+  }
+  render();
+}
+
+// ── Helpers ───────────────────────────────────────────────────────────────────
+const statusOpts = ['Not applied','Applied','Interview','Rejected','Offer'];
+
+function ageClass(d) { return d <= 3 ? 'fresh' : d <= 10 ? 'aging' : 'old'; }
+function ageLabel(d) { return d === 0 ? 'Today' : d === 1 ? 'Yesterday' : d + ' days ago'; }
+
+function sectorTag(s) {
+  const m = { iGaming:'tag-ig', Fintech:'tag-fin', Tech:'tag-tech', Automotive:'tag-auto', 'Intl Org':'tag-intl' };
+  return `<span class="tag ${m[s]||'tag-tech'}">${s}</span>`;
+}
+
+function allJobs() { return [...liveJobs, ...manualJobs]; }
+
+function statusOf(j) { return statuses[String(j.id)] || j.status || 'Not applied'; }
+
+// ── Render ────────────────────────────────────────────────────────────────────
+function render() {
+  const q  = document.getElementById('search').value.toLowerCase();
+  const fs = document.getElementById('filterSector').value;
+  const ft = document.getElementById('filterStatus').value;
+  const fa = parseInt(document.getElementById('filterAge').value) || 9999;
+
+  let rows = allJobs()
+    .map(j => ({ ...j, daysAgo: daysAgo(j.posted), _status: statusOf(j) }))
+    .filter(j =>
+      (!q  || (j.company + j.role + j.sector).toLowerCase().includes(q)) &&
+      (!fs || j.sector === fs) &&
+      (!ft || j._status === ft) &&
+      (j.daysAgo <= fa)
+    );
+
+  rows.sort((a, b) => {
+    const av = sortKey === 'daysAgo' ? a.daysAgo : (a[sortKey] || '');
+    const bv = sortKey === 'daysAgo' ? b.daysAgo : (b[sortKey] || '');
+    return sortDir * (av > bv ? 1 : av < bv ? -1 : 0);
+  });
+
+  const tbody = document.getElementById('tbody');
+  if (!rows.length) {
+    tbody.innerHTML = `<tr><td colspan="8" class="empty">No roles match your filters.</td></tr>`;
+    updateStats(); return;
+  }
+
+  tbody.innerHTML = rows.map(j => {
+    const sc = j._status === 'Applied' ? 'color:var(--accent-text)'
+             : j._status === 'Interview' ? 'color:var(--pro)'
+             : j._status === 'Offer'     ? 'color:var(--success)'
+             : j._status === 'Rejected'  ? 'color:var(--danger)' : '';
+    const opts = statusOpts.map(o => `<option${o===j._status?' selected':''}>${o}</option>`).join('');
+    const link = j.url
+      ? `<a class="view-btn" href="${j.url}" target="_blank" rel="noopener"><i class="ti ti-external-link" style="font-size:13px"></i> View</a>`
+      : `<span style="color:var(--text-muted);font-size:12px">—</span>`;
+    const badge = newJobIds.has(String(j.id)) ? `<span class="badge-new">New</span>` : '';
+    const isManual = !j._live;
+    return `<tr>
+      <td><div class="company-name">${j.company}${badge}</div><div class="platform-label">${j.platform||''}${isManual?' · manual':''}</div></td>
+      <td style="color:var(--text-secondary)">${j.role}</td>
+      <td>${sectorTag(j.sector)}</td>
+      <td class="${ageClass(j.daysAgo)}">${ageLabel(j.daysAgo)}</td>
+      <td style="color:var(--text-secondary)">${j.salary||'—'}</td>
+      <td><select class="status-sel" style="${sc}" onchange="updateStatus('${j.id}',this.value)">${opts}</select></td>
+      <td>${link}</td>
+      <td>${isManual ? `<button onclick="deleteManual(${j.id})" style="background:none;border:none;cursor:pointer;color:var(--text-muted);font-size:15px;padding:2px 4px" title="Remove"><i class="ti ti-trash"></i></button>` : ''}</td>
+    </tr>`;
+  }).join('');
+
+  updateStats();
+}
+
+function updateStats() {
+  const all = allJobs().map(j => ({ ...j, daysAgo: daysAgo(j.posted), _status: statusOf(j) }));
+  document.getElementById('s-total').textContent     = all.length;
+  document.getElementById('s-fresh').textContent     = all.filter(j => j.daysAgo <= 7).length;
+  document.getElementById('s-applied').textContent   = all.filter(j => ['Applied','Interview','Offer'].includes(j._status)).length;
+  document.getElementById('s-interview').textContent = all.filter(j => ['Interview','Offer'].includes(j._status)).length;
+}
+
+function updateStatus(id, val) {
+  statuses[String(id)] = val;
+  localStorage.setItem(STATUS_KEY, JSON.stringify(statuses));
+  updateStats();
+}
+
+function deleteManual(id) {
+  if (!confirm('Remove this role?')) return;
+  manualJobs = manualJobs.filter(j => j.id !== id);
+  localStorage.setItem(MANUAL_KEY, JSON.stringify(manualJobs));
+  render();
+}
+
+function sort(key) {
+  sortDir = sortKey === key ? sortDir * -1 : 1;
+  sortKey = key;
+  document.querySelectorAll('.sort-arrow').forEach(el => { el.textContent = ''; el.classList.remove('sorted'); });
+  const el = document.getElementById('arr-' + key);
+  if (el) { el.textContent = sortDir === 1 ? '▲' : '▼'; el.classList.add('sorted'); }
+  render();
+}
+
+// ── Modal ────────────────────────────────────────────────────────────────────
+function openModal() {
+  document.getElementById('modal-bg').classList.add('open');
+  document.getElementById('f-posted').value = new Date().toISOString().split('T')[0];
+}
+function closeModal() { document.getElementById('modal-bg').classList.remove('open'); }
+function closeModalOutside(e) { if (e.target === document.getElementById('modal-bg')) closeModal(); }
+
+function addJob() {
+  const company = document.getElementById('f-company').value.trim();
+  const role    = document.getElementById('f-role').value.trim();
+  if (!company || !role) { alert('Company and role title are required.'); return; }
+  const job = {
+    id:       nextId++,
+    company, role,
+    sector:   document.getElementById('f-sector').value,
+    posted:   document.getElementById('f-posted').value || new Date().toISOString().split('T')[0],
+    salary:   document.getElementById('f-salary').value.trim(),
+    platform: document.getElementById('f-platform').value.trim(),
+    url:      document.getElementById('f-url').value.trim(),
+    status:   'Not applied',
+  };
+  manualJobs.unshift(job);
+  localStorage.setItem(MANUAL_KEY, JSON.stringify(manualJobs));
+  closeModal();
+  ['f-company','f-role','f-salary','f-platform','f-url'].forEach(id => document.getElementById(id).value = '');
+  render();
+}
+
+['search','filterSector','filterStatus','filterAge'].forEach(id => {
+  document.getElementById(id).addEventListener('input', render);
+  document.getElementById(id).addEventListener('change', render);
+});
+
+syncJobs();
+</script>
+</body>
+</html>
