@@ -1,9 +1,31 @@
 {
-  "synced_at": "2026-07-22T15:43:22.584Z",
-  "count": 32,
+  "synced_at": "2026-07-22T18:55:31.671Z",
+  "count": 34,
   "jobs": [
     {
       "id": 1,
+      "company": "ACTIVE SOLUTION GmbH",
+      "role": "Support Product Owner (m/w/d)",
+      "sector": "Tech",
+      "posted": "2026-07-22",
+      "salary": "—",
+      "city": "Österreich",
+      "platform": "Adzuna",
+      "url": "https://www.adzuna.at/search?q=Support%20Product%20Owner%20(m%2Fw%2Fd)%20ACTIVE%20SOLUTION%20GmbH"
+    },
+    {
+      "id": 2,
+      "company": "ACTIVE SOLUTION GmbH",
+      "role": "Support Product Owner (m/w/d)",
+      "sector": "Tech",
+      "posted": "2026-07-22",
+      "salary": "—",
+      "city": "Linz, Oberösterreich",
+      "platform": "Adzuna",
+      "url": "https://www.adzuna.at/search?q=Support%20Product%20Owner%20(m%2Fw%2Fd)%20ACTIVE%20SOLUTION%20GmbH"
+    },
+    {
+      "id": 3,
       "company": "neeyo Austria GmbH",
       "role": "Senior Product Owner (m/w/d)",
       "sector": "Tech",
@@ -14,7 +36,7 @@
       "url": "https://www.adzuna.at/search?q=Senior%20Product%20Owner%20(m%2Fw%2Fd)%20neeyo%20Austria%20GmbH"
     },
     {
-      "id": 2,
+      "id": 4,
       "company": "IVM Technical Consultants",
       "role": "Support Product Owner*in (m/w/d)",
       "sector": "Tech",
@@ -25,7 +47,7 @@
       "url": "https://www.adzuna.at/search?q=Support%20Product%20Owner*in%20(m%2Fw%2Fd)%20IVM%20Technical%20Consultants"
     },
     {
-      "id": 3,
+      "id": 5,
       "company": "TechTalk GmbH",
       "role": "Project Manager / Product Owner AI und digitale Anwendungen (w/m/d)",
       "sector": "Tech",
@@ -47,7 +69,7 @@
       "url": "https://www.adzuna.at/search?q=Technical%20Product%20Manager%3Ain%20mit%20Fokus%20Software%20Architektur%20und%20AI%20(m%2Fw%2Fd)%20W%C3%BCstenrot%20Technology%20GmbH"
     },
     {
-      "id": 4,
+      "id": 6,
       "company": "RioRise",
       "role": "Product Owner",
       "sector": "Tech",
@@ -58,7 +80,7 @@
       "url": "https://www.adzuna.at/search?q=Product%20Owner%20RioRise"
     },
     {
-      "id": 5,
+      "id": 7,
       "company": "Fonds Soziales Wien",
       "role": "Product Owner:in Workflows & Collaboration Plattformen (26/06/FSW)",
       "sector": "Tech",
@@ -69,7 +91,7 @@
       "url": "https://www.adzuna.at/search?q=Product%20Owner%3Ain%20Workflows%20%26%20Collaboration%20Plattformen%20(26%2F06%2FFSW)%20Fonds%20Soziales%20Wien"
     },
     {
-      "id": 6,
+      "id": 8,
       "company": "SOLARYS Software GmbH",
       "role": "Product Owner syBOS (m/w/d)",
       "sector": "Tech",
@@ -80,7 +102,7 @@
       "url": "https://www.adzuna.at/search?q=Product%20Owner%20syBOS%20(m%2Fw%2Fd)%20SOLARYS%20Software%20GmbH"
     },
     {
-      "id": 7,
+      "id": 9,
       "company": "LTW Intralogistics GmbH",
       "role": "Product Owner LIOS WMS",
       "sector": "Automotive",
@@ -91,7 +113,7 @@
       "url": "https://www.adzuna.at/search?q=Product%20Owner%20LIOS%20WMS%20LTW%20Intralogistics%20GmbH"
     },
     {
-      "id": 8,
+      "id": 10,
       "company": "XXXLdigital - Part of XXXL Group",
       "role": "Senior Product Owner - Purchasing Platform (m/w/d)",
       "sector": "iGaming",
@@ -102,7 +124,7 @@
       "url": "https://www.adzuna.at/search?q=Senior%20Product%20Owner%20-%20Purchasing%20Platform%20(m%2Fw%2Fd)%20XXXLdigital%20-%20Part%20of%20XXXL%20Group"
     },
     {
-      "id": 9,
+      "id": 11,
       "company": "TechTalk GmbH",
       "role": "Product Owner Individuallösungen (m/w/d)",
       "sector": "Tech",
@@ -113,7 +135,7 @@
       "url": "https://www.adzuna.at/search?q=Product%20Owner%20Individuall%C3%B6sungen%20(m%2Fw%2Fd)%20TechTalk%20GmbH"
     },
     {
-      "id": 10,
+      "id": 12,
       "company": "Iventa. The Human Management Group",
       "role": "Product Owner (w/m/d) - Software & Deployment",
       "sector": "Tech",
@@ -124,7 +146,7 @@
       "url": "https://www.adzuna.at/search?q=Product%20Owner%20(w%2Fm%2Fd)%20-%20Software%20%26%20Deployment%20Iventa.%20The%20Human%20Management%20Group"
     },
     {
-      "id": 11,
+      "id": 13,
       "company": "STRABAG BRVZ GMBH",
       "role": "Product Owner:in - HR IT Systems",
       "sector": "Tech",
@@ -135,7 +157,7 @@
       "url": "https://www.adzuna.at/search?q=Product%20Owner%3Ain%20-%20HR%20IT%20Systems%20STRABAG%20BRVZ%20GMBH"
     },
     {
-      "id": 12,
+      "id": 14,
       "company": "TechTalk GmbH",
       "role": "Senior Product Owner – Platforms & Support (PsSt) Team (m/w/d)",
       "sector": "Tech",
@@ -146,7 +168,7 @@
       "url": "https://www.adzuna.at/search?q=Senior%20Product%20Owner%20%E2%80%93%20Platforms%20%26%20Support%20(PsSt)%20Team%20(m%2Fw%2Fd)%20TechTalk%20GmbH"
     },
     {
-      "id": 13,
+      "id": 15,
       "company": "Fabasoft International Services GmbH",
       "role": "Product Owner Frontend Development (w/m/d)",
       "sector": "Tech",
@@ -157,7 +179,7 @@
       "url": "https://www.adzuna.at/search?q=Product%20Owner%20Frontend%20Development%20(w%2Fm%2Fd)%20Fabasoft%20International%20Services%20GmbH"
     },
     {
-      "id": 14,
+      "id": 16,
       "company": "Hitachi Rail Austria GmbH",
       "role": "Product Owner / Lead - Devops-Team (f/m/d)",
       "sector": "Automotive",
@@ -168,7 +190,7 @@
       "url": "https://www.adzuna.at/search?q=Product%20Owner%20%2F%20Lead%20-%20Devops-Team%20(f%2Fm%2Fd)%20Hitachi%20Rail%20Austria%20GmbH"
     },
     {
-      "id": 15,
+      "id": 30,
       "company": "efsta IT Services GmbH",
       "role": "Technical Product Manager (m/w/d)",
       "sector": "Tech",
@@ -179,7 +201,7 @@
       "url": "https://www.adzuna.at/search?q=Technical%20Product%20Manager%20(m%2Fw%2Fd)%20efsta%20IT%20Services%20GmbH"
     },
     {
-      "id": 16,
+      "id": 31,
       "company": "Squer",
       "role": "Lead Engineer - Applied AI & Data Products",
       "sector": "Tech",
@@ -190,7 +212,7 @@
       "url": "https://www.adzuna.at/search?q=Lead%20Engineer%20-%20Applied%20AI%20%26%20Data%20Products%20Squer"
     },
     {
-      "id": 30,
+      "id": 32,
       "company": "SQUER",
       "role": "Lead Engineer - Applied AI & Data Products",
       "sector": "Tech",
@@ -278,7 +300,7 @@
       "url": "https://www.adzuna.at/search?q=Senior%20Product%20Owner%20-%20Purchasing%20Platform%20(m%2Fw%2Fd)%20XXXLdigital%20%E2%80%93%20Part%20of%20XXXL%20Group"
     },
     {
-      "id": 31,
+      "id": 33,
       "company": "deltaconX",
       "role": "Technical Product Manager / Owner",
       "sector": "Tech",
@@ -333,7 +355,7 @@
       "url": "https://www.adzuna.at/search?q=Senior%20Product%20Owner%20f%C3%BCr%20digitale%20Versicherungsl%C3%B6sungen%20(m%2Fw%2Fd)%20W%C3%BCstenrot%20Technology%20GmbH"
     },
     {
-      "id": 32,
+      "id": 34,
       "company": "Leonhard Lang GmbH",
       "role": "Technical Product Manager",
       "sector": "Tech",
