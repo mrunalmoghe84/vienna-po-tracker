@@ -31,7 +31,7 @@ function guessSector(title, company, desc) {
 
 function buildStableUrl(title, company) {
   const query = encodeURIComponent(`${title} ${company}`.trim());
-  return `https://www.adzuna.at/search?q=${query}&loc=Austria`;
+  return `https://www.adzuna.at/search?q=${query}`;
 }
 
 async function fetchJobs(query) {
@@ -40,23 +40,15 @@ async function fetchJobs(query) {
   url.searchParams.set('app_key', APP_KEY);
   url.searchParams.set('results_per_page', '20');
   url.searchParams.set('what', query);
-  url.searchParams.set('where', 'Austria');
+  // no 'where' param — /at/ endpoint already scopes to all of Austria
   url.searchParams.set('sort_by', 'date');
 
-  console.log(`  API URL: ${url.toString().replace(APP_KEY, '***')}`);
-
   const res = await fetch(url.toString());
-  if (!res.ok) {
-    console.warn(`  Failed for "${query}": HTTP ${res.status}`);
-    return [];
-  }
+  if (!res.ok) { console.warn(`Failed for "${query}": HTTP ${res.status}`); return []; }
   const data = await res.json();
   const results = data.results || [];
-  console.log(`  Raw results returned: ${results.length}`);
-
-  // log every title so we can see what's coming back
-  results.forEach(r => console.log(`    → "${r.title}" @ ${r.company?.display_name}`));
-
+  console.log(`  Results: ${results.length}`);
+  results.forEach(r => console.log(`    → "${r.title}" @ ${r.company?.display_name} [${r.location?.display_name}]`));
   return results;
 }
 
@@ -64,28 +56,19 @@ async function main() {
   const seen = new Set();
   const jobs = [];
   let idSeq = 1;
-  let totalRaw = 0;
-  let totalFiltered = 0;
 
   for (const query of SEARCHES) {
     console.log(`\nFetching: "${query}"...`);
     const results = await fetchJobs(query);
-    totalRaw += results.length;
 
     for (const r of results) {
-      if (seen.has(r.id)) { console.log(`  Skipped duplicate: ${r.title}`); continue; }
+      if (seen.has(r.id)) continue;
       seen.add(r.id);
+      if (!/product|owner|manager/i.test(r.title||'')) continue;
 
       const title   = r.title || '';
       const company = r.company?.display_name || '';
-
-      // log what gets filtered out
-      const passes = /product|owner|manager/i.test(title);
-      if (!passes) {
-        console.log(`  Filtered out: "${title}"`);
-        totalFiltered++;
-        continue;
-      }
+      const city    = r.location?.display_name || 'Austria';
 
       jobs.push({
         id:       idSeq++,
@@ -96,17 +79,13 @@ async function main() {
         salary:   r.salary_min && r.salary_max
                     ? `${Math.round(r.salary_min/1000)}–${Math.round(r.salary_max/1000)}`
                     : '—',
+        city,
         platform: 'Adzuna',
         url:      buildStableUrl(title, company),
       });
     }
     await new Promise(r => setTimeout(r, 500));
   }
-
-  console.log(`\n--- Summary ---`);
-  console.log(`Total raw results: ${totalRaw}`);
-  console.log(`Filtered out:      ${totalFiltered}`);
-  console.log(`Jobs written:      ${jobs.length}`);
 
   jobs.sort((a, b) => new Date(b.posted) - new Date(a.posted));
 
@@ -116,7 +95,7 @@ async function main() {
     jobs
   }, null, 2));
 
-  console.log(`Wrote ${jobs.length} jobs to jobs.json`);
+  console.log(`\nWrote ${jobs.length} jobs to jobs.json`);
 }
 
 main().catch(err => { console.error(err); process.exit(1); });
