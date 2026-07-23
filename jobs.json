@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-07-22T19:43:00.603Z",
+  "synced_at": "2026-07-23T01:44:30.089Z",
   "source": "LinkedIn via Apify (last 24h)",
   "count": 20,
   "jobs": [
     {
-      "id": 5,
+      "id": 9,
       "company": "DEVjobs",
       "role": "Product Owner @ XiTrust",
       "sector": "Tech",
@@ -40,7 +40,7 @@
       "experienceLevel": "Associate"
     },
     {
-      "id": 3,
+      "id": 6,
       "company": "UNIQA Insurance Group",
       "role": "Product Owner Group Automation ART (m/w/d)",
       "sector": "Fintech",
@@ -76,43 +76,7 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 6,
-      "company": "Prewave",
-      "role": "Product Manager (f/m/d) - ID:2692276",
-      "sector": "Tech",
-      "posted": "2026-07-22",
-      "salary": "—",
-      "city": "Vienna",
-      "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/product-manager-f-m-d-id-2692276-at-prewave-4443764894?trk=public_jobs_topcard-title",
-      "status": "Not applied",
-      "fitScore": 49,
-      "matchedKeywords": [
-        "Product Management",
-        "Stakeholder Management",
-        "LLM",
-        "Cross-functional"
-      ],
-      "unmatchedKeywords": [
-        "Product Owner",
-        "Agile",
-        "Backlog Prioritisation",
-        "User Story",
-        "Product Roadmap",
-        "API",
-        "iGaming",
-        "Payments",
-        "UAT",
-        "JIRA",
-        "Data-driven",
-        "CBAP"
-      ],
-      "applicationsCount": "",
-      "contractType": "Full-time",
-      "experienceLevel": "Mid-Senior level"
-    },
-    {
-      "id": 11,
+      "id": 3,
       "company": "LexisNexis",
       "role": "Product Manager (m/w/d)",
       "sector": "Tech",
@@ -148,7 +112,43 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 4,
+      "id": 14,
+      "company": "Prewave",
+      "role": "Product Manager (f/m/d) - ID:2692276",
+      "sector": "Tech",
+      "posted": "2026-07-22",
+      "salary": "—",
+      "city": "Vienna",
+      "platform": "LinkedIn",
+      "url": "https://at.linkedin.com/jobs/view/product-manager-f-m-d-id-2692276-at-prewave-4443764894?trk=public_jobs_topcard-title",
+      "status": "Not applied",
+      "fitScore": 49,
+      "matchedKeywords": [
+        "Product Management",
+        "Stakeholder Management",
+        "LLM",
+        "Cross-functional"
+      ],
+      "unmatchedKeywords": [
+        "Product Owner",
+        "Agile",
+        "Backlog Prioritisation",
+        "User Story",
+        "Product Roadmap",
+        "API",
+        "iGaming",
+        "Payments",
+        "UAT",
+        "JIRA",
+        "Data-driven",
+        "CBAP"
+      ],
+      "applicationsCount": "",
+      "contractType": "Full-time",
+      "experienceLevel": "Mid-Senior level"
+    },
+    {
+      "id": 1,
       "company": "LATIDO",
       "role": "Product Owner Regulatorik (e-Health) (m/w/x)",
       "sector": "Tech",
@@ -184,7 +184,7 @@
       "experienceLevel": "Director"
     },
     {
-      "id": 19,
+      "id": 11,
       "company": "Agoda",
       "role": "Senior Product Manager (Bangkok-based)",
       "sector": "Tech",
@@ -220,7 +220,7 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 17,
+      "id": 18,
       "company": "Qualysoft",
       "role": "Business Analyst – OneShop Rollout",
       "sector": "Tech",
@@ -257,42 +257,6 @@
     },
     {
       "id": 8,
-      "company": "Hödlmayr International AG",
-      "role": "Senior Business Analyst/ Requirements Engineer (m/ w/ d)",
-      "sector": "Tech",
-      "posted": "2026-07-22",
-      "salary": "—",
-      "city": "Schwertberg",
-      "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/senior-business-analyst-requirements-engineer-m-w-d-at-h%C3%B6dlmayr-international-ag-4402965980?trk=public_jobs_topcard-title",
-      "status": "Not applied",
-      "fitScore": 26,
-      "matchedKeywords": [
-        "User Story",
-        "UAT",
-        "JIRA"
-      ],
-      "unmatchedKeywords": [
-        "Product Owner",
-        "Product Management",
-        "Agile",
-        "Backlog Prioritisation",
-        "Stakeholder Management",
-        "Product Roadmap",
-        "LLM",
-        "API",
-        "iGaming",
-        "Payments",
-        "Cross-functional",
-        "Data-driven",
-        "CBAP"
-      ],
-      "applicationsCount": "Be among the first 25 applicants",
-      "contractType": "Full-time",
-      "experienceLevel": "Not Applicable"
-    },
-    {
-      "id": 18,
       "company": "UNIQA Insurance Group",
       "role": "IT Business Analyst (w/m/d) - Property, Casualty und OMDS",
       "sector": "Fintech",
@@ -328,7 +292,43 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 15,
+      "id": 12,
+      "company": "Hödlmayr International AG",
+      "role": "Senior Business Analyst/ Requirements Engineer (m/ w/ d)",
+      "sector": "Tech",
+      "posted": "2026-07-22",
+      "salary": "—",
+      "city": "Schwertberg",
+      "platform": "LinkedIn",
+      "url": "https://at.linkedin.com/jobs/view/senior-business-analyst-requirements-engineer-m-w-d-at-h%C3%B6dlmayr-international-ag-4402965980?trk=public_jobs_topcard-title",
+      "status": "Not applied",
+      "fitScore": 26,
+      "matchedKeywords": [
+        "User Story",
+        "UAT",
+        "JIRA"
+      ],
+      "unmatchedKeywords": [
+        "Product Owner",
+        "Product Management",
+        "Agile",
+        "Backlog Prioritisation",
+        "Stakeholder Management",
+        "Product Roadmap",
+        "LLM",
+        "API",
+        "iGaming",
+        "Payments",
+        "Cross-functional",
+        "Data-driven",
+        "CBAP"
+      ],
+      "applicationsCount": "Be among the first 25 applicants",
+      "contractType": "Full-time",
+      "experienceLevel": "Not Applicable"
+    },
+    {
+      "id": 17,
       "company": "UNIQA Insurance Group",
       "role": "IT Business Analyst (f/m/d) - Property, Casualty and OMDS",
       "sector": "Fintech",
@@ -364,7 +364,7 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 9,
+      "id": 5,
       "company": "UNIQA Insurance Group",
       "role": "Projektleiter:in Prozessautomatisierung",
       "sector": "Fintech",
@@ -400,7 +400,7 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 16,
+      "id": 15,
       "company": "TGW Logistics",
       "role": "Mechatronics Development Manager - Rovosphere (M/F/D)*",
       "sector": "Tech",
@@ -436,7 +436,7 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 1,
+      "id": 2,
       "company": "Oberbank",
       "role": "Senior Atlassian Developer (w/m/d)",
       "sector": "Fintech",
@@ -472,22 +472,23 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 2,
-      "company": "Oberbank SK",
-      "role": "Senior Atlassian Developer (w/m/d)",
-      "sector": "Fintech",
-      "posted": "2026-07-21",
+      "id": 7,
+      "company": "Sportradar",
+      "role": "Business Development Analyst (m/f/d)",
+      "sector": "iGaming",
+      "posted": "2026-07-22",
       "salary": "—",
-      "city": "Linz",
+      "city": "Vienna",
       "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/senior-atlassian-developer-w-m-d-at-oberbank-sk-4441014535?trk=public_jobs_topcard-title",
+      "url": "https://at.linkedin.com/jobs/view/business-development-analyst-m-f-d-at-sportradar-4443781390?trk=public_jobs_topcard-title",
       "status": "Not applied",
       "fitScore": 15,
       "matchedKeywords": [
-        "Product Owner",
-        "JIRA"
+        "Cross-functional",
+        "Data-driven"
       ],
       "unmatchedKeywords": [
+        "Product Owner",
         "Product Management",
         "Agile",
         "Backlog Prioritisation",
@@ -499,16 +500,15 @@
         "iGaming",
         "Payments",
         "UAT",
-        "Cross-functional",
-        "Data-driven",
+        "JIRA",
         "CBAP"
       ],
       "applicationsCount": "Be among the first 25 applicants",
-      "contractType": "Full-time",
-      "experienceLevel": "Not Applicable"
+      "contractType": "Contract",
+      "experienceLevel": "Mid-Senior level"
     },
     {
-      "id": 7,
+      "id": 19,
       "company": "MOBILIZE Talent Acquisition",
       "role": "Product Marketing, Pricing & Portfolio Planning Manager (Private Automotive Importer)",
       "sector": "Automotive",
@@ -545,78 +545,6 @@
     },
     {
       "id": 10,
-      "company": "Sportradar",
-      "role": "Business Development Analyst (m/f/d)",
-      "sector": "iGaming",
-      "posted": "2026-07-22",
-      "salary": "—",
-      "city": "Vienna",
-      "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/business-development-analyst-m-f-d-at-sportradar-4443781390?trk=public_jobs_topcard-title",
-      "status": "Not applied",
-      "fitScore": 15,
-      "matchedKeywords": [
-        "Cross-functional",
-        "Data-driven"
-      ],
-      "unmatchedKeywords": [
-        "Product Owner",
-        "Product Management",
-        "Agile",
-        "Backlog Prioritisation",
-        "Stakeholder Management",
-        "User Story",
-        "Product Roadmap",
-        "LLM",
-        "API",
-        "iGaming",
-        "Payments",
-        "UAT",
-        "JIRA",
-        "CBAP"
-      ],
-      "applicationsCount": "Be among the first 25 applicants",
-      "contractType": "Contract",
-      "experienceLevel": "Mid-Senior level"
-    },
-    {
-      "id": 12,
-      "company": "Corza Medical",
-      "role": "IT Business Systems Analyst - Quality",
-      "sector": "Tech",
-      "posted": "2026-07-22",
-      "salary": "—",
-      "city": "Linz",
-      "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/it-business-systems-analyst-quality-at-corza-medical-4435186247?trk=public_jobs_topcard-title",
-      "status": "Not applied",
-      "fitScore": 11,
-      "matchedKeywords": [
-        "Stakeholder Management"
-      ],
-      "unmatchedKeywords": [
-        "Product Owner",
-        "Product Management",
-        "Agile",
-        "Backlog Prioritisation",
-        "User Story",
-        "Product Roadmap",
-        "LLM",
-        "API",
-        "iGaming",
-        "Payments",
-        "UAT",
-        "JIRA",
-        "Cross-functional",
-        "Data-driven",
-        "CBAP"
-      ],
-      "applicationsCount": "Be among the first 25 applicants",
-      "contractType": "Full-time",
-      "experienceLevel": "Not Applicable"
-    },
-    {
-      "id": 13,
       "company": "Corza Medical",
       "role": "Senior IT Business Systems Analyst - ERP",
       "sector": "Tech",
@@ -652,7 +580,43 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 14,
+      "id": 13,
+      "company": "Corza Medical",
+      "role": "IT Business Systems Analyst - Quality",
+      "sector": "Tech",
+      "posted": "2026-07-22",
+      "salary": "—",
+      "city": "Linz",
+      "platform": "LinkedIn",
+      "url": "https://at.linkedin.com/jobs/view/it-business-systems-analyst-quality-at-corza-medical-4435186247?trk=public_jobs_topcard-title",
+      "status": "Not applied",
+      "fitScore": 11,
+      "matchedKeywords": [
+        "Stakeholder Management"
+      ],
+      "unmatchedKeywords": [
+        "Product Owner",
+        "Product Management",
+        "Agile",
+        "Backlog Prioritisation",
+        "User Story",
+        "Product Roadmap",
+        "LLM",
+        "API",
+        "iGaming",
+        "Payments",
+        "UAT",
+        "JIRA",
+        "Cross-functional",
+        "Data-driven",
+        "CBAP"
+      ],
+      "applicationsCount": "Be among the first 25 applicants",
+      "contractType": "Full-time",
+      "experienceLevel": "Not Applicable"
+    },
+    {
+      "id": 16,
       "company": "TGW Logistics",
       "role": "Manager:in of Mechatronic Development - Rovosphere (M/W/D)*",
       "sector": "Tech",
@@ -686,6 +650,41 @@
       "applicationsCount": "Be among the first 25 applicants",
       "contractType": "Full-time",
       "experienceLevel": "Not Applicable"
+    },
+    {
+      "id": 4,
+      "company": "NXP Semiconductors",
+      "role": "Product Security Incident Response Manager (m/f/d)",
+      "sector": "Tech",
+      "posted": "2026-07-22",
+      "salary": "—",
+      "city": "Gratkorn",
+      "platform": "LinkedIn",
+      "url": "https://at.linkedin.com/jobs/view/product-security-incident-response-manager-m-f-d-at-nxp-semiconductors-4443988656?trk=public_jobs_topcard-title",
+      "status": "Not applied",
+      "fitScore": 8,
+      "matchedKeywords": [],
+      "unmatchedKeywords": [
+        "Product Owner",
+        "Product Management",
+        "Agile",
+        "Backlog Prioritisation",
+        "Stakeholder Management",
+        "User Story",
+        "Product Roadmap",
+        "LLM",
+        "API",
+        "iGaming",
+        "Payments",
+        "UAT",
+        "JIRA",
+        "Cross-functional",
+        "Data-driven",
+        "CBAP"
+      ],
+      "applicationsCount": "Be among the first 25 applicants",
+      "contractType": "Full-time",
+      "experienceLevel": "Mid-Senior level"
     },
     {
       "id": 20,
