@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-07-23T18:57:16.868Z",
+  "synced_at": "2026-07-24T01:28:57.748Z",
   "source": "LinkedIn via Apify (last 24h)",
-  "count": 31,
+  "count": 29,
   "jobs": [
     {
-      "id": 15,
+      "id": 6,
       "company": "Dedalus",
       "role": "Product Owner (m/f/d) High Acuity Care",
       "sector": "Tech",
@@ -40,7 +40,7 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 26,
+      "id": 1,
       "company": "Anton Paar",
       "role": "Product Owner XRD Software (f/m/x)",
       "sector": "Tech",
@@ -76,7 +76,7 @@
       "experienceLevel": "Mid-Senior level"
     },
     {
-      "id": 12,
+      "id": 2,
       "company": "EY",
       "role": "AI Product Owner | AI Transformation (w/m/d)",
       "sector": "Tech",
@@ -112,7 +112,7 @@
       "experienceLevel": "Mid-Senior level"
     },
     {
-      "id": 13,
+      "id": 3,
       "company": "UNIQA Insurance Group",
       "role": "Product Owner:in Raiffeisen Versicherung Portal (Bancassurance / POS-System)",
       "sector": "Fintech",
@@ -148,7 +148,7 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 27,
+      "id": 26,
       "company": "REWE International AG",
       "role": "Chief Product Owner CRM Services (m/w/x)",
       "sector": "Tech",
@@ -184,7 +184,7 @@
       "experienceLevel": "Mid-Senior level"
     },
     {
-      "id": 2,
+      "id": 10,
       "company": "XXXLdigital – Part of XXXL Group",
       "role": "Product Manager – Produkt Compliance & Qualitätsmanagement (m/w/d)",
       "sector": "Tech",
@@ -220,7 +220,7 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 16,
+      "id": 22,
       "company": "REWE International AG",
       "role": "Product Owner (m/w/x) - Customer Masterdata",
       "sector": "Tech",
@@ -256,43 +256,7 @@
       "experienceLevel": "Mid-Senior level"
     },
     {
-      "id": 1,
-      "company": "Red Bull",
-      "role": "Product Manager - Point of Sale and Trade Marketing Materials",
-      "sector": "Tech",
-      "posted": "2026-07-23",
-      "salary": "—",
-      "city": "Elsbethen",
-      "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/product-manager-point-of-sale-and-trade-marketing-materials-at-red-bull-4436343796?trk=public_jobs_topcard-title",
-      "status": "Not applied",
-      "fitScore": 43,
-      "matchedKeywords": [
-        "Product Management",
-        "Cross-functional"
-      ],
-      "unmatchedKeywords": [
-        "Product Owner",
-        "Agile",
-        "Backlog Prioritisation",
-        "Stakeholder Management",
-        "User Story",
-        "Product Roadmap",
-        "LLM",
-        "API",
-        "iGaming",
-        "Payments",
-        "UAT",
-        "JIRA",
-        "Data-driven",
-        "CBAP"
-      ],
-      "applicationsCount": "",
-      "contractType": "Full-time",
-      "experienceLevel": "Associate"
-    },
-    {
-      "id": 4,
+      "id": 9,
       "company": "Frequentis",
       "role": "Lifecycle Product Manager – Voice Communication System (VCS3020X) (all genders) - DE",
       "sector": "Tech",
@@ -328,24 +292,24 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 10,
-      "company": "Agoda",
-      "role": "Senior Product Manager (Bangkok-based)",
+      "id": 19,
+      "company": "Red Bull",
+      "role": "Product Manager - Point of Sale and Trade Marketing Materials",
       "sector": "Tech",
-      "posted": "2026-07-22",
+      "posted": "2026-07-23",
       "salary": "—",
-      "city": "Vienna",
+      "city": "Elsbethen",
       "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/senior-product-manager-bangkok-based-at-agoda-4299760850?trk=public_jobs_topcard-title",
+      "url": "https://at.linkedin.com/jobs/view/product-manager-point-of-sale-and-trade-marketing-materials-at-red-bull-4436343796?trk=public_jobs_topcard-title",
       "status": "Not applied",
       "fitScore": 43,
       "matchedKeywords": [
-        "Agile",
-        "Data-driven"
+        "Product Management",
+        "Cross-functional"
       ],
       "unmatchedKeywords": [
         "Product Owner",
-        "Product Management",
+        "Agile",
         "Backlog Prioritisation",
         "Stakeholder Management",
         "User Story",
@@ -356,15 +320,15 @@
         "Payments",
         "UAT",
         "JIRA",
-        "Cross-functional",
+        "Data-driven",
         "CBAP"
       ],
       "applicationsCount": "",
       "contractType": "Full-time",
-      "experienceLevel": "Not Applicable"
+      "experienceLevel": "Associate"
     },
     {
-      "id": 7,
+      "id": 12,
       "company": "acctus Personalberatung GmbH",
       "role": "Product Manager FMCG w/m/d",
       "sector": "Tech",
@@ -400,7 +364,7 @@
       "experienceLevel": "Associate"
     },
     {
-      "id": 14,
+      "id": 28,
       "company": "Eurotours",
       "role": "Senior Product Manager Self-Drive (m/w/d)",
       "sector": "Tech",
@@ -435,79 +399,7 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 17,
-      "company": "ADMIRAL Technologies",
-      "role": "Test Automation Engineer C# (m/f/x)",
-      "sector": "Automotive",
-      "posted": "2026-07-23",
-      "salary": "—",
-      "city": "Vienna",
-      "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/test-automation-engineer-c%23-m-f-x-at-admiral-technologies-4443871193?trk=public_jobs_topcard-title",
-      "status": "Not applied",
-      "fitScore": 24,
-      "matchedKeywords": [
-        "Product Owner",
-        "Agile",
-        "API",
-        "iGaming",
-        "JIRA"
-      ],
-      "unmatchedKeywords": [
-        "Product Management",
-        "Backlog Prioritisation",
-        "Stakeholder Management",
-        "User Story",
-        "Product Roadmap",
-        "LLM",
-        "Payments",
-        "UAT",
-        "Cross-functional",
-        "Data-driven",
-        "CBAP"
-      ],
-      "applicationsCount": "Be among the first 25 applicants",
-      "contractType": "Full-time",
-      "experienceLevel": "Associate"
-    },
-    {
-      "id": 20,
-      "company": "zooplus",
-      "role": "Senior Software Engineer - Python (All Genders)",
-      "sector": "Tech",
-      "posted": "2026-07-23",
-      "salary": "—",
-      "city": "Vienna",
-      "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/senior-software-engineer-python-all-genders-at-zooplus-4441519746?trk=public_jobs_topcard-title",
-      "status": "Not applied",
-      "fitScore": 24,
-      "matchedKeywords": [
-        "Product Owner",
-        "Agile",
-        "LLM",
-        "Payments",
-        "Cross-functional"
-      ],
-      "unmatchedKeywords": [
-        "Product Management",
-        "Backlog Prioritisation",
-        "Stakeholder Management",
-        "User Story",
-        "Product Roadmap",
-        "API",
-        "iGaming",
-        "UAT",
-        "JIRA",
-        "Data-driven",
-        "CBAP"
-      ],
-      "applicationsCount": "Be among the first 25 applicants",
-      "contractType": "Full-time",
-      "experienceLevel": "Not Applicable"
-    },
-    {
-      "id": 21,
+      "id": 4,
       "company": "Bitpanda",
       "role": "Senior Product Marketing Specialist",
       "sector": "Tech",
@@ -543,7 +435,79 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 6,
+      "id": 25,
+      "company": "ADMIRAL Technologies",
+      "role": "Test Automation Engineer C# (m/f/x)",
+      "sector": "Automotive",
+      "posted": "2026-07-23",
+      "salary": "—",
+      "city": "Vienna",
+      "platform": "LinkedIn",
+      "url": "https://at.linkedin.com/jobs/view/test-automation-engineer-c%23-m-f-x-at-admiral-technologies-4443871193?trk=public_jobs_topcard-title",
+      "status": "Not applied",
+      "fitScore": 24,
+      "matchedKeywords": [
+        "Product Owner",
+        "Agile",
+        "API",
+        "iGaming",
+        "JIRA"
+      ],
+      "unmatchedKeywords": [
+        "Product Management",
+        "Backlog Prioritisation",
+        "Stakeholder Management",
+        "User Story",
+        "Product Roadmap",
+        "LLM",
+        "Payments",
+        "UAT",
+        "Cross-functional",
+        "Data-driven",
+        "CBAP"
+      ],
+      "applicationsCount": "Be among the first 25 applicants",
+      "contractType": "Full-time",
+      "experienceLevel": "Associate"
+    },
+    {
+      "id": 29,
+      "company": "zooplus",
+      "role": "Senior Software Engineer - Python (All Genders)",
+      "sector": "Tech",
+      "posted": "2026-07-23",
+      "salary": "—",
+      "city": "Vienna",
+      "platform": "LinkedIn",
+      "url": "https://at.linkedin.com/jobs/view/senior-software-engineer-python-all-genders-at-zooplus-4441519746?trk=public_jobs_topcard-title",
+      "status": "Not applied",
+      "fitScore": 24,
+      "matchedKeywords": [
+        "Product Owner",
+        "Agile",
+        "LLM",
+        "Payments",
+        "Cross-functional"
+      ],
+      "unmatchedKeywords": [
+        "Product Management",
+        "Backlog Prioritisation",
+        "Stakeholder Management",
+        "User Story",
+        "Product Roadmap",
+        "API",
+        "iGaming",
+        "UAT",
+        "JIRA",
+        "Data-driven",
+        "CBAP"
+      ],
+      "applicationsCount": "Be among the first 25 applicants",
+      "contractType": "Full-time",
+      "experienceLevel": "Not Applicable"
+    },
+    {
+      "id": 14,
       "company": "PKE",
       "role": "Senior Test Automation Engineer (m/w/d) – Gefahrenmanagementsysteme",
       "sector": "Automotive",
@@ -579,7 +543,7 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 8,
+      "id": 20,
       "company": "BRP-Rotax",
       "role": "Business Analyst - Global Sourcing (m/w/d)",
       "sector": "Tech",
@@ -615,43 +579,7 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 24,
-      "company": "TGW Logistics",
-      "role": "Teamlead Software Development Simulation (M/F/D)*",
-      "sector": "Tech",
-      "posted": "2026-07-23",
-      "salary": "—",
-      "city": "Wels",
-      "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/teamlead-software-development-simulation-m-f-d-at-tgw-logistics-4413353240?trk=public_jobs_topcard-title",
-      "status": "Not applied",
-      "fitScore": 18,
-      "matchedKeywords": [
-        "Product Owner",
-        "Agile",
-        "UAT"
-      ],
-      "unmatchedKeywords": [
-        "Product Management",
-        "Backlog Prioritisation",
-        "Stakeholder Management",
-        "User Story",
-        "Product Roadmap",
-        "LLM",
-        "API",
-        "iGaming",
-        "Payments",
-        "JIRA",
-        "Cross-functional",
-        "Data-driven",
-        "CBAP"
-      ],
-      "applicationsCount": "Be among the first 25 applicants",
-      "contractType": "Full-time",
-      "experienceLevel": "Not Applicable"
-    },
-    {
-      "id": 31,
+      "id": 5,
       "company": "Roche",
       "role": "Business Analytics Lead (m/f/d)",
       "sector": "Tech",
@@ -687,7 +615,43 @@
       "experienceLevel": "Associate"
     },
     {
-      "id": 3,
+      "id": 23,
+      "company": "TGW Logistics",
+      "role": "Teamlead Software Development Simulation (M/F/D)*",
+      "sector": "Tech",
+      "posted": "2026-07-23",
+      "salary": "—",
+      "city": "Wels",
+      "platform": "LinkedIn",
+      "url": "https://at.linkedin.com/jobs/view/teamlead-software-development-simulation-m-f-d-at-tgw-logistics-4413353240?trk=public_jobs_topcard-title",
+      "status": "Not applied",
+      "fitScore": 18,
+      "matchedKeywords": [
+        "Product Owner",
+        "Agile",
+        "UAT"
+      ],
+      "unmatchedKeywords": [
+        "Product Management",
+        "Backlog Prioritisation",
+        "Stakeholder Management",
+        "User Story",
+        "Product Roadmap",
+        "LLM",
+        "API",
+        "iGaming",
+        "Payments",
+        "JIRA",
+        "Cross-functional",
+        "Data-driven",
+        "CBAP"
+      ],
+      "applicationsCount": "Be among the first 25 applicants",
+      "contractType": "Full-time",
+      "experienceLevel": "Not Applicable"
+    },
+    {
+      "id": 15,
       "company": "Wüstenrot Gruppe",
       "role": "Business Analyst:in Regulatory Reporting (m/w/d)",
       "sector": "Tech",
@@ -722,7 +686,7 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 23,
+      "id": 17,
       "company": "ÖBB",
       "role": "Business Analyst:in – Schwerpunkt HR",
       "sector": "Tech",
@@ -757,7 +721,7 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 25,
+      "id": 24,
       "company": "REWE International AG",
       "role": "IT Business Analyst (m/w/x) I Pricing & Product Signage",
       "sector": "Tech",
@@ -792,79 +756,7 @@
       "experienceLevel": "Associate"
     },
     {
-      "id": 9,
-      "company": "talentbird GmbH",
-      "role": "Senior IT Projekt Manager (w/m/d)",
-      "sector": "Tech",
-      "posted": "2026-07-23",
-      "salary": "—",
-      "city": "Vienna",
-      "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/senior-it-projekt-manager-w-m-d-at-talentbird-gmbh-4434848145?trk=public_jobs_topcard-title",
-      "status": "Not applied",
-      "fitScore": 15,
-      "matchedKeywords": [
-        "Product Owner",
-        "Agile"
-      ],
-      "unmatchedKeywords": [
-        "Product Management",
-        "Backlog Prioritisation",
-        "Stakeholder Management",
-        "User Story",
-        "Product Roadmap",
-        "LLM",
-        "API",
-        "iGaming",
-        "Payments",
-        "UAT",
-        "JIRA",
-        "Cross-functional",
-        "Data-driven",
-        "CBAP"
-      ],
-      "applicationsCount": "",
-      "contractType": "Full-time",
-      "experienceLevel": "Associate"
-    },
-    {
-      "id": 19,
-      "company": "PKE",
-      "role": "Senior QA Engineer (m/w/d) & Testautomation - Plattformservices",
-      "sector": "Automotive",
-      "posted": "2026-07-23",
-      "salary": "—",
-      "city": "Vienna",
-      "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/senior-qa-engineer-m-w-d-testautomation-plattformservices-at-pke-4434643740?trk=public_jobs_topcard-title",
-      "status": "Not applied",
-      "fitScore": 15,
-      "matchedKeywords": [
-        "Product Owner",
-        "UAT"
-      ],
-      "unmatchedKeywords": [
-        "Product Management",
-        "Agile",
-        "Backlog Prioritisation",
-        "Stakeholder Management",
-        "User Story",
-        "Product Roadmap",
-        "LLM",
-        "API",
-        "iGaming",
-        "Payments",
-        "JIRA",
-        "Cross-functional",
-        "Data-driven",
-        "CBAP"
-      ],
-      "applicationsCount": "Be among the first 25 applicants",
-      "contractType": "Full-time",
-      "experienceLevel": "Not Applicable"
-    },
-    {
-      "id": 28,
+      "id": 8,
       "company": "AT&S",
       "role": "Technical Project Manager R&D",
       "sector": "Tech",
@@ -900,22 +792,22 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 11,
-      "company": "TGW Logistics",
-      "role": "Project Manager - Mechatronic Product Development (M/F/D)*",
+      "id": 13,
+      "company": "talentbird GmbH",
+      "role": "Senior IT Projekt Manager (w/m/d)",
       "sector": "Tech",
       "posted": "2026-07-23",
       "salary": "—",
-      "city": "Wels",
+      "city": "Vienna",
       "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/project-manager-mechatronic-product-development-m-f-d-at-tgw-logistics-4413337469?trk=public_jobs_topcard-title",
+      "url": "https://at.linkedin.com/jobs/view/senior-it-projekt-manager-w-m-d-at-talentbird-gmbh-4434848145?trk=public_jobs_topcard-title",
       "status": "Not applied",
-      "fitScore": 11,
+      "fitScore": 15,
       "matchedKeywords": [
+        "Product Owner",
         "Agile"
       ],
       "unmatchedKeywords": [
-        "Product Owner",
         "Product Management",
         "Backlog Prioritisation",
         "Stakeholder Management",
@@ -931,9 +823,81 @@
         "Data-driven",
         "CBAP"
       ],
+      "applicationsCount": "",
+      "contractType": "Full-time",
+      "experienceLevel": "Associate"
+    },
+    {
+      "id": 27,
+      "company": "PKE",
+      "role": "Senior QA Engineer (m/w/d) & Testautomation - Plattformservices",
+      "sector": "Automotive",
+      "posted": "2026-07-23",
+      "salary": "—",
+      "city": "Vienna",
+      "platform": "LinkedIn",
+      "url": "https://at.linkedin.com/jobs/view/senior-qa-engineer-m-w-d-testautomation-plattformservices-at-pke-4434643740?trk=public_jobs_topcard-title",
+      "status": "Not applied",
+      "fitScore": 15,
+      "matchedKeywords": [
+        "Product Owner",
+        "UAT"
+      ],
+      "unmatchedKeywords": [
+        "Product Management",
+        "Agile",
+        "Backlog Prioritisation",
+        "Stakeholder Management",
+        "User Story",
+        "Product Roadmap",
+        "LLM",
+        "API",
+        "iGaming",
+        "Payments",
+        "JIRA",
+        "Cross-functional",
+        "Data-driven",
+        "CBAP"
+      ],
       "applicationsCount": "Be among the first 25 applicants",
       "contractType": "Full-time",
       "experienceLevel": "Not Applicable"
+    },
+    {
+      "id": 7,
+      "company": "talentbird GmbH",
+      "role": "Senior Produktmanager:in B2B Plattform (m/w/d)",
+      "sector": "Tech",
+      "posted": "2026-07-23",
+      "salary": "—",
+      "city": "Lower Austria",
+      "platform": "LinkedIn",
+      "url": "https://at.linkedin.com/jobs/view/senior-produktmanager-in-b2b-plattform-m-w-d-at-talentbird-gmbh-4431589567?trk=public_jobs_topcard-title",
+      "status": "Not applied",
+      "fitScore": 11,
+      "matchedKeywords": [
+        "Product Management"
+      ],
+      "unmatchedKeywords": [
+        "Product Owner",
+        "Agile",
+        "Backlog Prioritisation",
+        "Stakeholder Management",
+        "User Story",
+        "Product Roadmap",
+        "LLM",
+        "API",
+        "iGaming",
+        "Payments",
+        "UAT",
+        "JIRA",
+        "Cross-functional",
+        "Data-driven",
+        "CBAP"
+      ],
+      "applicationsCount": "",
+      "contractType": "Full-time",
+      "experienceLevel": "Associate"
     },
     {
       "id": 18,
@@ -972,58 +936,23 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 30,
-      "company": "talentbird GmbH",
-      "role": "Senior Produktmanager:in B2B Plattform (m/w/d)",
+      "id": 21,
+      "company": "TGW Logistics",
+      "role": "Project Manager - Mechatronic Product Development (M/F/D)*",
       "sector": "Tech",
       "posted": "2026-07-23",
       "salary": "—",
-      "city": "Lower Austria",
+      "city": "Wels",
       "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/senior-produktmanager-in-b2b-plattform-m-w-d-at-talentbird-gmbh-4431589567?trk=public_jobs_topcard-title",
+      "url": "https://at.linkedin.com/jobs/view/project-manager-mechatronic-product-development-m-f-d-at-tgw-logistics-4413337469?trk=public_jobs_topcard-title",
       "status": "Not applied",
       "fitScore": 11,
       "matchedKeywords": [
-        "Product Management"
+        "Agile"
       ],
-      "unmatchedKeywords": [
-        "Product Owner",
-        "Agile",
-        "Backlog Prioritisation",
-        "Stakeholder Management",
-        "User Story",
-        "Product Roadmap",
-        "LLM",
-        "API",
-        "iGaming",
-        "Payments",
-        "UAT",
-        "JIRA",
-        "Cross-functional",
-        "Data-driven",
-        "CBAP"
-      ],
-      "applicationsCount": "",
-      "contractType": "Full-time",
-      "experienceLevel": "Associate"
-    },
-    {
-      "id": 5,
-      "company": "NXP Semiconductors",
-      "role": "Product Security Incident Response Manager (m/f/d)",
-      "sector": "Tech",
-      "posted": "2026-07-22",
-      "salary": "—",
-      "city": "Gratkorn",
-      "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/product-security-incident-response-manager-m-f-d-at-nxp-semiconductors-4443988656?trk=public_jobs_topcard-title",
-      "status": "Not applied",
-      "fitScore": 8,
-      "matchedKeywords": [],
       "unmatchedKeywords": [
         "Product Owner",
         "Product Management",
-        "Agile",
         "Backlog Prioritisation",
         "Stakeholder Management",
         "User Story",
@@ -1040,10 +969,10 @@
       ],
       "applicationsCount": "Be among the first 25 applicants",
       "contractType": "Full-time",
-      "experienceLevel": "Mid-Senior level"
+      "experienceLevel": "Not Applicable"
     },
     {
-      "id": 22,
+      "id": 11,
       "company": "smart Energy Services GmbH",
       "role": "Application Manager (all genders)",
       "sector": "Tech",
@@ -1078,7 +1007,7 @@
       "experienceLevel": "Associate"
     },
     {
-      "id": 29,
+      "id": 16,
       "company": "Attraktion! Group of Companies",
       "role": "Technical Project Manager – Media Technology / Attractions (m/f/d)",
       "sector": "Tech",
