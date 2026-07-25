@@ -1,46 +1,10 @@
 {
-  "synced_at": "2026-07-24T19:10:13.943Z",
+  "synced_at": "2026-07-25T01:28:45.724Z",
   "source": "LinkedIn via Apify (last 24h)",
-  "count": 16,
+  "count": 17,
   "jobs": [
     {
-      "id": 10,
-      "company": "HARGASSNER France",
-      "role": "Product Owner & Softwarearchitekt für EoL Prüfstände (m/w/d)",
-      "sector": "Tech",
-      "posted": "2026-07-24",
-      "salary": "—",
-      "city": "Weng im Innkreis",
-      "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/product-owner-softwarearchitekt-f%C3%BCr-eol-pr%C3%BCfst%C3%A4nde-m-w-d-at-hargassner-france-4444966622?trk=public_jobs_topcard-title",
-      "status": "Not applied",
-      "fitScore": 56,
-      "matchedKeywords": [
-        "Product Owner",
-        "Agile",
-        "User Story",
-        "CBAP"
-      ],
-      "unmatchedKeywords": [
-        "Product Management",
-        "Backlog Prioritisation",
-        "Stakeholder Management",
-        "Product Roadmap",
-        "LLM",
-        "API",
-        "iGaming",
-        "Payments",
-        "UAT",
-        "JIRA",
-        "Cross-functional",
-        "Data-driven"
-      ],
-      "applicationsCount": "Be among the first 25 applicants",
-      "contractType": "Full-time",
-      "experienceLevel": "Not Applicable"
-    },
-    {
-      "id": 13,
+      "id": 15,
       "company": "SKIDATA",
       "role": "Product Manager Software Services (Parking Mobility) (mfd)",
       "sector": "Automotive",
@@ -76,7 +40,43 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 1,
+      "id": 5,
+      "company": "iGaming Centre",
+      "role": "Product Manager (m/f/d)",
+      "sector": "iGaming",
+      "posted": "2026-07-24",
+      "salary": "—",
+      "city": "Vienna",
+      "platform": "LinkedIn",
+      "url": "https://at.linkedin.com/jobs/view/product-manager-m-f-d-at-igaming-centre-4445262395?trk=public_jobs_topcard-title",
+      "status": "Not applied",
+      "fitScore": 49,
+      "matchedKeywords": [
+        "Product Management",
+        "Stakeholder Management",
+        "LLM",
+        "Data-driven"
+      ],
+      "unmatchedKeywords": [
+        "Product Owner",
+        "Agile",
+        "Backlog Prioritisation",
+        "User Story",
+        "Product Roadmap",
+        "API",
+        "iGaming",
+        "Payments",
+        "UAT",
+        "JIRA",
+        "Cross-functional",
+        "CBAP"
+      ],
+      "applicationsCount": "Be among the first 25 applicants",
+      "contractType": "Full-time",
+      "experienceLevel": "Not Applicable"
+    },
+    {
+      "id": 6,
       "company": "XXXLdigital – Part of XXXL Group",
       "role": "Product Manager – Produkt Compliance & Qualitätsmanagement (m/w/d)",
       "sector": "Tech",
@@ -148,7 +148,7 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 4,
+      "id": 16,
       "company": "Frequentis",
       "role": "Strategic Product Manager – IT Voice Communication System (VCS) (all genders)",
       "sector": "Tech",
@@ -184,7 +184,7 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 3,
+      "id": 11,
       "company": "Frequentis",
       "role": "Strategic Product Manager – IT Voice Communication System (VCS) (all genders) - DE",
       "sector": "Tech",
@@ -220,7 +220,7 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 6,
+      "id": 9,
       "company": "zooplus",
       "role": "Senior QA Engineer (All Genders)",
       "sector": "Tech",
@@ -256,7 +256,7 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 8,
+      "id": 4,
       "company": "zooplus",
       "role": "Senior Software Engineer - Python (All Genders)",
       "sector": "Tech",
@@ -292,7 +292,7 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 11,
+      "id": 8,
       "company": "tech11 GmbH",
       "role": "Senior IT Business Analyst Insurance (m/w/d)",
       "sector": "Fintech",
@@ -328,7 +328,7 @@
       "experienceLevel": "Associate"
     },
     {
-      "id": 12,
+      "id": 17,
       "company": "Brau Union Österreich",
       "role": "Controlling Business Analyst*in (w/m/d)",
       "sector": "Tech",
@@ -364,7 +364,7 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 14,
+      "id": 1,
       "company": "AT&S",
       "role": "Senior Technical Project Manager R&D",
       "sector": "Tech",
@@ -400,7 +400,7 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 5,
+      "id": 13,
       "company": "Raiffeisenlandesbank Oberösterreich AG",
       "role": "Business Analyst (m/w/d)",
       "sector": "Fintech",
@@ -435,43 +435,7 @@
       "experienceLevel": "Associate"
     },
     {
-      "id": 2,
-      "company": "Wien Energie GmbH",
-      "role": "CRM Manager*in",
-      "sector": "Tech",
-      "posted": "2026-07-24",
-      "salary": "—",
-      "city": "Vienna",
-      "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/crm-manager-in-at-wien-energie-gmbh-4444338832?trk=public_jobs_topcard-title",
-      "status": "Not applied",
-      "fitScore": 15,
-      "matchedKeywords": [
-        "Product Owner",
-        "Agile"
-      ],
-      "unmatchedKeywords": [
-        "Product Management",
-        "Backlog Prioritisation",
-        "Stakeholder Management",
-        "User Story",
-        "Product Roadmap",
-        "LLM",
-        "API",
-        "iGaming",
-        "Payments",
-        "UAT",
-        "JIRA",
-        "Cross-functional",
-        "Data-driven",
-        "CBAP"
-      ],
-      "applicationsCount": "Be among the first 25 applicants",
-      "contractType": "Full-time",
-      "experienceLevel": "Not Applicable"
-    },
-    {
-      "id": 9,
+      "id": 10,
       "company": "Mavie",
       "role": "Digital Product Innovation Manager",
       "sector": "Tech",
@@ -507,7 +471,78 @@
       "experienceLevel": "Associate"
     },
     {
-      "id": 15,
+      "id": 12,
+      "company": "Wien Energie GmbH",
+      "role": "CRM Manager*in",
+      "sector": "Tech",
+      "posted": "2026-07-24",
+      "salary": "—",
+      "city": "Vienna",
+      "platform": "LinkedIn",
+      "url": "https://at.linkedin.com/jobs/view/crm-manager-in-at-wien-energie-gmbh-4444338832?trk=public_jobs_topcard-title",
+      "status": "Not applied",
+      "fitScore": 15,
+      "matchedKeywords": [
+        "Product Owner",
+        "Agile"
+      ],
+      "unmatchedKeywords": [
+        "Product Management",
+        "Backlog Prioritisation",
+        "Stakeholder Management",
+        "User Story",
+        "Product Roadmap",
+        "LLM",
+        "API",
+        "iGaming",
+        "Payments",
+        "UAT",
+        "JIRA",
+        "Cross-functional",
+        "Data-driven",
+        "CBAP"
+      ],
+      "applicationsCount": "Be among the first 25 applicants",
+      "contractType": "Full-time",
+      "experienceLevel": "Not Applicable"
+    },
+    {
+      "id": 2,
+      "company": "HTK-Vent GmbH",
+      "role": "Project Manager / Technical Sales",
+      "sector": "Tech",
+      "posted": "2026-07-25",
+      "salary": "3861–8500",
+      "city": "Klosterneuburg",
+      "platform": "LinkedIn",
+      "url": "https://at.linkedin.com/jobs/view/project-manager-technical-sales-at-htk-vent-gmbh-4441861099?trk=public_jobs_topcard-title",
+      "status": "Not applied",
+      "fitScore": 8,
+      "matchedKeywords": [],
+      "unmatchedKeywords": [
+        "Product Owner",
+        "Product Management",
+        "Agile",
+        "Backlog Prioritisation",
+        "Stakeholder Management",
+        "User Story",
+        "Product Roadmap",
+        "LLM",
+        "API",
+        "iGaming",
+        "Payments",
+        "UAT",
+        "JIRA",
+        "Cross-functional",
+        "Data-driven",
+        "CBAP"
+      ],
+      "applicationsCount": "Be among the first 25 applicants",
+      "contractType": "Full-time",
+      "experienceLevel": "Not Applicable"
+    },
+    {
+      "id": 3,
       "company": "Anton Paar",
       "role": "Project Manager Technical Infrastructure in Facility Management with Focus on HVAC and Plumbing (f/m/x)",
       "sector": "Tech",
@@ -542,7 +577,7 @@
       "experienceLevel": "Mid-Senior level"
     },
     {
-      "id": 16,
+      "id": 14,
       "company": "The OPEC Fund for International Development",
       "role": "Investment Analyst, Business Development Unit",
       "sector": "Tech",
