@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-07-25T01:28:45.724Z",
+  "synced_at": "2026-07-25T07:48:59.370Z",
   "source": "LinkedIn via Apify (last 24h)",
   "count": 17,
   "jobs": [
     {
-      "id": 15,
+      "id": 1,
       "company": "SKIDATA",
       "role": "Product Manager Software Services (Parking Mobility) (mfd)",
       "sector": "Automotive",
@@ -40,7 +40,7 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 5,
+      "id": 16,
       "company": "iGaming Centre",
       "role": "Product Manager (m/f/d)",
       "sector": "iGaming",
@@ -76,7 +76,7 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 6,
+      "id": 5,
       "company": "XXXLdigital – Part of XXXL Group",
       "role": "Product Manager – Produkt Compliance & Qualitätsmanagement (m/w/d)",
       "sector": "Tech",
@@ -112,7 +112,7 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 7,
+      "id": 6,
       "company": "Frequentis",
       "role": "Lifecycle Product Manager – Voice Communication System (VCS3020X) (all genders)",
       "sector": "Tech",
@@ -148,7 +148,7 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 16,
+      "id": 3,
       "company": "Frequentis",
       "role": "Strategic Product Manager – IT Voice Communication System (VCS) (all genders)",
       "sector": "Tech",
@@ -184,7 +184,7 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 11,
+      "id": 12,
       "company": "Frequentis",
       "role": "Strategic Product Manager – IT Voice Communication System (VCS) (all genders) - DE",
       "sector": "Tech",
@@ -220,7 +220,7 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 9,
+      "id": 8,
       "company": "zooplus",
       "role": "Senior QA Engineer (All Genders)",
       "sector": "Tech",
@@ -256,7 +256,7 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 4,
+      "id": 9,
       "company": "zooplus",
       "role": "Senior Software Engineer - Python (All Genders)",
       "sector": "Tech",
@@ -292,43 +292,7 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 8,
-      "company": "tech11 GmbH",
-      "role": "Senior IT Business Analyst Insurance (m/w/d)",
-      "sector": "Fintech",
-      "posted": "2026-07-24",
-      "salary": "—",
-      "city": "Vienna",
-      "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/senior-it-business-analyst-insurance-m-w-d-at-tech11-gmbh-4444309638?trk=public_jobs_topcard-title",
-      "status": "Not applied",
-      "fitScore": 23,
-      "matchedKeywords": [
-        "API",
-        "CBAP"
-      ],
-      "unmatchedKeywords": [
-        "Product Owner",
-        "Product Management",
-        "Agile",
-        "Backlog Prioritisation",
-        "Stakeholder Management",
-        "User Story",
-        "Product Roadmap",
-        "LLM",
-        "iGaming",
-        "Payments",
-        "UAT",
-        "JIRA",
-        "Cross-functional",
-        "Data-driven"
-      ],
-      "applicationsCount": "Be among the first 25 applicants",
-      "contractType": "Full-time",
-      "experienceLevel": "Associate"
-    },
-    {
-      "id": 17,
+      "id": 11,
       "company": "Brau Union Österreich",
       "role": "Controlling Business Analyst*in (w/m/d)",
       "sector": "Tech",
@@ -364,7 +328,7 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 1,
+      "id": 17,
       "company": "AT&S",
       "role": "Senior Technical Project Manager R&D",
       "sector": "Tech",
@@ -400,7 +364,7 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 13,
+      "id": 2,
       "company": "Raiffeisenlandesbank Oberösterreich AG",
       "role": "Business Analyst (m/w/d)",
       "sector": "Fintech",
@@ -435,43 +399,7 @@
       "experienceLevel": "Associate"
     },
     {
-      "id": 10,
-      "company": "Mavie",
-      "role": "Digital Product Innovation Manager",
-      "sector": "Tech",
-      "posted": "2026-07-24",
-      "salary": "—",
-      "city": "Vienna",
-      "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/digital-product-innovation-manager-at-mavie-4444920962?trk=public_jobs_topcard-title",
-      "status": "Not applied",
-      "fitScore": 15,
-      "matchedKeywords": [
-        "User Story",
-        "Data-driven"
-      ],
-      "unmatchedKeywords": [
-        "Product Owner",
-        "Product Management",
-        "Agile",
-        "Backlog Prioritisation",
-        "Stakeholder Management",
-        "Product Roadmap",
-        "LLM",
-        "API",
-        "iGaming",
-        "Payments",
-        "UAT",
-        "JIRA",
-        "Cross-functional",
-        "CBAP"
-      ],
-      "applicationsCount": "",
-      "contractType": "Full-time",
-      "experienceLevel": "Associate"
-    },
-    {
-      "id": 12,
+      "id": 4,
       "company": "Wien Energie GmbH",
       "role": "CRM Manager*in",
       "sector": "Tech",
@@ -507,15 +435,87 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 2,
-      "company": "HTK-Vent GmbH",
-      "role": "Project Manager / Technical Sales",
+      "id": 7,
+      "company": "Mavie",
+      "role": "Digital Product Innovation Manager",
+      "sector": "Tech",
+      "posted": "2026-07-24",
+      "salary": "—",
+      "city": "Vienna",
+      "platform": "LinkedIn",
+      "url": "https://at.linkedin.com/jobs/view/digital-product-innovation-manager-at-mavie-4444920962?trk=public_jobs_topcard-title",
+      "status": "Not applied",
+      "fitScore": 15,
+      "matchedKeywords": [
+        "User Story",
+        "Data-driven"
+      ],
+      "unmatchedKeywords": [
+        "Product Owner",
+        "Product Management",
+        "Agile",
+        "Backlog Prioritisation",
+        "Stakeholder Management",
+        "Product Roadmap",
+        "LLM",
+        "API",
+        "iGaming",
+        "Payments",
+        "UAT",
+        "JIRA",
+        "Cross-functional",
+        "CBAP"
+      ],
+      "applicationsCount": "",
+      "contractType": "Full-time",
+      "experienceLevel": "Associate"
+    },
+    {
+      "id": 10,
+      "company": "msg Plaut Austria GmbH",
+      "role": "SAP Consultant FI/CO(m/w/d)",
       "sector": "Tech",
       "posted": "2026-07-25",
-      "salary": "3861–8500",
-      "city": "Klosterneuburg",
+      "salary": "7000–7000",
+      "city": "Vienna",
       "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/project-manager-technical-sales-at-htk-vent-gmbh-4441861099?trk=public_jobs_topcard-title",
+      "url": "https://at.linkedin.com/jobs/view/sap-consultant-fi-co-m-w-d-at-msg-plaut-austria-gmbh-4441885607?trk=public_jobs_topcard-title",
+      "status": "Not applied",
+      "fitScore": 15,
+      "matchedKeywords": [
+        "Product Owner",
+        "Agile"
+      ],
+      "unmatchedKeywords": [
+        "Product Management",
+        "Backlog Prioritisation",
+        "Stakeholder Management",
+        "User Story",
+        "Product Roadmap",
+        "LLM",
+        "API",
+        "iGaming",
+        "Payments",
+        "UAT",
+        "JIRA",
+        "Cross-functional",
+        "Data-driven",
+        "CBAP"
+      ],
+      "applicationsCount": "Be among the first 25 applicants",
+      "contractType": "Full-time",
+      "experienceLevel": "Associate"
+    },
+    {
+      "id": 13,
+      "company": "The OPEC Fund for International Development",
+      "role": "Investment Analyst, Business Development Unit",
+      "sector": "Tech",
+      "posted": "2026-07-24",
+      "salary": "—",
+      "city": "Vienna",
+      "platform": "LinkedIn",
+      "url": "https://at.linkedin.com/jobs/view/investment-analyst-business-development-unit-at-the-opec-fund-for-international-development-4444941447?trk=public_jobs_topcard-title",
       "status": "Not applied",
       "fitScore": 8,
       "matchedKeywords": [],
@@ -538,11 +538,11 @@
         "CBAP"
       ],
       "applicationsCount": "Be among the first 25 applicants",
-      "contractType": "Full-time",
+      "contractType": "Contract",
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 3,
+      "id": 14,
       "company": "Anton Paar",
       "role": "Project Manager Technical Infrastructure in Facility Management with Focus on HVAC and Plumbing (f/m/x)",
       "sector": "Tech",
@@ -577,15 +577,15 @@
       "experienceLevel": "Mid-Senior level"
     },
     {
-      "id": 14,
-      "company": "The OPEC Fund for International Development",
-      "role": "Investment Analyst, Business Development Unit",
+      "id": 15,
+      "company": "HTK-Vent GmbH",
+      "role": "Project Manager / Technical Sales",
       "sector": "Tech",
-      "posted": "2026-07-24",
-      "salary": "—",
-      "city": "Vienna",
+      "posted": "2026-07-25",
+      "salary": "3861–8500",
+      "city": "Klosterneuburg",
       "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/investment-analyst-business-development-unit-at-the-opec-fund-for-international-development-4444941447?trk=public_jobs_topcard-title",
+      "url": "https://at.linkedin.com/jobs/view/project-manager-technical-sales-at-htk-vent-gmbh-4441861099?trk=public_jobs_topcard-title",
       "status": "Not applied",
       "fitScore": 8,
       "matchedKeywords": [],
@@ -608,7 +608,7 @@
         "CBAP"
       ],
       "applicationsCount": "Be among the first 25 applicants",
-      "contractType": "Contract",
+      "contractType": "Full-time",
       "experienceLevel": "Not Applicable"
     }
   ]
