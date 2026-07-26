@@ -1,46 +1,10 @@
 {
-  "synced_at": "2026-07-26T12:54:51.475Z",
+  "synced_at": "2026-07-26T18:54:16.207Z",
   "source": "LinkedIn via Apify (last 24h)",
-  "count": 6,
+  "count": 4,
   "jobs": [
     {
       "id": 1,
-      "company": "UNIQA Insurance Group",
-      "role": "Product Owner - Identity and Access Management (IAM) (m/w/d)",
-      "sector": "Fintech",
-      "posted": "2026-07-25",
-      "salary": "—",
-      "city": "Vienna",
-      "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/product-owner-identity-and-access-management-iam-m-w-d-at-uniqa-insurance-group-4436723892?trk=public_jobs_topcard-title",
-      "status": "Not applied",
-      "fitScore": 56,
-      "matchedKeywords": [
-        "Product Owner",
-        "Agile",
-        "User Story",
-        "JIRA"
-      ],
-      "unmatchedKeywords": [
-        "Product Management",
-        "Backlog Prioritisation",
-        "Stakeholder Management",
-        "Product Roadmap",
-        "LLM",
-        "API",
-        "iGaming",
-        "Payments",
-        "UAT",
-        "Cross-functional",
-        "Data-driven",
-        "CBAP"
-      ],
-      "applicationsCount": "Be among the first 25 applicants",
-      "contractType": "Full-time",
-      "experienceLevel": "Not Applicable"
-    },
-    {
-      "id": 2,
       "company": "Frequentis",
       "role": "Solution Consultant / Product Owner - Defence (all genders)",
       "sector": "Tech",
@@ -76,7 +40,7 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 3,
+      "id": 2,
       "company": "Frequentis",
       "role": "Solution Consultant / Product Owner - Defence Bereich (all genders) - DE",
       "sector": "Tech",
@@ -112,7 +76,7 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 5,
+      "id": 4,
       "company": "Oper Credits",
       "role": "AI-Native Business Analyst - DACH",
       "sector": "Tech",
@@ -148,24 +112,24 @@
       "experienceLevel": "Associate"
     },
     {
-      "id": 4,
-      "company": "Knorr-Bremse AG",
-      "role": "Project Manager (w/m/d) Schienenbremsen",
-      "sector": "Tech",
-      "posted": "2026-07-25",
+      "id": 3,
+      "company": "3 Banken IT GmbH",
+      "role": "Senior Atlassian Developer (w/m/d)",
+      "sector": "Fintech",
+      "posted": "2026-07-26",
       "salary": "—",
-      "city": "Mödling",
+      "city": "Linz",
       "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/project-manager-w-m-d-schienenbremsen-at-knorr-bremse-ag-4417157200?trk=public_jobs_topcard-title",
+      "url": "https://at.linkedin.com/jobs/view/senior-atlassian-developer-w-m-d-at-3-banken-it-gmbh-4445607700?trk=public_jobs_topcard-title",
       "status": "Not applied",
-      "fitScore": 18,
+      "fitScore": 15,
       "matchedKeywords": [
         "Product Owner",
-        "Agile",
         "JIRA"
       ],
       "unmatchedKeywords": [
         "Product Management",
+        "Agile",
         "Backlog Prioritisation",
         "Stakeholder Management",
         "User Story",
@@ -177,42 +141,6 @@
         "UAT",
         "Cross-functional",
         "Data-driven",
-        "CBAP"
-      ],
-      "applicationsCount": "",
-      "contractType": "Full-time",
-      "experienceLevel": "Not Applicable"
-    },
-    {
-      "id": 6,
-      "company": "UNIQA Insurance Group",
-      "role": "Omnikanal Vertriebskoordinator:in - Operations & Support (Omnikanalstrategie & Sektorintegration)",
-      "sector": "Fintech",
-      "posted": "2026-07-25",
-      "salary": "—",
-      "city": "Vienna",
-      "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/omnikanal-vertriebskoordinator-in-operations-support-omnikanalstrategie-sektorintegration-at-uniqa-insurance-group-4436729749?trk=public_jobs_topcard-title",
-      "status": "Not applied",
-      "fitScore": 15,
-      "matchedKeywords": [
-        "Product Owner",
-        "Data-driven"
-      ],
-      "unmatchedKeywords": [
-        "Product Management",
-        "Agile",
-        "Backlog Prioritisation",
-        "Stakeholder Management",
-        "User Story",
-        "Product Roadmap",
-        "LLM",
-        "API",
-        "iGaming",
-        "Payments",
-        "UAT",
-        "JIRA",
-        "Cross-functional",
         "CBAP"
       ],
       "applicationsCount": "Be among the first 25 applicants",
