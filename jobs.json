@@ -1,46 +1,10 @@
 {
-  "synced_at": "2026-07-26T01:43:06.877Z",
+  "synced_at": "2026-07-26T08:05:20.016Z",
   "source": "LinkedIn via Apify (last 24h)",
-  "count": 12,
+  "count": 10,
   "jobs": [
     {
-      "id": 1,
-      "company": "UNIQA Insurance Group",
-      "role": "Product Owner - Identity and Access Management (IAM) (m/w/d)",
-      "sector": "Fintech",
-      "posted": "2026-07-25",
-      "salary": "—",
-      "city": "Vienna",
-      "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/product-owner-identity-and-access-management-iam-m-w-d-at-uniqa-insurance-group-4436723892?trk=public_jobs_topcard-title",
-      "status": "Not applied",
-      "fitScore": 56,
-      "matchedKeywords": [
-        "Product Owner",
-        "Agile",
-        "User Story",
-        "JIRA"
-      ],
-      "unmatchedKeywords": [
-        "Product Management",
-        "Backlog Prioritisation",
-        "Stakeholder Management",
-        "Product Roadmap",
-        "LLM",
-        "API",
-        "iGaming",
-        "Payments",
-        "UAT",
-        "Cross-functional",
-        "Data-driven",
-        "CBAP"
-      ],
-      "applicationsCount": "Be among the first 25 applicants",
-      "contractType": "Full-time",
-      "experienceLevel": "Not Applicable"
-    },
-    {
-      "id": 6,
+      "id": 2,
       "company": "MAM Baby AG, Switzerland",
       "role": "Product Owner Digital Platforms eCommerce (m/f/d)",
       "sector": "Tech",
@@ -76,7 +40,43 @@
       "experienceLevel": "Director"
     },
     {
-      "id": 2,
+      "id": 6,
+      "company": "UNIQA Insurance Group",
+      "role": "Product Owner - Identity and Access Management (IAM) (m/w/d)",
+      "sector": "Fintech",
+      "posted": "2026-07-25",
+      "salary": "—",
+      "city": "Vienna",
+      "platform": "LinkedIn",
+      "url": "https://at.linkedin.com/jobs/view/product-owner-identity-and-access-management-iam-m-w-d-at-uniqa-insurance-group-4436723892?trk=public_jobs_topcard-title",
+      "status": "Not applied",
+      "fitScore": 56,
+      "matchedKeywords": [
+        "Product Owner",
+        "Agile",
+        "User Story",
+        "JIRA"
+      ],
+      "unmatchedKeywords": [
+        "Product Management",
+        "Backlog Prioritisation",
+        "Stakeholder Management",
+        "Product Roadmap",
+        "LLM",
+        "API",
+        "iGaming",
+        "Payments",
+        "UAT",
+        "Cross-functional",
+        "Data-driven",
+        "CBAP"
+      ],
+      "applicationsCount": "Be among the first 25 applicants",
+      "contractType": "Full-time",
+      "experienceLevel": "Not Applicable"
+    },
+    {
+      "id": 3,
       "company": "Frequentis",
       "role": "Solution Consultant / Product Owner - Defence (all genders)",
       "sector": "Tech",
@@ -112,7 +112,7 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 7,
+      "id": 5,
       "company": "Frequentis",
       "role": "Solution Consultant / Product Owner - Defence Bereich (all genders) - DE",
       "sector": "Tech",
@@ -148,7 +148,7 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 4,
+      "id": 1,
       "company": "Bitpanda LA",
       "role": "Senior Product Manager Web3",
       "sector": "Tech",
@@ -184,15 +184,15 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 10,
+      "id": 8,
       "company": "Oper Credits",
       "role": "AI-Native Business Analyst - DACH",
       "sector": "Tech",
-      "posted": "2026-07-25",
+      "posted": "2026-07-26",
       "salary": "35–50",
       "city": "Vienna",
       "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/ai-native-business-analyst-dach-at-oper-credits-4444690367?trk=public_jobs_topcard-title",
+      "url": "https://at.linkedin.com/jobs/view/ai-native-business-analyst-dach-at-oper-credits-4442349056?trk=public_jobs_topcard-title",
       "status": "Not applied",
       "fitScore": 29,
       "matchedKeywords": [
@@ -256,7 +256,7 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 12,
+      "id": 10,
       "company": "Knorr-Bremse AG",
       "role": "Project Manager (w/m/d) Schienenbremsen",
       "sector": "Tech",
@@ -292,7 +292,7 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 8,
+      "id": 7,
       "company": "UNIQA Insurance Group",
       "role": "Omnikanal Vertriebskoordinator:in - Operations & Support (Omnikanalstrategie & Sektorintegration)",
       "sector": "Fintech",
@@ -328,43 +328,7 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 11,
-      "company": "msg Plaut Austria GmbH",
-      "role": "SAP Consultant FI/CO(m/w/d)",
-      "sector": "Tech",
-      "posted": "2026-07-25",
-      "salary": "7000–7000",
-      "city": "Vienna",
-      "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/sap-consultant-fi-co-m-w-d-at-msg-plaut-austria-gmbh-4441885607?trk=public_jobs_topcard-title",
-      "status": "Not applied",
-      "fitScore": 15,
-      "matchedKeywords": [
-        "Product Owner",
-        "Agile"
-      ],
-      "unmatchedKeywords": [
-        "Product Management",
-        "Backlog Prioritisation",
-        "Stakeholder Management",
-        "User Story",
-        "Product Roadmap",
-        "LLM",
-        "API",
-        "iGaming",
-        "Payments",
-        "UAT",
-        "JIRA",
-        "Cross-functional",
-        "Data-driven",
-        "CBAP"
-      ],
-      "applicationsCount": "Be among the first 25 applicants",
-      "contractType": "Full-time",
-      "experienceLevel": "Associate"
-    },
-    {
-      "id": 3,
+      "id": 4,
       "company": "TGW Logistics",
       "role": "Strategic (Senior) Project Manager – Mechatronics Product Development (M/F/D)*",
       "sector": "Tech",
@@ -373,41 +337,6 @@
       "city": "Wels",
       "platform": "LinkedIn",
       "url": "https://at.linkedin.com/jobs/view/strategic-senior-project-manager-%E2%80%93-mechatronics-product-development-m-f-d-at-tgw-logistics-4433177269?trk=public_jobs_topcard-title",
-      "status": "Not applied",
-      "fitScore": 8,
-      "matchedKeywords": [],
-      "unmatchedKeywords": [
-        "Product Owner",
-        "Product Management",
-        "Agile",
-        "Backlog Prioritisation",
-        "Stakeholder Management",
-        "User Story",
-        "Product Roadmap",
-        "LLM",
-        "API",
-        "iGaming",
-        "Payments",
-        "UAT",
-        "JIRA",
-        "Cross-functional",
-        "Data-driven",
-        "CBAP"
-      ],
-      "applicationsCount": "Be among the first 25 applicants",
-      "contractType": "Full-time",
-      "experienceLevel": "Not Applicable"
-    },
-    {
-      "id": 5,
-      "company": "HTK-Vent GmbH",
-      "role": "Project Manager / Technical Sales",
-      "sector": "Tech",
-      "posted": "2026-07-25",
-      "salary": "3861–8500",
-      "city": "Klosterneuburg",
-      "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/project-manager-technical-sales-at-htk-vent-gmbh-4441861099?trk=public_jobs_topcard-title",
       "status": "Not applied",
       "fitScore": 8,
       "matchedKeywords": [],
