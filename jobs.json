@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-07-25T18:49:32.682Z",
+  "synced_at": "2026-07-26T01:43:06.877Z",
   "source": "LinkedIn via Apify (last 24h)",
-  "count": 14,
+  "count": 12,
   "jobs": [
     {
-      "id": 2,
+      "id": 1,
       "company": "UNIQA Insurance Group",
       "role": "Product Owner - Identity and Access Management (IAM) (m/w/d)",
       "sector": "Fintech",
@@ -40,7 +40,7 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 7,
+      "id": 6,
       "company": "MAM Baby AG, Switzerland",
       "role": "Product Owner Digital Platforms eCommerce (m/f/d)",
       "sector": "Tech",
@@ -76,7 +76,7 @@
       "experienceLevel": "Director"
     },
     {
-      "id": 3,
+      "id": 2,
       "company": "Frequentis",
       "role": "Solution Consultant / Product Owner - Defence (all genders)",
       "sector": "Tech",
@@ -112,7 +112,7 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 9,
+      "id": 7,
       "company": "Frequentis",
       "role": "Solution Consultant / Product Owner - Defence Bereich (all genders) - DE",
       "sector": "Tech",
@@ -148,79 +148,7 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 11,
-      "company": "iGaming Centre",
-      "role": "Product Manager (m/f/d)",
-      "sector": "iGaming",
-      "posted": "2026-07-24",
-      "salary": "—",
-      "city": "Vienna",
-      "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/product-manager-m-f-d-at-igaming-centre-4445262395?trk=public_jobs_topcard-title",
-      "status": "Not applied",
-      "fitScore": 49,
-      "matchedKeywords": [
-        "Product Management",
-        "Stakeholder Management",
-        "LLM",
-        "Data-driven"
-      ],
-      "unmatchedKeywords": [
-        "Product Owner",
-        "Agile",
-        "Backlog Prioritisation",
-        "User Story",
-        "Product Roadmap",
-        "API",
-        "iGaming",
-        "Payments",
-        "UAT",
-        "JIRA",
-        "Cross-functional",
-        "CBAP"
-      ],
-      "applicationsCount": "Be among the first 25 applicants",
-      "contractType": "Full-time",
-      "experienceLevel": "Not Applicable"
-    },
-    {
       "id": 4,
-      "company": "Frequentis",
-      "role": "Lifecycle Product Manager – Voice Communication System (VCS3020X) (all genders)",
-      "sector": "Tech",
-      "posted": "2026-07-24",
-      "salary": "—",
-      "city": "Vienna",
-      "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/lifecycle-product-manager-%E2%80%93-voice-communication-system-vcs3020x-all-genders-at-frequentis-4435262589?trk=public_jobs_topcard-title",
-      "status": "Not applied",
-      "fitScore": 46,
-      "matchedKeywords": [
-        "Stakeholder Management",
-        "Cross-functional",
-        "Data-driven"
-      ],
-      "unmatchedKeywords": [
-        "Product Owner",
-        "Product Management",
-        "Agile",
-        "Backlog Prioritisation",
-        "User Story",
-        "Product Roadmap",
-        "LLM",
-        "API",
-        "iGaming",
-        "Payments",
-        "UAT",
-        "JIRA",
-        "CBAP"
-      ],
-      "applicationsCount": "Be among the first 25 applicants",
-      "contractType": "Full-time",
-      "experienceLevel": "Not Applicable"
-    },
-    {
-      "id": 6,
       "company": "Bitpanda LA",
       "role": "Senior Product Manager Web3",
       "sector": "Tech",
@@ -249,42 +177,6 @@
         "UAT",
         "JIRA",
         "Cross-functional",
-        "CBAP"
-      ],
-      "applicationsCount": "Be among the first 25 applicants",
-      "contractType": "Full-time",
-      "experienceLevel": "Not Applicable"
-    },
-    {
-      "id": 14,
-      "company": "Frequentis",
-      "role": "Strategic Product Manager – IT Voice Communication System (VCS) (all genders) - DE",
-      "sector": "Tech",
-      "posted": "2026-07-24",
-      "salary": "—",
-      "city": "Vienna",
-      "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/strategic-product-manager-%E2%80%93-it-voice-communication-system-vcs-all-genders-de-at-frequentis-4436389423?trk=public_jobs_topcard-title",
-      "status": "Not applied",
-      "fitScore": 39,
-      "matchedKeywords": [
-        "Stakeholder Management"
-      ],
-      "unmatchedKeywords": [
-        "Product Owner",
-        "Product Management",
-        "Agile",
-        "Backlog Prioritisation",
-        "User Story",
-        "Product Roadmap",
-        "LLM",
-        "API",
-        "iGaming",
-        "Payments",
-        "UAT",
-        "JIRA",
-        "Cross-functional",
-        "Data-driven",
         "CBAP"
       ],
       "applicationsCount": "Be among the first 25 applicants",
@@ -328,7 +220,7 @@
       "experienceLevel": "Associate"
     },
     {
-      "id": 13,
+      "id": 9,
       "company": "Bitpanda LA",
       "role": "Senior Product Marketing Specialist",
       "sector": "Tech",
@@ -400,42 +292,6 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 5,
-      "company": "msg Plaut Austria GmbH",
-      "role": "SAP Consultant FI/CO(m/w/d)",
-      "sector": "Tech",
-      "posted": "2026-07-25",
-      "salary": "7000–7000",
-      "city": "Vienna",
-      "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/sap-consultant-fi-co-m-w-d-at-msg-plaut-austria-gmbh-4441885607?trk=public_jobs_topcard-title",
-      "status": "Not applied",
-      "fitScore": 15,
-      "matchedKeywords": [
-        "Product Owner",
-        "Agile"
-      ],
-      "unmatchedKeywords": [
-        "Product Management",
-        "Backlog Prioritisation",
-        "Stakeholder Management",
-        "User Story",
-        "Product Roadmap",
-        "LLM",
-        "API",
-        "iGaming",
-        "Payments",
-        "UAT",
-        "JIRA",
-        "Cross-functional",
-        "Data-driven",
-        "CBAP"
-      ],
-      "applicationsCount": "Be among the first 25 applicants",
-      "contractType": "Full-time",
-      "experienceLevel": "Associate"
-    },
-    {
       "id": 8,
       "company": "UNIQA Insurance Group",
       "role": "Omnikanal Vertriebskoordinator:in - Operations & Support (Omnikanalstrategie & Sektorintegration)",
@@ -472,7 +328,43 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 1,
+      "id": 11,
+      "company": "msg Plaut Austria GmbH",
+      "role": "SAP Consultant FI/CO(m/w/d)",
+      "sector": "Tech",
+      "posted": "2026-07-25",
+      "salary": "7000–7000",
+      "city": "Vienna",
+      "platform": "LinkedIn",
+      "url": "https://at.linkedin.com/jobs/view/sap-consultant-fi-co-m-w-d-at-msg-plaut-austria-gmbh-4441885607?trk=public_jobs_topcard-title",
+      "status": "Not applied",
+      "fitScore": 15,
+      "matchedKeywords": [
+        "Product Owner",
+        "Agile"
+      ],
+      "unmatchedKeywords": [
+        "Product Management",
+        "Backlog Prioritisation",
+        "Stakeholder Management",
+        "User Story",
+        "Product Roadmap",
+        "LLM",
+        "API",
+        "iGaming",
+        "Payments",
+        "UAT",
+        "JIRA",
+        "Cross-functional",
+        "Data-driven",
+        "CBAP"
+      ],
+      "applicationsCount": "Be among the first 25 applicants",
+      "contractType": "Full-time",
+      "experienceLevel": "Associate"
+    },
+    {
+      "id": 3,
       "company": "TGW Logistics",
       "role": "Strategic (Senior) Project Manager – Mechatronics Product Development (M/F/D)*",
       "sector": "Tech",
@@ -481,6 +373,41 @@
       "city": "Wels",
       "platform": "LinkedIn",
       "url": "https://at.linkedin.com/jobs/view/strategic-senior-project-manager-%E2%80%93-mechatronics-product-development-m-f-d-at-tgw-logistics-4433177269?trk=public_jobs_topcard-title",
+      "status": "Not applied",
+      "fitScore": 8,
+      "matchedKeywords": [],
+      "unmatchedKeywords": [
+        "Product Owner",
+        "Product Management",
+        "Agile",
+        "Backlog Prioritisation",
+        "Stakeholder Management",
+        "User Story",
+        "Product Roadmap",
+        "LLM",
+        "API",
+        "iGaming",
+        "Payments",
+        "UAT",
+        "JIRA",
+        "Cross-functional",
+        "Data-driven",
+        "CBAP"
+      ],
+      "applicationsCount": "Be among the first 25 applicants",
+      "contractType": "Full-time",
+      "experienceLevel": "Not Applicable"
+    },
+    {
+      "id": 5,
+      "company": "HTK-Vent GmbH",
+      "role": "Project Manager / Technical Sales",
+      "sector": "Tech",
+      "posted": "2026-07-25",
+      "salary": "3861–8500",
+      "city": "Klosterneuburg",
+      "platform": "LinkedIn",
+      "url": "https://at.linkedin.com/jobs/view/project-manager-technical-sales-at-htk-vent-gmbh-4441861099?trk=public_jobs_topcard-title",
       "status": "Not applied",
       "fitScore": 8,
       "matchedKeywords": [],
