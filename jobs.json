@@ -1,82 +1,10 @@
 {
-  "synced_at": "2026-07-26T18:54:16.207Z",
+  "synced_at": "2026-07-27T01:49:53.844Z",
   "source": "LinkedIn via Apify (last 24h)",
-  "count": 4,
+  "count": 1,
   "jobs": [
     {
       "id": 1,
-      "company": "Frequentis",
-      "role": "Solution Consultant / Product Owner - Defence (all genders)",
-      "sector": "Tech",
-      "posted": "2026-07-25",
-      "salary": "—",
-      "city": "Vienna",
-      "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/solution-consultant-product-owner-defence-all-genders-at-frequentis-4407398803?trk=public_jobs_topcard-title",
-      "status": "Not applied",
-      "fitScore": 50,
-      "matchedKeywords": [
-        "Product Owner",
-        "User Story"
-      ],
-      "unmatchedKeywords": [
-        "Product Management",
-        "Agile",
-        "Backlog Prioritisation",
-        "Stakeholder Management",
-        "Product Roadmap",
-        "LLM",
-        "API",
-        "iGaming",
-        "Payments",
-        "UAT",
-        "JIRA",
-        "Cross-functional",
-        "Data-driven",
-        "CBAP"
-      ],
-      "applicationsCount": "",
-      "contractType": "Full-time",
-      "experienceLevel": "Not Applicable"
-    },
-    {
-      "id": 2,
-      "company": "Frequentis",
-      "role": "Solution Consultant / Product Owner - Defence Bereich (all genders) - DE",
-      "sector": "Tech",
-      "posted": "2026-07-25",
-      "salary": "—",
-      "city": "Vienna",
-      "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/solution-consultant-product-owner-defence-bereich-all-genders-de-at-frequentis-4408782198?trk=public_jobs_topcard-title",
-      "status": "Not applied",
-      "fitScore": 50,
-      "matchedKeywords": [
-        "Product Owner",
-        "User Story"
-      ],
-      "unmatchedKeywords": [
-        "Product Management",
-        "Agile",
-        "Backlog Prioritisation",
-        "Stakeholder Management",
-        "Product Roadmap",
-        "LLM",
-        "API",
-        "iGaming",
-        "Payments",
-        "UAT",
-        "JIRA",
-        "Cross-functional",
-        "Data-driven",
-        "CBAP"
-      ],
-      "applicationsCount": "",
-      "contractType": "Full-time",
-      "experienceLevel": "Not Applicable"
-    },
-    {
-      "id": 4,
       "company": "Oper Credits",
       "role": "AI-Native Business Analyst - DACH",
       "sector": "Tech",
@@ -110,42 +38,6 @@
       "applicationsCount": "Be among the first 25 applicants",
       "contractType": "Contract",
       "experienceLevel": "Associate"
-    },
-    {
-      "id": 3,
-      "company": "3 Banken IT GmbH",
-      "role": "Senior Atlassian Developer (w/m/d)",
-      "sector": "Fintech",
-      "posted": "2026-07-26",
-      "salary": "—",
-      "city": "Linz",
-      "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/senior-atlassian-developer-w-m-d-at-3-banken-it-gmbh-4445607700?trk=public_jobs_topcard-title",
-      "status": "Not applied",
-      "fitScore": 15,
-      "matchedKeywords": [
-        "Product Owner",
-        "JIRA"
-      ],
-      "unmatchedKeywords": [
-        "Product Management",
-        "Agile",
-        "Backlog Prioritisation",
-        "Stakeholder Management",
-        "User Story",
-        "Product Roadmap",
-        "LLM",
-        "API",
-        "iGaming",
-        "Payments",
-        "UAT",
-        "Cross-functional",
-        "Data-driven",
-        "CBAP"
-      ],
-      "applicationsCount": "Be among the first 25 applicants",
-      "contractType": "Full-time",
-      "experienceLevel": "Not Applicable"
     }
   ]
 }
