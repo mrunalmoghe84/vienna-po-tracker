@@ -1,43 +1,43 @@
 {
-  "synced_at": "2026-07-27T01:49:53.844Z",
+  "synced_at": "2026-07-27T09:26:09.051Z",
   "source": "LinkedIn via Apify (last 24h)",
   "count": 1,
   "jobs": [
     {
       "id": 1,
-      "company": "Oper Credits",
-      "role": "AI-Native Business Analyst - DACH",
+      "company": "NXP Semiconductors",
+      "role": "Product Manager – NFC Wallet, eSE & eUICC Solutions",
       "sector": "Tech",
-      "posted": "2026-07-26",
-      "salary": "35–50",
-      "city": "Vienna",
+      "posted": "2026-07-27",
+      "salary": "—",
+      "city": "Gratkorn",
       "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/ai-native-business-analyst-dach-at-oper-credits-4442349056?trk=public_jobs_topcard-title",
+      "url": "https://at.linkedin.com/jobs/view/product-manager-%E2%80%93-nfc-wallet-ese-euicc-solutions-at-nxp-semiconductors-4445661371?trk=public_jobs_topcard-title",
       "status": "Not applied",
-      "fitScore": 29,
+      "fitScore": 46,
       "matchedKeywords": [
-        "User Story",
-        "LLM",
-        "API",
-        "Payments"
+        "Product Management",
+        "Payments",
+        "Cross-functional"
       ],
       "unmatchedKeywords": [
         "Product Owner",
-        "Product Management",
         "Agile",
         "Backlog Prioritisation",
         "Stakeholder Management",
+        "User Story",
         "Product Roadmap",
+        "LLM",
+        "API",
         "iGaming",
         "UAT",
         "JIRA",
-        "Cross-functional",
         "Data-driven",
         "CBAP"
       ],
       "applicationsCount": "Be among the first 25 applicants",
-      "contractType": "Contract",
-      "experienceLevel": "Associate"
+      "contractType": "Full-time",
+      "experienceLevel": "Mid-Senior level"
     }
   ]
 }
