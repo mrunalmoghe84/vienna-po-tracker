@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-07-27T19:09:05.905Z",
+  "synced_at": "2026-07-28T01:24:53.337Z",
   "source": "LinkedIn via Apify (last 24h)",
   "count": 7,
   "jobs": [
     {
-      "id": 1,
+      "id": 4,
       "company": "TeamViewer",
       "role": "(Senior) Product Manager - Third-Party-Integrations, Data&Agentic AI Ecosystems",
       "sector": "Tech",
@@ -40,7 +40,7 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 7,
+      "id": 6,
       "company": "NXP Semiconductors",
       "role": "Product Manager – NFC Wallet, eSE & eUICC Solutions",
       "sector": "Tech",
@@ -76,7 +76,7 @@
       "experienceLevel": "Mid-Senior level"
     },
     {
-      "id": 5,
+      "id": 3,
       "company": "Qualysoft",
       "role": "Business Analyst – OneShop Rollout",
       "sector": "Tech",
@@ -112,7 +112,7 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 2,
+      "id": 7,
       "company": "zooplus",
       "role": "Senior Software Engineer - Python (All Genders)",
       "sector": "Tech",
@@ -148,7 +148,7 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 4,
+      "id": 1,
       "company": "tech11 GmbH",
       "role": "Senior IT Business Analyst Insurance (m/w/d)",
       "sector": "Fintech",
@@ -184,7 +184,7 @@
       "experienceLevel": "Associate"
     },
     {
-      "id": 3,
+      "id": 2,
       "company": "MADx – Macro Array Diagnostics GmbH",
       "role": "Head of Product Management & Marketing (f/m/x)",
       "sector": "Tech",
@@ -220,7 +220,7 @@
       "experienceLevel": "Mid-Senior level"
     },
     {
-      "id": 6,
+      "id": 5,
       "company": "MADx – Macro Array Diagnostics GmbH",
       "role": "Head of Product Management & Marketing",
       "sector": "Tech",
