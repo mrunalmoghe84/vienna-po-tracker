@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-07-28T19:04:57.304Z",
+  "synced_at": "2026-07-29T01:25:29.912Z",
   "source": "LinkedIn via Apify (last 24h)",
   "count": 17,
   "jobs": [
     {
-      "id": 2,
+      "id": 15,
       "company": "DEVjobs",
       "role": "Senior Product Owner @ XiTrust Secure Technologies GmbH (Graz, Austria)",
       "sector": "Tech",
@@ -40,7 +40,7 @@
       "experienceLevel": "Associate"
     },
     {
-      "id": 6,
+      "id": 12,
       "company": "ADMIRAL Technologies",
       "role": "Product Manager (m/f/x)",
       "sector": "Tech",
@@ -76,7 +76,7 @@
       "experienceLevel": "Associate"
     },
     {
-      "id": 3,
+      "id": 1,
       "company": "ADB SAFEGATE",
       "role": "Product Owner m/f/d",
       "sector": "Tech",
@@ -112,7 +112,7 @@
       "experienceLevel": "Mid-Senior level"
     },
     {
-      "id": 11,
+      "id": 3,
       "company": "MAM Baby",
       "role": "(Senior) Product Owner Digital Platforms eCommerce (m/f/d)",
       "sector": "Tech",
@@ -148,7 +148,7 @@
       "experienceLevel": "Director"
     },
     {
-      "id": 1,
+      "id": 2,
       "company": "Pineapple Recruiting GmbH",
       "role": "Senior Product Owner – Internal Developer Platform (m/w/x)",
       "sector": "Tech",
@@ -184,7 +184,7 @@
       "experienceLevel": "Associate"
     },
     {
-      "id": 16,
+      "id": 11,
       "company": "Porsche Holding",
       "role": "IT Projektleiter & Product Owner - Salesforce Service Cloud & Marketing Cloud (w/m/d)",
       "sector": "Tech",
@@ -219,7 +219,7 @@
       "experienceLevel": "Mid-Senior level"
     },
     {
-      "id": 4,
+      "id": 13,
       "company": "BRUNA",
       "role": "Quality and Product Manager (m/w/d)",
       "sector": "Tech",
@@ -255,43 +255,7 @@
       "experienceLevel": "Associate"
     },
     {
-      "id": 10,
-      "company": "UNIQA Insurance Group",
-      "role": "IT Business Analyst:in - OMDS",
-      "sector": "Fintech",
-      "posted": "2026-07-28",
-      "salary": "—",
-      "city": "Vienna",
-      "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/it-business-analyst-in-omds-at-uniqa-insurance-group-4446195546?trk=public_jobs_topcard-title",
-      "status": "Not applied",
-      "fitScore": 26,
-      "matchedKeywords": [
-        "Product Owner",
-        "LLM",
-        "JIRA"
-      ],
-      "unmatchedKeywords": [
-        "Product Management",
-        "Agile",
-        "Backlog Prioritisation",
-        "Stakeholder Management",
-        "User Story",
-        "Product Roadmap",
-        "API",
-        "iGaming",
-        "Payments",
-        "UAT",
-        "Cross-functional",
-        "Data-driven",
-        "CBAP"
-      ],
-      "applicationsCount": "Be among the first 25 applicants",
-      "contractType": "Full-time",
-      "experienceLevel": "Not Applicable"
-    },
-    {
-      "id": 14,
+      "id": 4,
       "company": "UNIQA Insurance Group",
       "role": "IT Business Analyst:in - CORPO",
       "sector": "Fintech",
@@ -327,7 +291,43 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 13,
+      "id": 5,
+      "company": "UNIQA Insurance Group",
+      "role": "IT Business Analyst:in - OMDS",
+      "sector": "Fintech",
+      "posted": "2026-07-28",
+      "salary": "—",
+      "city": "Vienna",
+      "platform": "LinkedIn",
+      "url": "https://at.linkedin.com/jobs/view/it-business-analyst-in-omds-at-uniqa-insurance-group-4446195546?trk=public_jobs_topcard-title",
+      "status": "Not applied",
+      "fitScore": 26,
+      "matchedKeywords": [
+        "Product Owner",
+        "LLM",
+        "JIRA"
+      ],
+      "unmatchedKeywords": [
+        "Product Management",
+        "Agile",
+        "Backlog Prioritisation",
+        "Stakeholder Management",
+        "User Story",
+        "Product Roadmap",
+        "API",
+        "iGaming",
+        "Payments",
+        "UAT",
+        "Cross-functional",
+        "Data-driven",
+        "CBAP"
+      ],
+      "applicationsCount": "Be among the first 25 applicants",
+      "contractType": "Full-time",
+      "experienceLevel": "Not Applicable"
+    },
+    {
+      "id": 16,
       "company": "UNIQA Insurance Group",
       "role": "Chapter Lead User Experience (m/w/d)",
       "sector": "Fintech",
@@ -363,7 +363,7 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 15,
+      "id": 10,
       "company": "STRABAG",
       "role": "Senior IT Business Analyst – Softwareentwicklung & agile Projekte:::Senior IT Business Analyst – Softwareentwicklung & agile Projekte (ID: 1019)",
       "sector": "Tech",
@@ -390,41 +390,6 @@
         "iGaming",
         "Payments",
         "UAT",
-        "Cross-functional",
-        "Data-driven",
-        "CBAP"
-      ],
-      "applicationsCount": "Be among the first 25 applicants",
-      "contractType": "Full-time",
-      "experienceLevel": "Not Applicable"
-    },
-    {
-      "id": 5,
-      "company": "SPAR ICS - Information & Communication Services",
-      "role": "IT Business Analyst - Retail Applications (m/w/d)",
-      "sector": "Tech",
-      "posted": "2026-07-28",
-      "salary": "—",
-      "city": "Wernberg",
-      "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/it-business-analyst-retail-applications-m-w-d-at-spar-ics-information-communication-services-4436223884?trk=public_jobs_topcard-title",
-      "status": "Not applied",
-      "fitScore": 16,
-      "matchedKeywords": [],
-      "unmatchedKeywords": [
-        "Product Owner",
-        "Product Management",
-        "Agile",
-        "Backlog Prioritisation",
-        "Stakeholder Management",
-        "User Story",
-        "Product Roadmap",
-        "LLM",
-        "API",
-        "iGaming",
-        "Payments",
-        "UAT",
-        "JIRA",
         "Cross-functional",
         "Data-driven",
         "CBAP"
@@ -470,6 +435,41 @@
     },
     {
       "id": 9,
+      "company": "SPAR ICS - Information & Communication Services",
+      "role": "IT Business Analyst - Retail Applications (m/w/d)",
+      "sector": "Tech",
+      "posted": "2026-07-28",
+      "salary": "—",
+      "city": "Salzburg",
+      "platform": "LinkedIn",
+      "url": "https://at.linkedin.com/jobs/view/it-business-analyst-retail-applications-m-w-d-at-spar-ics-information-communication-services-4436226750?trk=public_jobs_topcard-title",
+      "status": "Not applied",
+      "fitScore": 16,
+      "matchedKeywords": [],
+      "unmatchedKeywords": [
+        "Product Owner",
+        "Product Management",
+        "Agile",
+        "Backlog Prioritisation",
+        "Stakeholder Management",
+        "User Story",
+        "Product Roadmap",
+        "LLM",
+        "API",
+        "iGaming",
+        "Payments",
+        "UAT",
+        "JIRA",
+        "Cross-functional",
+        "Data-driven",
+        "CBAP"
+      ],
+      "applicationsCount": "Be among the first 25 applicants",
+      "contractType": "Full-time",
+      "experienceLevel": "Not Applicable"
+    },
+    {
+      "id": 17,
       "company": "Lidl Österreich",
       "role": "Business Analyst - Customer Insights (w/m/d)",
       "sector": "Tech",
@@ -504,7 +504,7 @@
       "experienceLevel": "Associate"
     },
     {
-      "id": 17,
+      "id": 6,
       "company": "Frequentis",
       "role": "Domain Sales Manager (all genders)",
       "sector": "Tech",
@@ -541,42 +541,6 @@
     },
     {
       "id": 7,
-      "company": "MAM Baby",
-      "role": "Expert Application Management / Solution Architect (m/w/d)",
-      "sector": "Tech",
-      "posted": "2026-07-28",
-      "salary": "—",
-      "city": "Vienna",
-      "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/expert-application-management-solution-architect-m-w-d-at-mam-baby-4446303796?trk=public_jobs_topcard-title",
-      "status": "Not applied",
-      "fitScore": 11,
-      "matchedKeywords": [
-        "Product Owner"
-      ],
-      "unmatchedKeywords": [
-        "Product Management",
-        "Agile",
-        "Backlog Prioritisation",
-        "Stakeholder Management",
-        "User Story",
-        "Product Roadmap",
-        "LLM",
-        "API",
-        "iGaming",
-        "Payments",
-        "UAT",
-        "JIRA",
-        "Cross-functional",
-        "Data-driven",
-        "CBAP"
-      ],
-      "applicationsCount": "Be among the first 25 applicants",
-      "contractType": "Full-time",
-      "experienceLevel": "Mid-Senior level"
-    },
-    {
-      "id": 12,
       "company": "GRAWE | Grazer Wechselseitige Versicherung AG",
       "role": "Java Softwareentwickler (m/w/d)",
       "sector": "Tech",
@@ -610,6 +574,42 @@
       "applicationsCount": "Be among the first 25 applicants",
       "contractType": "Full-time",
       "experienceLevel": "Not Applicable"
+    },
+    {
+      "id": 14,
+      "company": "MAM Baby",
+      "role": "Expert Application Management / Solution Architect (m/w/d)",
+      "sector": "Tech",
+      "posted": "2026-07-28",
+      "salary": "—",
+      "city": "Vienna",
+      "platform": "LinkedIn",
+      "url": "https://at.linkedin.com/jobs/view/expert-application-management-solution-architect-m-w-d-at-mam-baby-4446303796?trk=public_jobs_topcard-title",
+      "status": "Not applied",
+      "fitScore": 11,
+      "matchedKeywords": [
+        "Product Owner"
+      ],
+      "unmatchedKeywords": [
+        "Product Management",
+        "Agile",
+        "Backlog Prioritisation",
+        "Stakeholder Management",
+        "User Story",
+        "Product Roadmap",
+        "LLM",
+        "API",
+        "iGaming",
+        "Payments",
+        "UAT",
+        "JIRA",
+        "Cross-functional",
+        "Data-driven",
+        "CBAP"
+      ],
+      "applicationsCount": "Be among the first 25 applicants",
+      "contractType": "Full-time",
+      "experienceLevel": "Mid-Senior level"
     }
   ]
 }
