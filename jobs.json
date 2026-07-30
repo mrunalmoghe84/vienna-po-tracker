@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-07-30T01:18:25.640Z",
+  "synced_at": "2026-07-30T08:05:11.632Z",
   "source": "LinkedIn via Apify (last 24h)",
-  "count": 12,
+  "count": 9,
   "jobs": [
     {
-      "id": 9,
+      "id": 4,
       "company": "Erste Digital",
       "role": "Senior Product Owner for George (all humans)",
       "sector": "Tech",
@@ -40,7 +40,7 @@
       "experienceLevel": "Mid-Senior level"
     },
     {
-      "id": 5,
+      "id": 3,
       "company": "Cryptonow",
       "role": "Senior Product Owner",
       "sector": "Tech",
@@ -76,7 +76,7 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 8,
+      "id": 5,
       "company": "APC Business Services GmbH",
       "role": "Product Owner (w/m/x)",
       "sector": "Tech",
@@ -112,43 +112,7 @@
       "experienceLevel": "Associate"
     },
     {
-      "id": 4,
-      "company": "Kinnovis",
-      "role": "Senior Product Manager (m/f/x)",
-      "sector": "Tech",
-      "posted": "2026-07-29",
-      "salary": "—",
-      "city": "Brunn am Gebirge",
-      "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/senior-product-manager-m-f-x-at-kinnovis-4446075620?trk=public_jobs_topcard-title",
-      "status": "Not applied",
-      "fitScore": 52,
-      "matchedKeywords": [
-        "Product Management",
-        "API",
-        "Payments",
-        "Cross-functional",
-        "Data-driven"
-      ],
-      "unmatchedKeywords": [
-        "Product Owner",
-        "Agile",
-        "Backlog Prioritisation",
-        "Stakeholder Management",
-        "User Story",
-        "Product Roadmap",
-        "LLM",
-        "iGaming",
-        "UAT",
-        "JIRA",
-        "CBAP"
-      ],
-      "applicationsCount": "Be among the first 25 applicants",
-      "contractType": "Full-time",
-      "experienceLevel": "Associate"
-    },
-    {
-      "id": 7,
+      "id": 1,
       "company": "ZINKPOWER",
       "role": "Senior Product Manager (m/f/x)",
       "sector": "Tech",
@@ -184,7 +148,43 @@
       "experienceLevel": "Mid-Senior level"
     },
     {
-      "id": 3,
+      "id": 2,
+      "company": "Kinnovis",
+      "role": "Senior Product Manager (m/f/x)",
+      "sector": "Tech",
+      "posted": "2026-07-29",
+      "salary": "—",
+      "city": "Brunn am Gebirge",
+      "platform": "LinkedIn",
+      "url": "https://at.linkedin.com/jobs/view/senior-product-manager-m-f-x-at-kinnovis-4446075620?trk=public_jobs_topcard-title",
+      "status": "Not applied",
+      "fitScore": 52,
+      "matchedKeywords": [
+        "Product Management",
+        "API",
+        "Payments",
+        "Cross-functional",
+        "Data-driven"
+      ],
+      "unmatchedKeywords": [
+        "Product Owner",
+        "Agile",
+        "Backlog Prioritisation",
+        "Stakeholder Management",
+        "User Story",
+        "Product Roadmap",
+        "LLM",
+        "iGaming",
+        "UAT",
+        "JIRA",
+        "CBAP"
+      ],
+      "applicationsCount": "Be among the first 25 applicants",
+      "contractType": "Full-time",
+      "experienceLevel": "Associate"
+    },
+    {
+      "id": 6,
       "company": "hello again",
       "role": "Product Owner (d/w/m)",
       "sector": "Tech",
@@ -220,7 +220,7 @@
       "experienceLevel": "Associate"
     },
     {
-      "id": 6,
+      "id": 8,
       "company": "Flinn.ai",
       "role": "Senior Product Manager (w/m/d)",
       "sector": "Tech",
@@ -256,151 +256,7 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 1,
-      "company": "Raiffeisen Leasing",
-      "role": "Business Analyst:in (w/m/x) - 20 Wochenstunden",
-      "sector": "Tech",
-      "posted": "2026-07-29",
-      "salary": "—",
-      "city": "Vienna",
-      "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/business-analyst-in-w-m-x-20-wochenstunden-at-raiffeisen-leasing-4446556579?trk=public_jobs_topcard-title",
-      "status": "Not applied",
-      "fitScore": 19,
-      "matchedKeywords": [
-        "CBAP"
-      ],
-      "unmatchedKeywords": [
-        "Product Owner",
-        "Product Management",
-        "Agile",
-        "Backlog Prioritisation",
-        "Stakeholder Management",
-        "User Story",
-        "Product Roadmap",
-        "LLM",
-        "API",
-        "iGaming",
-        "Payments",
-        "UAT",
-        "JIRA",
-        "Cross-functional",
-        "Data-driven"
-      ],
-      "applicationsCount": "Be among the first 25 applicants",
-      "contractType": "Part-time",
-      "experienceLevel": "Associate"
-    },
-    {
-      "id": 10,
-      "company": "Raiffeisen Leasing",
-      "role": "Projektmanager:in & Business Analyst:in (w/m/x)",
-      "sector": "Tech",
-      "posted": "2026-07-29",
-      "salary": "—",
-      "city": "Vienna",
-      "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/projektmanager-in-business-analyst-in-w-m-x-at-raiffeisen-leasing-4446559495?trk=public_jobs_topcard-title",
-      "status": "Not applied",
-      "fitScore": 19,
-      "matchedKeywords": [
-        "CBAP"
-      ],
-      "unmatchedKeywords": [
-        "Product Owner",
-        "Product Management",
-        "Agile",
-        "Backlog Prioritisation",
-        "Stakeholder Management",
-        "User Story",
-        "Product Roadmap",
-        "LLM",
-        "API",
-        "iGaming",
-        "Payments",
-        "UAT",
-        "JIRA",
-        "Cross-functional",
-        "Data-driven"
-      ],
-      "applicationsCount": "Be among the first 25 applicants",
-      "contractType": "Full-time",
-      "experienceLevel": "Associate"
-    },
-    {
-      "id": 11,
-      "company": "AOP Health",
-      "role": "Manager Product Quality Compliance",
-      "sector": "Tech",
-      "posted": "2026-07-29",
-      "salary": "—",
-      "city": "Vienna",
-      "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/manager-product-quality-compliance-at-aop-health-4446546892?trk=public_jobs_topcard-title",
-      "status": "Not applied",
-      "fitScore": 15,
-      "matchedKeywords": [
-        "Cross-functional",
-        "Data-driven"
-      ],
-      "unmatchedKeywords": [
-        "Product Owner",
-        "Product Management",
-        "Agile",
-        "Backlog Prioritisation",
-        "Stakeholder Management",
-        "User Story",
-        "Product Roadmap",
-        "LLM",
-        "API",
-        "iGaming",
-        "Payments",
-        "UAT",
-        "JIRA",
-        "CBAP"
-      ],
-      "applicationsCount": "Be among the first 25 applicants",
-      "contractType": "Full-time",
-      "experienceLevel": "Associate"
-    },
-    {
-      "id": 2,
-      "company": "Guid.New GmbH",
-      "role": "Senior Full-Stack Entwickler:in (w/m/d)",
-      "sector": "Tech",
-      "posted": "2026-07-29",
-      "salary": "—",
-      "city": "Raaba",
-      "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/senior-full-stack-entwickler-in-w-m-d-at-guid-new-gmbh-4444115202?trk=public_jobs_topcard-title",
-      "status": "Not applied",
-      "fitScore": 11,
-      "matchedKeywords": [
-        "Product Owner"
-      ],
-      "unmatchedKeywords": [
-        "Product Management",
-        "Agile",
-        "Backlog Prioritisation",
-        "Stakeholder Management",
-        "User Story",
-        "Product Roadmap",
-        "LLM",
-        "API",
-        "iGaming",
-        "Payments",
-        "UAT",
-        "JIRA",
-        "Cross-functional",
-        "Data-driven",
-        "CBAP"
-      ],
-      "applicationsCount": "Be among the first 25 applicants",
-      "contractType": "Full-time",
-      "experienceLevel": "Mid-Senior level"
-    },
-    {
-      "id": 12,
+      "id": 7,
       "company": "Brunel",
       "role": "Technical Project Manager | Systems Engineering & Vehicle Development",
       "sector": "Automotive",
@@ -430,6 +286,42 @@
         "JIRA",
         "Cross-functional",
         "Data-driven"
+      ],
+      "applicationsCount": "Be among the first 25 applicants",
+      "contractType": "Full-time",
+      "experienceLevel": "Mid-Senior level"
+    },
+    {
+      "id": 9,
+      "company": "Guid.New GmbH",
+      "role": "Senior Full-Stack Entwickler:in (w/m/d)",
+      "sector": "Tech",
+      "posted": "2026-07-29",
+      "salary": "—",
+      "city": "Raaba",
+      "platform": "LinkedIn",
+      "url": "https://at.linkedin.com/jobs/view/senior-full-stack-entwickler-in-w-m-d-at-guid-new-gmbh-4444115202?trk=public_jobs_topcard-title",
+      "status": "Not applied",
+      "fitScore": 11,
+      "matchedKeywords": [
+        "Product Owner"
+      ],
+      "unmatchedKeywords": [
+        "Product Management",
+        "Agile",
+        "Backlog Prioritisation",
+        "Stakeholder Management",
+        "User Story",
+        "Product Roadmap",
+        "LLM",
+        "API",
+        "iGaming",
+        "Payments",
+        "UAT",
+        "JIRA",
+        "Cross-functional",
+        "Data-driven",
+        "CBAP"
       ],
       "applicationsCount": "Be among the first 25 applicants",
       "contractType": "Full-time",
