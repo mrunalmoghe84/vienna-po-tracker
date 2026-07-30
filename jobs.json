@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-07-30T08:05:11.632Z",
+  "synced_at": "2026-07-30T13:25:10.244Z",
   "source": "LinkedIn via Apify (last 24h)",
-  "count": 9,
+  "count": 8,
   "jobs": [
     {
-      "id": 4,
+      "id": 7,
       "company": "Erste Digital",
       "role": "Senior Product Owner for George (all humans)",
       "sector": "Tech",
@@ -35,48 +35,12 @@
         "JIRA",
         "CBAP"
       ],
-      "applicationsCount": "Be among the first 25 applicants",
+      "applicationsCount": "",
       "contractType": "Full-time",
       "experienceLevel": "Mid-Senior level"
     },
     {
-      "id": 3,
-      "company": "Cryptonow",
-      "role": "Senior Product Owner",
-      "sector": "Tech",
-      "posted": "2026-07-29",
-      "salary": "—",
-      "city": "Innere Stadt",
-      "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/senior-product-owner-at-cryptonow-4443694667?trk=public_jobs_topcard-title",
-      "status": "Not applied",
-      "fitScore": 56,
-      "matchedKeywords": [
-        "Product Owner",
-        "User Story",
-        "Payments",
-        "JIRA"
-      ],
-      "unmatchedKeywords": [
-        "Product Management",
-        "Agile",
-        "Backlog Prioritisation",
-        "Stakeholder Management",
-        "Product Roadmap",
-        "LLM",
-        "API",
-        "iGaming",
-        "UAT",
-        "Cross-functional",
-        "Data-driven",
-        "CBAP"
-      ],
-      "applicationsCount": "Be among the first 25 applicants",
-      "contractType": "Full-time",
-      "experienceLevel": "Not Applicable"
-    },
-    {
-      "id": 5,
+      "id": 6,
       "company": "APC Business Services GmbH",
       "role": "Product Owner (w/m/x)",
       "sector": "Tech",
@@ -110,42 +74,6 @@
       "applicationsCount": "Be among the first 25 applicants",
       "contractType": "Full-time",
       "experienceLevel": "Associate"
-    },
-    {
-      "id": 1,
-      "company": "ZINKPOWER",
-      "role": "Senior Product Manager (m/f/x)",
-      "sector": "Tech",
-      "posted": "2026-07-29",
-      "salary": "—",
-      "city": "Brunn am Gebirge",
-      "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/senior-product-manager-m-f-x-at-zinkpower-4444134530?trk=public_jobs_topcard-title",
-      "status": "Not applied",
-      "fitScore": 52,
-      "matchedKeywords": [
-        "Product Management",
-        "API",
-        "Payments",
-        "Cross-functional",
-        "Data-driven"
-      ],
-      "unmatchedKeywords": [
-        "Product Owner",
-        "Agile",
-        "Backlog Prioritisation",
-        "Stakeholder Management",
-        "User Story",
-        "Product Roadmap",
-        "LLM",
-        "iGaming",
-        "UAT",
-        "JIRA",
-        "CBAP"
-      ],
-      "applicationsCount": "Be among the first 25 applicants",
-      "contractType": "Full-time",
-      "experienceLevel": "Mid-Senior level"
     },
     {
       "id": 2,
@@ -184,7 +112,7 @@
       "experienceLevel": "Associate"
     },
     {
-      "id": 6,
+      "id": 1,
       "company": "hello again",
       "role": "Product Owner (d/w/m)",
       "sector": "Tech",
@@ -220,33 +148,141 @@
       "experienceLevel": "Associate"
     },
     {
-      "id": 8,
-      "company": "Flinn.ai",
-      "role": "Senior Product Manager (w/m/d)",
+      "id": 5,
+      "company": "REWE International AG",
+      "role": "Chief Product Owner CRM Services (m/w/x)",
       "sector": "Tech",
-      "posted": "2026-07-29",
+      "posted": "2026-07-30",
       "salary": "—",
       "city": "Vienna",
       "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/senior-product-manager-w-m-d-at-flinn-ai-4444119427?trk=public_jobs_topcard-title",
+      "url": "https://at.linkedin.com/jobs/view/chief-product-owner-crm-services-m-w-x-at-rewe-international-ag-4444421708?trk=public_jobs_topcard-title",
       "status": "Not applied",
-      "fitScore": 46,
+      "fitScore": 50,
       "matchedKeywords": [
-        "Product Management",
-        "Product Roadmap",
-        "LLM"
+        "Product Owner",
+        "Data-driven"
       ],
       "unmatchedKeywords": [
-        "Product Owner",
+        "Product Management",
         "Agile",
         "Backlog Prioritisation",
         "Stakeholder Management",
         "User Story",
+        "Product Roadmap",
+        "LLM",
         "API",
         "iGaming",
         "Payments",
         "UAT",
         "JIRA",
+        "Cross-functional",
+        "CBAP"
+      ],
+      "applicationsCount": "Be among the first 25 applicants",
+      "contractType": "Full-time",
+      "experienceLevel": "Mid-Senior level"
+    },
+    {
+      "id": 3,
+      "company": "SBG Associates",
+      "role": "IT Business Analyst",
+      "sector": "Tech",
+      "posted": "2026-07-30",
+      "salary": "65–80",
+      "city": "Vienna",
+      "platform": "LinkedIn",
+      "url": "https://at.linkedin.com/jobs/view/it-business-analyst-at-sbg-associates-4444551415?trk=public_jobs_topcard-title",
+      "status": "Not applied",
+      "fitScore": 32,
+      "matchedKeywords": [
+        "Stakeholder Management",
+        "User Story",
+        "UAT",
+        "JIRA",
+        "Cross-functional"
+      ],
+      "unmatchedKeywords": [
+        "Product Owner",
+        "Product Management",
+        "Agile",
+        "Backlog Prioritisation",
+        "Product Roadmap",
+        "LLM",
+        "API",
+        "iGaming",
+        "Payments",
+        "Data-driven",
+        "CBAP"
+      ],
+      "applicationsCount": "Be among the first 25 applicants",
+      "contractType": "Full-time",
+      "experienceLevel": "Mid-Senior level"
+    },
+    {
+      "id": 4,
+      "company": "3 Banken IT GmbH",
+      "role": "Assetmanager Jira Service Management (w/m/d)",
+      "sector": "Fintech",
+      "posted": "2026-07-30",
+      "salary": "—",
+      "city": "Linz",
+      "platform": "LinkedIn",
+      "url": "https://at.linkedin.com/jobs/view/assetmanager-jira-service-management-w-m-d-at-3-banken-it-gmbh-4389995227?trk=public_jobs_topcard-title",
+      "status": "Not applied",
+      "fitScore": 15,
+      "matchedKeywords": [
+        "Product Owner",
+        "JIRA"
+      ],
+      "unmatchedKeywords": [
+        "Product Management",
+        "Agile",
+        "Backlog Prioritisation",
+        "Stakeholder Management",
+        "User Story",
+        "Product Roadmap",
+        "LLM",
+        "API",
+        "iGaming",
+        "Payments",
+        "UAT",
+        "Cross-functional",
+        "Data-driven",
+        "CBAP"
+      ],
+      "applicationsCount": "Be among the first 25 applicants",
+      "contractType": "Full-time",
+      "experienceLevel": "Associate"
+    },
+    {
+      "id": 8,
+      "company": "XXXLdigital – Part of XXXL Group",
+      "role": "Produkt Manager - Preisauszeichnung (m/w/d)",
+      "sector": "Tech",
+      "posted": "2026-07-30",
+      "salary": "—",
+      "city": "Wels",
+      "platform": "LinkedIn",
+      "url": "https://at.linkedin.com/jobs/view/produkt-manager-preisauszeichnung-m-w-d-at-xxxldigital-%E2%80%93-part-of-xxxl-group-4446729563?trk=public_jobs_topcard-title",
+      "status": "Not applied",
+      "fitScore": 15,
+      "matchedKeywords": [
+        "Product Owner",
+        "JIRA"
+      ],
+      "unmatchedKeywords": [
+        "Product Management",
+        "Agile",
+        "Backlog Prioritisation",
+        "Stakeholder Management",
+        "User Story",
+        "Product Roadmap",
+        "LLM",
+        "API",
+        "iGaming",
+        "Payments",
+        "UAT",
         "Cross-functional",
         "Data-driven",
         "CBAP"
@@ -254,78 +290,6 @@
       "applicationsCount": "Be among the first 25 applicants",
       "contractType": "Full-time",
       "experienceLevel": "Not Applicable"
-    },
-    {
-      "id": 7,
-      "company": "Brunel",
-      "role": "Technical Project Manager | Systems Engineering & Vehicle Development",
-      "sector": "Automotive",
-      "posted": "2026-07-29",
-      "salary": "—",
-      "city": "Vienna",
-      "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/technical-project-manager-systems-engineering-vehicle-development-at-brunel-4446574454?trk=public_jobs_topcard-title",
-      "status": "Not applied",
-      "fitScore": 11,
-      "matchedKeywords": [
-        "CBAP"
-      ],
-      "unmatchedKeywords": [
-        "Product Owner",
-        "Product Management",
-        "Agile",
-        "Backlog Prioritisation",
-        "Stakeholder Management",
-        "User Story",
-        "Product Roadmap",
-        "LLM",
-        "API",
-        "iGaming",
-        "Payments",
-        "UAT",
-        "JIRA",
-        "Cross-functional",
-        "Data-driven"
-      ],
-      "applicationsCount": "Be among the first 25 applicants",
-      "contractType": "Full-time",
-      "experienceLevel": "Mid-Senior level"
-    },
-    {
-      "id": 9,
-      "company": "Guid.New GmbH",
-      "role": "Senior Full-Stack Entwickler:in (w/m/d)",
-      "sector": "Tech",
-      "posted": "2026-07-29",
-      "salary": "—",
-      "city": "Raaba",
-      "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/senior-full-stack-entwickler-in-w-m-d-at-guid-new-gmbh-4444115202?trk=public_jobs_topcard-title",
-      "status": "Not applied",
-      "fitScore": 11,
-      "matchedKeywords": [
-        "Product Owner"
-      ],
-      "unmatchedKeywords": [
-        "Product Management",
-        "Agile",
-        "Backlog Prioritisation",
-        "Stakeholder Management",
-        "User Story",
-        "Product Roadmap",
-        "LLM",
-        "API",
-        "iGaming",
-        "Payments",
-        "UAT",
-        "JIRA",
-        "Cross-functional",
-        "Data-driven",
-        "CBAP"
-      ],
-      "applicationsCount": "Be among the first 25 applicants",
-      "contractType": "Full-time",
-      "experienceLevel": "Mid-Senior level"
     }
   ]
 }
