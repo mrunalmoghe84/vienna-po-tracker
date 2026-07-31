@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-07-31T08:31:17.311Z",
+  "synced_at": "2026-07-31T13:28:39.815Z",
   "source": "LinkedIn via Apify (last 24h)",
   "count": 12,
   "jobs": [
@@ -40,7 +40,43 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 3,
+      "id": 9,
+      "company": "Cryptonow",
+      "role": "Senior Product Owner",
+      "sector": "Tech",
+      "posted": "2026-07-31",
+      "salary": "—",
+      "city": "Innere Stadt",
+      "platform": "LinkedIn",
+      "url": "https://at.linkedin.com/jobs/view/senior-product-owner-at-cryptonow-4445099074?trk=public_jobs_topcard-title",
+      "status": "Not applied",
+      "fitScore": 56,
+      "matchedKeywords": [
+        "Product Owner",
+        "User Story",
+        "Payments",
+        "JIRA"
+      ],
+      "unmatchedKeywords": [
+        "Product Management",
+        "Agile",
+        "Backlog Prioritisation",
+        "Stakeholder Management",
+        "Product Roadmap",
+        "LLM",
+        "API",
+        "iGaming",
+        "UAT",
+        "Cross-functional",
+        "Data-driven",
+        "CBAP"
+      ],
+      "applicationsCount": "Be among the first 25 applicants",
+      "contractType": "Full-time",
+      "experienceLevel": "Not Applicable"
+    },
+    {
+      "id": 6,
       "company": "Frequentis",
       "role": "Operational Product Manager - Public Transport (all genders)",
       "sector": "iGaming",
@@ -76,24 +112,24 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 5,
-      "company": "REWE International AG",
-      "role": "Chief Product Owner CRM Services (m/w/x)",
-      "sector": "Tech",
-      "posted": "2026-07-30",
+      "id": 3,
+      "company": "3 Banken IT GmbH",
+      "role": "Product Owner Data Platform & Operations (w/m/d)",
+      "sector": "Fintech",
+      "posted": "2026-07-31",
       "salary": "—",
-      "city": "Vienna",
+      "city": "Innsbruck",
       "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/chief-product-owner-crm-services-m-w-x-at-rewe-international-ag-4444421708?trk=public_jobs_topcard-title",
+      "url": "https://at.linkedin.com/jobs/view/product-owner-data-platform-operations-w-m-d-at-3-banken-it-gmbh-4420232232?trk=public_jobs_topcard-title",
       "status": "Not applied",
       "fitScore": 50,
       "matchedKeywords": [
-        "Product Owner",
-        "Data-driven"
+        "Agile",
+        "CBAP"
       ],
       "unmatchedKeywords": [
+        "Product Owner",
         "Product Management",
-        "Agile",
         "Backlog Prioritisation",
         "Stakeholder Management",
         "User Story",
@@ -105,14 +141,14 @@
         "UAT",
         "JIRA",
         "Cross-functional",
-        "CBAP"
+        "Data-driven"
       ],
       "applicationsCount": "Be among the first 25 applicants",
       "contractType": "Full-time",
-      "experienceLevel": "Mid-Senior level"
+      "experienceLevel": "Associate"
     },
     {
-      "id": 11,
+      "id": 1,
       "company": "RELX",
       "role": "Product Manager (m/w/d)",
       "sector": "Tech",
@@ -148,43 +184,7 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 1,
-      "company": "REWE International AG",
-      "role": "Product Owner (m/w/x) - Customer Masterdata",
-      "sector": "Tech",
-      "posted": "2026-07-30",
-      "salary": "—",
-      "city": "Vienna",
-      "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/product-owner-m-w-x-customer-masterdata-at-rewe-international-ag-4444429357?trk=public_jobs_topcard-title",
-      "status": "Not applied",
-      "fitScore": 46,
-      "matchedKeywords": [
-        "Product Owner"
-      ],
-      "unmatchedKeywords": [
-        "Product Management",
-        "Agile",
-        "Backlog Prioritisation",
-        "Stakeholder Management",
-        "User Story",
-        "Product Roadmap",
-        "LLM",
-        "API",
-        "iGaming",
-        "Payments",
-        "UAT",
-        "JIRA",
-        "Cross-functional",
-        "Data-driven",
-        "CBAP"
-      ],
-      "applicationsCount": "",
-      "contractType": "Full-time",
-      "experienceLevel": "Mid-Senior level"
-    },
-    {
-      "id": 6,
+      "id": 10,
       "company": "MIC Customs Solutions",
       "role": "Product Owner Export Controls (w/m/x)",
       "sector": "Tech",
@@ -220,7 +220,7 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 12,
+      "id": 8,
       "company": "world4you Internet Services GmbH",
       "role": "Product Manager (m/w/d)",
       "sector": "Tech",
@@ -255,22 +255,20 @@
       "experienceLevel": "Associate"
     },
     {
-      "id": 10,
-      "company": "SBG Associates",
-      "role": "IT Business Analyst",
+      "id": 12,
+      "company": "NXP Semiconductors",
+      "role": "Senior Business Development Manager (System Sales – Drones)",
       "sector": "Tech",
-      "posted": "2026-07-30",
-      "salary": "65–80",
-      "city": "Vienna",
+      "posted": "2026-07-31",
+      "salary": "—",
+      "city": "Gratkorn",
       "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/it-business-analyst-at-sbg-associates-4444551415?trk=public_jobs_topcard-title",
+      "url": "https://at.linkedin.com/jobs/view/senior-business-development-manager-system-sales-%E2%80%93-drones-at-nxp-semiconductors-4429963082?trk=public_jobs_topcard-title",
       "status": "Not applied",
-      "fitScore": 32,
+      "fitScore": 18,
       "matchedKeywords": [
         "Stakeholder Management",
-        "User Story",
-        "UAT",
-        "JIRA",
+        "LLM",
         "Cross-functional"
       ],
       "unmatchedKeywords": [
@@ -278,112 +276,43 @@
         "Product Management",
         "Agile",
         "Backlog Prioritisation",
+        "User Story",
         "Product Roadmap",
-        "LLM",
         "API",
         "iGaming",
         "Payments",
+        "UAT",
+        "JIRA",
         "Data-driven",
         "CBAP"
       ],
-      "applicationsCount": "Be among the first 25 applicants",
+      "applicationsCount": "",
       "contractType": "Full-time",
       "experienceLevel": "Mid-Senior level"
     },
     {
-      "id": 7,
-      "company": "3 Banken IT GmbH",
-      "role": "Assetmanager Jira Service Management (w/m/d)",
-      "sector": "Fintech",
-      "posted": "2026-07-30",
-      "salary": "—",
-      "city": "Linz",
-      "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/assetmanager-jira-service-management-w-m-d-at-3-banken-it-gmbh-4389995227?trk=public_jobs_topcard-title",
-      "status": "Not applied",
-      "fitScore": 15,
-      "matchedKeywords": [
-        "Product Owner",
-        "JIRA"
-      ],
-      "unmatchedKeywords": [
-        "Product Management",
-        "Agile",
-        "Backlog Prioritisation",
-        "Stakeholder Management",
-        "User Story",
-        "Product Roadmap",
-        "LLM",
-        "API",
-        "iGaming",
-        "Payments",
-        "UAT",
-        "Cross-functional",
-        "Data-driven",
-        "CBAP"
-      ],
-      "applicationsCount": "Be among the first 25 applicants",
-      "contractType": "Full-time",
-      "experienceLevel": "Associate"
-    },
-    {
-      "id": 8,
-      "company": "XXXLdigital – Part of XXXL Group",
-      "role": "Produkt Manager - Preisauszeichnung (m/w/d)",
-      "sector": "Tech",
-      "posted": "2026-07-30",
-      "salary": "—",
-      "city": "Wels",
-      "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/produkt-manager-preisauszeichnung-m-w-d-at-xxxldigital-%E2%80%93-part-of-xxxl-group-4446729563?trk=public_jobs_topcard-title",
-      "status": "Not applied",
-      "fitScore": 15,
-      "matchedKeywords": [
-        "Product Owner",
-        "JIRA"
-      ],
-      "unmatchedKeywords": [
-        "Product Management",
-        "Agile",
-        "Backlog Prioritisation",
-        "Stakeholder Management",
-        "User Story",
-        "Product Roadmap",
-        "LLM",
-        "API",
-        "iGaming",
-        "Payments",
-        "UAT",
-        "Cross-functional",
-        "Data-driven",
-        "CBAP"
-      ],
-      "applicationsCount": "Be among the first 25 applicants",
-      "contractType": "Full-time",
-      "experienceLevel": "Not Applicable"
-    },
-    {
       "id": 4,
-      "company": "zerothird",
-      "role": "Solutions Architect (Quantum-Secure Networks) - all genders",
+      "company": "XXXLdigital – Part of XXXL Group",
+      "role": "Director of Digital Produktmanagement (m/w/d)",
       "sector": "Tech",
       "posted": "2026-07-31",
       "salary": "—",
-      "city": "Vienna",
+      "city": "Wels",
       "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/solutions-architect-quantum-secure-networks-all-genders-at-zerothird-4445090448?trk=public_jobs_topcard-title",
+      "url": "https://at.linkedin.com/jobs/view/director-of-digital-produktmanagement-m-w-d-at-xxxldigital-%E2%80%93-part-of-xxxl-group-4435675966?trk=public_jobs_topcard-title",
       "status": "Not applied",
-      "fitScore": 11,
+      "fitScore": 15,
       "matchedKeywords": [
-        "Product Roadmap"
+        "Product Owner",
+        "Data-driven"
       ],
       "unmatchedKeywords": [
-        "Product Owner",
         "Product Management",
         "Agile",
         "Backlog Prioritisation",
         "Stakeholder Management",
         "User Story",
+        "Product Roadmap",
         "LLM",
         "API",
         "iGaming",
@@ -391,15 +320,14 @@
         "UAT",
         "JIRA",
         "Cross-functional",
-        "Data-driven",
         "CBAP"
       ],
       "applicationsCount": "Be among the first 25 applicants",
       "contractType": "Full-time",
-      "experienceLevel": "Mid-Senior level"
+      "experienceLevel": "Not Applicable"
     },
     {
-      "id": 9,
+      "id": 5,
       "company": "City of Vienna",
       "role": "Serviceverantwortliche*r für Alfresco",
       "sector": "Tech",
@@ -433,6 +361,78 @@
       "applicationsCount": "Be among the first 25 applicants",
       "contractType": "Full-time",
       "experienceLevel": "Not Applicable"
+    },
+    {
+      "id": 7,
+      "company": "USTP – University of Applied Sciences St. Pölten",
+      "role": "Assistent*in Campus und Study Center (w/m/d) (35-40h)",
+      "sector": "Tech",
+      "posted": "2026-07-31",
+      "salary": "—",
+      "city": "St Pölten",
+      "platform": "LinkedIn",
+      "url": "https://at.linkedin.com/jobs/view/assistent-in-campus-und-study-center-w-m-d-35-40h-at-ustp-%E2%80%93-university-of-applied-sciences-st-p%C3%B6lten-4424051850?trk=public_jobs_topcard-title",
+      "status": "Not applied",
+      "fitScore": 11,
+      "matchedKeywords": [
+        "Product Owner"
+      ],
+      "unmatchedKeywords": [
+        "Product Management",
+        "Agile",
+        "Backlog Prioritisation",
+        "Stakeholder Management",
+        "User Story",
+        "Product Roadmap",
+        "LLM",
+        "API",
+        "iGaming",
+        "Payments",
+        "UAT",
+        "JIRA",
+        "Cross-functional",
+        "Data-driven",
+        "CBAP"
+      ],
+      "applicationsCount": "",
+      "contractType": "Full-time",
+      "experienceLevel": "Associate"
+    },
+    {
+      "id": 11,
+      "company": "zerothird",
+      "role": "Solutions Architect (Quantum-Secure Networks) - all genders",
+      "sector": "Tech",
+      "posted": "2026-07-31",
+      "salary": "—",
+      "city": "Vienna",
+      "platform": "LinkedIn",
+      "url": "https://at.linkedin.com/jobs/view/solutions-architect-quantum-secure-networks-all-genders-at-zerothird-4445090448?trk=public_jobs_topcard-title",
+      "status": "Not applied",
+      "fitScore": 11,
+      "matchedKeywords": [
+        "Product Roadmap"
+      ],
+      "unmatchedKeywords": [
+        "Product Owner",
+        "Product Management",
+        "Agile",
+        "Backlog Prioritisation",
+        "Stakeholder Management",
+        "User Story",
+        "LLM",
+        "API",
+        "iGaming",
+        "Payments",
+        "UAT",
+        "JIRA",
+        "Cross-functional",
+        "Data-driven",
+        "CBAP"
+      ],
+      "applicationsCount": "Be among the first 25 applicants",
+      "contractType": "Full-time",
+      "experienceLevel": "Mid-Senior level"
     }
   ]
 }
