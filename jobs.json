@@ -1,46 +1,10 @@
 {
-  "synced_at": "2026-07-31T13:28:39.815Z",
+  "synced_at": "2026-07-31T19:05:22.319Z",
   "source": "LinkedIn via Apify (last 24h)",
   "count": 12,
   "jobs": [
     {
-      "id": 2,
-      "company": "HARGASSNER France",
-      "role": "Product Owner & Softwarearchitekt für EoL Prüfstände (m/w/d)",
-      "sector": "Tech",
-      "posted": "2026-07-31",
-      "salary": "—",
-      "city": "Weng im Innkreis",
-      "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/product-owner-softwarearchitekt-f%C3%BCr-eol-pr%C3%BCfst%C3%A4nde-m-w-d-at-hargassner-france-4447221870?trk=public_jobs_topcard-title",
-      "status": "Not applied",
-      "fitScore": 56,
-      "matchedKeywords": [
-        "Product Owner",
-        "Agile",
-        "User Story",
-        "CBAP"
-      ],
-      "unmatchedKeywords": [
-        "Product Management",
-        "Backlog Prioritisation",
-        "Stakeholder Management",
-        "Product Roadmap",
-        "LLM",
-        "API",
-        "iGaming",
-        "Payments",
-        "UAT",
-        "JIRA",
-        "Cross-functional",
-        "Data-driven"
-      ],
-      "applicationsCount": "Be among the first 25 applicants",
-      "contractType": "Full-time",
-      "experienceLevel": "Not Applicable"
-    },
-    {
-      "id": 9,
+      "id": 1,
       "company": "Cryptonow",
       "role": "Senior Product Owner",
       "sector": "Tech",
@@ -76,38 +40,74 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 6,
-      "company": "Frequentis",
-      "role": "Operational Product Manager - Public Transport (all genders)",
-      "sector": "iGaming",
-      "posted": "2026-07-30",
+      "id": 5,
+      "company": "JTM digital GmbH",
+      "role": "Senior Product Owner (m/w/d) mit Projektverantwortung",
+      "sector": "Tech",
+      "posted": "2026-07-31",
       "salary": "—",
       "city": "Vienna",
       "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/operational-product-manager-public-transport-all-genders-at-frequentis-4409937700?trk=public_jobs_topcard-title",
+      "url": "https://at.linkedin.com/jobs/view/senior-product-owner-m-w-d-mit-projektverantwortung-at-jtm-digital-gmbh-4445504330?trk=public_jobs_topcard-title",
       "status": "Not applied",
-      "fitScore": 55,
+      "fitScore": 56,
       "matchedKeywords": [
         "Product Owner",
-        "Product Management",
         "Agile",
         "Backlog Prioritisation",
-        "Stakeholder Management",
-        "JIRA"
+        "User Story"
       ],
       "unmatchedKeywords": [
-        "User Story",
+        "Product Management",
+        "Stakeholder Management",
         "Product Roadmap",
         "LLM",
         "API",
         "iGaming",
         "Payments",
         "UAT",
+        "JIRA",
         "Cross-functional",
         "Data-driven",
         "CBAP"
       ],
-      "applicationsCount": "",
+      "applicationsCount": "Be among the first 25 applicants",
+      "contractType": "Full-time",
+      "experienceLevel": "Director"
+    },
+    {
+      "id": 7,
+      "company": "HARGASSNER France",
+      "role": "Product Owner & Softwarearchitekt für EoL Prüfstände (m/w/d)",
+      "sector": "Tech",
+      "posted": "2026-07-31",
+      "salary": "—",
+      "city": "Weng im Innkreis",
+      "platform": "LinkedIn",
+      "url": "https://at.linkedin.com/jobs/view/product-owner-softwarearchitekt-f%C3%BCr-eol-pr%C3%BCfst%C3%A4nde-m-w-d-at-hargassner-france-4447221870?trk=public_jobs_topcard-title",
+      "status": "Not applied",
+      "fitScore": 56,
+      "matchedKeywords": [
+        "Product Owner",
+        "Agile",
+        "User Story",
+        "CBAP"
+      ],
+      "unmatchedKeywords": [
+        "Product Management",
+        "Backlog Prioritisation",
+        "Stakeholder Management",
+        "Product Roadmap",
+        "LLM",
+        "API",
+        "iGaming",
+        "Payments",
+        "UAT",
+        "JIRA",
+        "Cross-functional",
+        "Data-driven"
+      ],
+      "applicationsCount": "Be among the first 25 applicants",
       "contractType": "Full-time",
       "experienceLevel": "Not Applicable"
     },
@@ -148,35 +148,35 @@
       "experienceLevel": "Associate"
     },
     {
-      "id": 1,
-      "company": "RELX",
-      "role": "Product Manager (m/w/d)",
+      "id": 2,
+      "company": "INNIO Group",
+      "role": "Service Product Manager (m/f/d) Fluency in German",
       "sector": "Tech",
-      "posted": "2026-07-30",
+      "posted": "2026-07-31",
       "salary": "—",
-      "city": "Vienna",
+      "city": "Jenbach",
       "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/product-manager-m-w-d-at-relx-4446778032?trk=public_jobs_topcard-title",
+      "url": "https://at.linkedin.com/jobs/view/service-product-manager-m-f-d-fluency-in-german-at-innio-group-4437551179?trk=public_jobs_topcard-title",
       "status": "Not applied",
-      "fitScore": 49,
+      "fitScore": 46,
       "matchedKeywords": [
-        "Product Owner",
-        "LLM",
-        "JIRA",
+        "Product Management",
+        "Cross-functional",
         "Data-driven"
       ],
       "unmatchedKeywords": [
-        "Product Management",
+        "Product Owner",
         "Agile",
         "Backlog Prioritisation",
         "Stakeholder Management",
         "User Story",
         "Product Roadmap",
+        "LLM",
         "API",
         "iGaming",
         "Payments",
         "UAT",
-        "Cross-functional",
+        "JIRA",
         "CBAP"
       ],
       "applicationsCount": "Be among the first 25 applicants",
@@ -184,17 +184,17 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 10,
-      "company": "MIC Customs Solutions",
-      "role": "Product Owner Export Controls (w/m/x)",
+      "id": 6,
+      "company": "IMCD Group",
+      "role": "Product Manager Food & Nutrition",
       "sector": "Tech",
-      "posted": "2026-07-30",
+      "posted": "2026-07-31",
       "salary": "—",
       "city": "Vienna",
       "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/product-owner-export-controls-w-m-x-at-mic-customs-solutions-4438637458?trk=public_jobs_topcard-title",
+      "url": "https://at.linkedin.com/jobs/view/product-manager-food-nutrition-at-imcd-group-4436543086?trk=public_jobs_topcard-title",
       "status": "Not applied",
-      "fitScore": 46,
+      "fitScore": 39,
       "matchedKeywords": [
         "Stakeholder Management"
       ],
@@ -215,12 +215,12 @@
         "Data-driven",
         "CBAP"
       ],
-      "applicationsCount": "Be among the first 25 applicants",
+      "applicationsCount": "",
       "contractType": "Full-time",
-      "experienceLevel": "Not Applicable"
+      "experienceLevel": "Associate"
     },
     {
-      "id": 8,
+      "id": 9,
       "company": "world4you Internet Services GmbH",
       "role": "Product Manager (m/w/d)",
       "sector": "Tech",
@@ -255,7 +255,7 @@
       "experienceLevel": "Associate"
     },
     {
-      "id": 12,
+      "id": 11,
       "company": "NXP Semiconductors",
       "role": "Senior Business Development Manager (System Sales – Drones)",
       "sector": "Tech",
@@ -291,7 +291,7 @@
       "experienceLevel": "Mid-Senior level"
     },
     {
-      "id": 4,
+      "id": 10,
       "company": "XXXLdigital – Part of XXXL Group",
       "role": "Director of Digital Produktmanagement (m/w/d)",
       "sector": "Tech",
@@ -327,15 +327,15 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 5,
-      "company": "City of Vienna",
-      "role": "Serviceverantwortliche*r für Alfresco",
+      "id": 4,
+      "company": "KTM AG",
+      "role": "(Senior) Full Stack Developer*",
       "sector": "Tech",
-      "posted": "2026-07-30",
+      "posted": "2026-07-31",
       "salary": "—",
-      "city": "Vienna",
+      "city": "Mattighofen",
       "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/serviceverantwortliche-r-f%C3%BCr-alfresco-at-city-of-vienna-4438588839?trk=public_jobs_topcard-title",
+      "url": "https://at.linkedin.com/jobs/view/senior-full-stack-developer-at-ktm-ag-4430700756?trk=public_jobs_topcard-title",
       "status": "Not applied",
       "fitScore": 11,
       "matchedKeywords": [
@@ -358,12 +358,12 @@
         "Data-driven",
         "CBAP"
       ],
-      "applicationsCount": "Be among the first 25 applicants",
+      "applicationsCount": "",
       "contractType": "Full-time",
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 7,
+      "id": 8,
       "company": "USTP – University of Applied Sciences St. Pölten",
       "role": "Assistent*in Campus und Study Center (w/m/d) (35-40h)",
       "sector": "Tech",
@@ -399,7 +399,7 @@
       "experienceLevel": "Associate"
     },
     {
-      "id": 11,
+      "id": 12,
       "company": "zerothird",
       "role": "Solutions Architect (Quantum-Secure Networks) - all genders",
       "sector": "Tech",
