@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-07-31T01:44:48.336Z",
+  "synced_at": "2026-07-31T08:31:17.311Z",
   "source": "LinkedIn via Apify (last 24h)",
-  "count": 11,
+  "count": 12,
   "jobs": [
     {
-      "id": 9,
+      "id": 2,
       "company": "HARGASSNER France",
       "role": "Product Owner & Softwarearchitekt für EoL Prüfstände (m/w/d)",
       "sector": "Tech",
@@ -40,7 +40,7 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 4,
+      "id": 3,
       "company": "Frequentis",
       "role": "Operational Product Manager - Public Transport (all genders)",
       "sector": "iGaming",
@@ -76,7 +76,7 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 6,
+      "id": 5,
       "company": "REWE International AG",
       "role": "Chief Product Owner CRM Services (m/w/x)",
       "sector": "Tech",
@@ -112,7 +112,7 @@
       "experienceLevel": "Mid-Senior level"
     },
     {
-      "id": 8,
+      "id": 11,
       "company": "RELX",
       "role": "Product Manager (m/w/d)",
       "sector": "Tech",
@@ -148,43 +148,7 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 3,
-      "company": "Flowserve Corporation",
-      "role": "Product Manager - Rotary Control Valves",
-      "sector": "Tech",
-      "posted": "2026-07-30",
-      "salary": "—",
-      "city": "Villach",
-      "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/product-manager-rotary-control-valves-at-flowserve-corporation-4436188176?trk=public_jobs_topcard-title",
-      "status": "Not applied",
-      "fitScore": 46,
-      "matchedKeywords": [
-        "Product Management",
-        "Cross-functional",
-        "Data-driven"
-      ],
-      "unmatchedKeywords": [
-        "Product Owner",
-        "Agile",
-        "Backlog Prioritisation",
-        "Stakeholder Management",
-        "User Story",
-        "Product Roadmap",
-        "LLM",
-        "API",
-        "iGaming",
-        "Payments",
-        "UAT",
-        "JIRA",
-        "CBAP"
-      ],
-      "applicationsCount": "Be among the first 25 applicants",
-      "contractType": "Full-time",
-      "experienceLevel": "Not Applicable"
-    },
-    {
-      "id": 7,
+      "id": 1,
       "company": "REWE International AG",
       "role": "Product Owner (m/w/x) - Customer Masterdata",
       "sector": "Tech",
@@ -215,12 +179,12 @@
         "Data-driven",
         "CBAP"
       ],
-      "applicationsCount": "Be among the first 25 applicants",
+      "applicationsCount": "",
       "contractType": "Full-time",
       "experienceLevel": "Mid-Senior level"
     },
     {
-      "id": 10,
+      "id": 6,
       "company": "MIC Customs Solutions",
       "role": "Product Owner Export Controls (w/m/x)",
       "sector": "Tech",
@@ -256,7 +220,42 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 11,
+      "id": 12,
+      "company": "world4you Internet Services GmbH",
+      "role": "Product Manager (m/w/d)",
+      "sector": "Tech",
+      "posted": "2026-07-31",
+      "salary": "—",
+      "city": "Vienna",
+      "platform": "LinkedIn",
+      "url": "https://at.linkedin.com/jobs/view/product-manager-m-w-d-at-world4you-internet-services-gmbh-4445071461?trk=public_jobs_topcard-title",
+      "status": "Not applied",
+      "fitScore": 36,
+      "matchedKeywords": [],
+      "unmatchedKeywords": [
+        "Product Owner",
+        "Product Management",
+        "Agile",
+        "Backlog Prioritisation",
+        "Stakeholder Management",
+        "User Story",
+        "Product Roadmap",
+        "LLM",
+        "API",
+        "iGaming",
+        "Payments",
+        "UAT",
+        "JIRA",
+        "Cross-functional",
+        "Data-driven",
+        "CBAP"
+      ],
+      "applicationsCount": "Be among the first 25 applicants",
+      "contractType": "Full-time",
+      "experienceLevel": "Associate"
+    },
+    {
+      "id": 10,
       "company": "SBG Associates",
       "role": "IT Business Analyst",
       "sector": "Tech",
@@ -292,7 +291,7 @@
       "experienceLevel": "Mid-Senior level"
     },
     {
-      "id": 1,
+      "id": 7,
       "company": "3 Banken IT GmbH",
       "role": "Assetmanager Jira Service Management (w/m/d)",
       "sector": "Fintech",
@@ -328,7 +327,7 @@
       "experienceLevel": "Associate"
     },
     {
-      "id": 2,
+      "id": 8,
       "company": "XXXLdigital – Part of XXXL Group",
       "role": "Produkt Manager - Preisauszeichnung (m/w/d)",
       "sector": "Tech",
@@ -364,7 +363,43 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 5,
+      "id": 4,
+      "company": "zerothird",
+      "role": "Solutions Architect (Quantum-Secure Networks) - all genders",
+      "sector": "Tech",
+      "posted": "2026-07-31",
+      "salary": "—",
+      "city": "Vienna",
+      "platform": "LinkedIn",
+      "url": "https://at.linkedin.com/jobs/view/solutions-architect-quantum-secure-networks-all-genders-at-zerothird-4445090448?trk=public_jobs_topcard-title",
+      "status": "Not applied",
+      "fitScore": 11,
+      "matchedKeywords": [
+        "Product Roadmap"
+      ],
+      "unmatchedKeywords": [
+        "Product Owner",
+        "Product Management",
+        "Agile",
+        "Backlog Prioritisation",
+        "Stakeholder Management",
+        "User Story",
+        "LLM",
+        "API",
+        "iGaming",
+        "Payments",
+        "UAT",
+        "JIRA",
+        "Cross-functional",
+        "Data-driven",
+        "CBAP"
+      ],
+      "applicationsCount": "Be among the first 25 applicants",
+      "contractType": "Full-time",
+      "experienceLevel": "Mid-Senior level"
+    },
+    {
+      "id": 9,
       "company": "City of Vienna",
       "role": "Serviceverantwortliche*r für Alfresco",
       "sector": "Tech",
