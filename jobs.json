@@ -1,66 +1,29 @@
 {
-  "synced_at": "2026-08-01T12:53:02.592Z",
+  "synced_at": "2026-08-01T18:52:03.206Z",
   "source": "LinkedIn via Apify (last 24h)",
-  "count": 5,
+  "count": 4,
   "jobs": [
     {
-      "id": 1,
-      "company": "JTM digital GmbH",
-      "role": "Senior Product Owner (m/w/d) mit Projektverantwortung",
-      "sector": "Tech",
-      "posted": "2026-07-31",
+      "id": 3,
+      "company": "Frequentis",
+      "role": "Operational Product Manager - Public Transport (all genders) - DE",
+      "sector": "iGaming",
+      "posted": "2026-08-01",
       "salary": "—",
       "city": "Vienna",
       "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/senior-product-owner-m-w-d-mit-projektverantwortung-at-jtm-digital-gmbh-4445504330?trk=public_jobs_topcard-title",
+      "url": "https://at.linkedin.com/jobs/view/operational-product-manager-public-transport-all-genders-de-at-frequentis-4411219606?trk=public_jobs_topcard-title",
       "status": "Not applied",
-      "fitScore": 56,
+      "fitScore": 52,
       "matchedKeywords": [
         "Product Owner",
         "Agile",
         "Backlog Prioritisation",
-        "User Story"
+        "Stakeholder Management",
+        "JIRA"
       ],
       "unmatchedKeywords": [
         "Product Management",
-        "Stakeholder Management",
-        "Product Roadmap",
-        "LLM",
-        "API",
-        "iGaming",
-        "Payments",
-        "UAT",
-        "JIRA",
-        "Cross-functional",
-        "Data-driven",
-        "CBAP"
-      ],
-      "applicationsCount": "Be among the first 25 applicants",
-      "contractType": "Full-time",
-      "experienceLevel": "Director"
-    },
-    {
-      "id": 5,
-      "company": "INNIO Group",
-      "role": "Service Product Manager (m/f/d) Fluency in German",
-      "sector": "Tech",
-      "posted": "2026-07-31",
-      "salary": "—",
-      "city": "Jenbach",
-      "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/service-product-manager-m-f-d-fluency-in-german-at-innio-group-4437551179?trk=public_jobs_topcard-title",
-      "status": "Not applied",
-      "fitScore": 46,
-      "matchedKeywords": [
-        "Product Management",
-        "Cross-functional",
-        "Data-driven"
-      ],
-      "unmatchedKeywords": [
-        "Product Owner",
-        "Agile",
-        "Backlog Prioritisation",
-        "Stakeholder Management",
         "User Story",
         "Product Roadmap",
         "LLM",
@@ -68,7 +31,8 @@
         "iGaming",
         "Payments",
         "UAT",
-        "JIRA",
+        "Cross-functional",
+        "Data-driven",
         "CBAP"
       ],
       "applicationsCount": "Be among the first 25 applicants",
@@ -76,25 +40,25 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 2,
-      "company": "IMCD Group",
-      "role": "Product Manager Food & Nutrition",
+      "id": 1,
+      "company": "Porsche Holding",
+      "role": "Product Owner Academy & Sales IT Trainer (w/m/d)",
       "sector": "Tech",
-      "posted": "2026-07-31",
+      "posted": "2026-08-01",
       "salary": "—",
-      "city": "Vienna",
+      "city": "Salzburg",
       "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/product-manager-food-nutrition-at-imcd-group-4436543086?trk=public_jobs_topcard-title",
+      "url": "https://at.linkedin.com/jobs/view/product-owner-academy-sales-it-trainer-w-m-d-at-porsche-holding-4430710328?trk=public_jobs_topcard-title",
       "status": "Not applied",
-      "fitScore": 39,
+      "fitScore": 46,
       "matchedKeywords": [
-        "Stakeholder Management"
+        "Agile"
       ],
       "unmatchedKeywords": [
         "Product Owner",
         "Product Management",
-        "Agile",
         "Backlog Prioritisation",
+        "Stakeholder Management",
         "User Story",
         "Product Roadmap",
         "LLM",
@@ -107,28 +71,27 @@
         "Data-driven",
         "CBAP"
       ],
-      "applicationsCount": "",
+      "applicationsCount": "Be among the first 25 applicants",
       "contractType": "Full-time",
       "experienceLevel": "Associate"
     },
     {
-      "id": 3,
-      "company": "XXXLdigital – Part of XXXL Group",
-      "role": "Director of Digital Produktmanagement (m/w/d)",
+      "id": 2,
+      "company": "Bilfinger Life Science",
+      "role": "Product Manager - Advanced Industries (m/w/d)",
       "sector": "Tech",
-      "posted": "2026-07-31",
+      "posted": "2026-08-01",
       "salary": "—",
-      "city": "Linz",
+      "city": "Puch bei Hallein",
       "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/director-of-digital-produktmanagement-m-w-d-at-xxxldigital-%E2%80%93-part-of-xxxl-group-4435689476?trk=public_jobs_topcard-title",
+      "url": "https://at.linkedin.com/jobs/view/product-manager-advanced-industries-m-w-d-at-bilfinger-life-science-4435993409?trk=public_jobs_topcard-title",
       "status": "Not applied",
-      "fitScore": 15,
+      "fitScore": 39,
       "matchedKeywords": [
-        "Product Owner",
-        "Data-driven"
+        "Product Management"
       ],
       "unmatchedKeywords": [
-        "Product Management",
+        "Product Owner",
         "Agile",
         "Backlog Prioritisation",
         "Stakeholder Management",
@@ -141,6 +104,7 @@
         "UAT",
         "JIRA",
         "Cross-functional",
+        "Data-driven",
         "CBAP"
       ],
       "applicationsCount": "Be among the first 25 applicants",
@@ -149,22 +113,24 @@
     },
     {
       "id": 4,
-      "company": "KTM AG",
-      "role": "(Senior) Full Stack Developer*",
+      "company": "talentbird GmbH",
+      "role": "Business Analyst:in / Requirements Engineer (w/m/d)",
       "sector": "Tech",
-      "posted": "2026-07-31",
+      "posted": "2026-08-01",
       "salary": "—",
-      "city": "Mattighofen",
+      "city": "Vienna",
       "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/senior-full-stack-developer-at-ktm-ag-4430700756?trk=public_jobs_topcard-title",
+      "url": "https://at.linkedin.com/jobs/view/business-analyst-in-requirements-engineer-w-m-d-at-talentbird-gmbh-4406469338?trk=public_jobs_topcard-title",
       "status": "Not applied",
-      "fitScore": 11,
+      "fitScore": 26,
       "matchedKeywords": [
-        "Product Owner"
+        "Agile",
+        "JIRA",
+        "CBAP"
       ],
       "unmatchedKeywords": [
+        "Product Owner",
         "Product Management",
-        "Agile",
         "Backlog Prioritisation",
         "Stakeholder Management",
         "User Story",
@@ -174,14 +140,12 @@
         "iGaming",
         "Payments",
         "UAT",
-        "JIRA",
         "Cross-functional",
-        "Data-driven",
-        "CBAP"
+        "Data-driven"
       ],
       "applicationsCount": "",
       "contractType": "Full-time",
-      "experienceLevel": "Not Applicable"
+      "experienceLevel": "Associate"
     }
   ]
 }
