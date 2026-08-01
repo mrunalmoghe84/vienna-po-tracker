@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-08-01T08:01:07.670Z",
+  "synced_at": "2026-08-01T12:53:02.592Z",
   "source": "LinkedIn via Apify (last 24h)",
-  "count": 9,
+  "count": 5,
   "jobs": [
     {
-      "id": 3,
+      "id": 1,
       "company": "JTM digital GmbH",
       "role": "Senior Product Owner (m/w/d) mit Projektverantwortung",
       "sector": "Tech",
@@ -40,79 +40,7 @@
       "experienceLevel": "Director"
     },
     {
-      "id": 4,
-      "company": "Cryptonow",
-      "role": "Senior Product Owner",
-      "sector": "Tech",
-      "posted": "2026-07-31",
-      "salary": "—",
-      "city": "Innere Stadt",
-      "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/senior-product-owner-at-cryptonow-4445099074?trk=public_jobs_topcard-title",
-      "status": "Not applied",
-      "fitScore": 56,
-      "matchedKeywords": [
-        "Product Owner",
-        "User Story",
-        "Payments",
-        "JIRA"
-      ],
-      "unmatchedKeywords": [
-        "Product Management",
-        "Agile",
-        "Backlog Prioritisation",
-        "Stakeholder Management",
-        "Product Roadmap",
-        "LLM",
-        "API",
-        "iGaming",
-        "UAT",
-        "Cross-functional",
-        "Data-driven",
-        "CBAP"
-      ],
-      "applicationsCount": "Be among the first 25 applicants",
-      "contractType": "Full-time",
-      "experienceLevel": "Not Applicable"
-    },
-    {
-      "id": 1,
-      "company": "3 Banken IT GmbH",
-      "role": "Product Owner Data Platform & Operations (w/m/d)",
-      "sector": "Fintech",
-      "posted": "2026-07-31",
-      "salary": "—",
-      "city": "Innsbruck",
-      "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/product-owner-data-platform-operations-w-m-d-at-3-banken-it-gmbh-4420232232?trk=public_jobs_topcard-title",
-      "status": "Not applied",
-      "fitScore": 50,
-      "matchedKeywords": [
-        "Agile",
-        "CBAP"
-      ],
-      "unmatchedKeywords": [
-        "Product Owner",
-        "Product Management",
-        "Backlog Prioritisation",
-        "Stakeholder Management",
-        "User Story",
-        "Product Roadmap",
-        "LLM",
-        "API",
-        "iGaming",
-        "Payments",
-        "UAT",
-        "JIRA",
-        "Cross-functional",
-        "Data-driven"
-      ],
-      "applicationsCount": "Be among the first 25 applicants",
-      "contractType": "Full-time",
-      "experienceLevel": "Associate"
-    },
-    {
-      "id": 7,
+      "id": 5,
       "company": "INNIO Group",
       "role": "Service Product Manager (m/f/d) Fluency in German",
       "sector": "Tech",
@@ -184,43 +112,7 @@
       "experienceLevel": "Associate"
     },
     {
-      "id": 5,
-      "company": "NXP Semiconductors",
-      "role": "Senior Business Development Manager (System Sales – Drones)",
-      "sector": "Tech",
-      "posted": "2026-07-31",
-      "salary": "—",
-      "city": "Gratkorn",
-      "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/senior-business-development-manager-system-sales-%E2%80%93-drones-at-nxp-semiconductors-4429963082?trk=public_jobs_topcard-title",
-      "status": "Not applied",
-      "fitScore": 18,
-      "matchedKeywords": [
-        "Stakeholder Management",
-        "LLM",
-        "Cross-functional"
-      ],
-      "unmatchedKeywords": [
-        "Product Owner",
-        "Product Management",
-        "Agile",
-        "Backlog Prioritisation",
-        "User Story",
-        "Product Roadmap",
-        "API",
-        "iGaming",
-        "Payments",
-        "UAT",
-        "JIRA",
-        "Data-driven",
-        "CBAP"
-      ],
-      "applicationsCount": "",
-      "contractType": "Full-time",
-      "experienceLevel": "Mid-Senior level"
-    },
-    {
-      "id": 6,
+      "id": 3,
       "company": "XXXLdigital – Part of XXXL Group",
       "role": "Director of Digital Produktmanagement (m/w/d)",
       "sector": "Tech",
@@ -256,43 +148,7 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 8,
-      "company": "USTP – University of Applied Sciences St. Pölten",
-      "role": "Assistent*in Campus und Study Center (w/m/d) (35-40h)",
-      "sector": "Tech",
-      "posted": "2026-07-31",
-      "salary": "—",
-      "city": "St Pölten",
-      "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/assistent-in-campus-und-study-center-w-m-d-35-40h-at-ustp-%E2%80%93-university-of-applied-sciences-st-p%C3%B6lten-4424051850?trk=public_jobs_topcard-title",
-      "status": "Not applied",
-      "fitScore": 11,
-      "matchedKeywords": [
-        "Product Owner"
-      ],
-      "unmatchedKeywords": [
-        "Product Management",
-        "Agile",
-        "Backlog Prioritisation",
-        "Stakeholder Management",
-        "User Story",
-        "Product Roadmap",
-        "LLM",
-        "API",
-        "iGaming",
-        "Payments",
-        "UAT",
-        "JIRA",
-        "Cross-functional",
-        "Data-driven",
-        "CBAP"
-      ],
-      "applicationsCount": "",
-      "contractType": "Full-time",
-      "experienceLevel": "Associate"
-    },
-    {
-      "id": 9,
+      "id": 4,
       "company": "KTM AG",
       "role": "(Senior) Full Stack Developer*",
       "sector": "Tech",
