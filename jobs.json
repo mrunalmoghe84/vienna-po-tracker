@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-08-02T08:02:38.863Z",
+  "synced_at": "2026-08-02T12:54:54.298Z",
   "source": "LinkedIn via Apify (last 24h)",
-  "count": 5,
+  "count": 6,
   "jobs": [
     {
-      "id": 1,
+      "id": 6,
       "company": "Frequentis",
       "role": "Operational Product Manager - Public Transport (all genders) - DE",
       "sector": "iGaming",
@@ -40,7 +40,7 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 5,
+      "id": 1,
       "company": "Porsche Holding",
       "role": "Product Owner Academy & Sales IT Trainer (w/m/d)",
       "sector": "Tech",
@@ -112,7 +112,43 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 2,
+      "id": 5,
+      "company": "kununu",
+      "role": "Product Manager (m/f/d)",
+      "sector": "Tech",
+      "posted": "2026-08-02",
+      "salary": "—",
+      "city": "Vienna",
+      "platform": "LinkedIn",
+      "url": "https://at.linkedin.com/jobs/view/product-manager-m-f-d-at-kununu-4402989018?trk=public_jobs_topcard-title",
+      "status": "Not applied",
+      "fitScore": 39,
+      "matchedKeywords": [
+        "Data-driven"
+      ],
+      "unmatchedKeywords": [
+        "Product Owner",
+        "Product Management",
+        "Agile",
+        "Backlog Prioritisation",
+        "Stakeholder Management",
+        "User Story",
+        "Product Roadmap",
+        "LLM",
+        "API",
+        "iGaming",
+        "Payments",
+        "UAT",
+        "JIRA",
+        "Cross-functional",
+        "CBAP"
+      ],
+      "applicationsCount": "Over 200 applicants",
+      "contractType": "Full-time",
+      "experienceLevel": "Mid-Senior level"
+    },
+    {
+      "id": 4,
       "company": "talentbird GmbH",
       "role": "Business Analyst:in / Requirements Engineer (w/m/d)",
       "sector": "Tech",
@@ -148,7 +184,7 @@
       "experienceLevel": "Associate"
     },
     {
-      "id": 4,
+      "id": 2,
       "company": "ProChema GmbH",
       "role": "PRODUCT & INDUSTRY MANAGER (m/f/d) Marketing & Import of Chemical Raw Materials (m/f/d)",
       "sector": "Tech",
