@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-08-02T01:30:51.764Z",
+  "synced_at": "2026-08-02T08:02:38.863Z",
   "source": "LinkedIn via Apify (last 24h)",
-  "count": 4,
+  "count": 5,
   "jobs": [
     {
-      "id": 3,
+      "id": 1,
       "company": "Frequentis",
       "role": "Operational Product Manager - Public Transport (all genders) - DE",
       "sector": "iGaming",
@@ -40,7 +40,7 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 1,
+      "id": 5,
       "company": "Porsche Holding",
       "role": "Product Owner Academy & Sales IT Trainer (w/m/d)",
       "sector": "Tech",
@@ -76,7 +76,7 @@
       "experienceLevel": "Associate"
     },
     {
-      "id": 4,
+      "id": 3,
       "company": "Bilfinger Life Science",
       "role": "Product Manager - Advanced Industries (m/w/d)",
       "sector": "Tech",
@@ -144,6 +144,42 @@
         "Data-driven"
       ],
       "applicationsCount": "",
+      "contractType": "Full-time",
+      "experienceLevel": "Associate"
+    },
+    {
+      "id": 4,
+      "company": "ProChema GmbH",
+      "role": "PRODUCT & INDUSTRY MANAGER (m/f/d) Marketing & Import of Chemical Raw Materials (m/f/d)",
+      "sector": "Tech",
+      "posted": "2026-08-02",
+      "salary": "5000–5000",
+      "city": "Vienna",
+      "platform": "LinkedIn",
+      "url": "https://at.linkedin.com/jobs/view/product-industry-manager-m-f-d-marketing-import-of-chemical-raw-materials-m-f-d-at-prochema-gmbh-4445835756?trk=public_jobs_topcard-title",
+      "status": "Not applied",
+      "fitScore": 11,
+      "matchedKeywords": [
+        "Product Management"
+      ],
+      "unmatchedKeywords": [
+        "Product Owner",
+        "Agile",
+        "Backlog Prioritisation",
+        "Stakeholder Management",
+        "User Story",
+        "Product Roadmap",
+        "LLM",
+        "API",
+        "iGaming",
+        "Payments",
+        "UAT",
+        "JIRA",
+        "Cross-functional",
+        "Data-driven",
+        "CBAP"
+      ],
+      "applicationsCount": "Be among the first 25 applicants",
       "contractType": "Full-time",
       "experienceLevel": "Associate"
     }
