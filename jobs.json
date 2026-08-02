@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-08-01T18:52:03.206Z",
+  "synced_at": "2026-08-02T01:30:51.764Z",
   "source": "LinkedIn via Apify (last 24h)",
   "count": 4,
   "jobs": [
@@ -76,7 +76,7 @@
       "experienceLevel": "Associate"
     },
     {
-      "id": 2,
+      "id": 4,
       "company": "Bilfinger Life Science",
       "role": "Product Manager - Advanced Industries (m/w/d)",
       "sector": "Tech",
@@ -112,7 +112,7 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 4,
+      "id": 2,
       "company": "talentbird GmbH",
       "role": "Business Analyst:in / Requirements Engineer (w/m/d)",
       "sector": "Tech",
