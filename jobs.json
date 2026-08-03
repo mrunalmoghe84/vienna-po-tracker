@@ -1,18 +1,54 @@
 {
-  "synced_at": "2026-08-03T01:44:31.032Z",
+  "synced_at": "2026-08-03T08:59:58.976Z",
   "source": "LinkedIn via Apify (last 24h)",
-  "count": 4,
+  "count": 6,
   "jobs": [
     {
       "id": 1,
+      "company": "DEVjobs",
+      "role": "Product Owner @ XiTrust",
+      "sector": "Tech",
+      "posted": "2026-08-03",
+      "salary": "63–80",
+      "city": "Graz",
+      "platform": "LinkedIn",
+      "url": "https://at.linkedin.com/jobs/view/product-owner-%40-xitrust-at-devjobs-4447697711?trk=public_jobs_topcard-title",
+      "status": "Not applied",
+      "fitScore": 59,
+      "matchedKeywords": [
+        "Product Owner",
+        "Agile",
+        "User Story",
+        "LLM",
+        "JIRA"
+      ],
+      "unmatchedKeywords": [
+        "Product Management",
+        "Backlog Prioritisation",
+        "Stakeholder Management",
+        "Product Roadmap",
+        "API",
+        "iGaming",
+        "Payments",
+        "UAT",
+        "Cross-functional",
+        "Data-driven",
+        "CBAP"
+      ],
+      "applicationsCount": "Be among the first 25 applicants",
+      "contractType": "Full-time",
+      "experienceLevel": "Associate"
+    },
+    {
+      "id": 2,
       "company": "Wüstenrot Gruppe",
       "role": "Senior Product Owner für digitale Versicherungslösungen (m/w/d)",
       "sector": "Tech",
       "posted": "2026-08-02",
       "salary": "—",
-      "city": "Vienna",
+      "city": "Salzburg",
       "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/senior-product-owner-f%C3%BCr-digitale-versicherungsl%C3%B6sungen-m-w-d-at-w%C3%BCstenrot-gruppe-4402705457?trk=public_jobs_topcard-title",
+      "url": "https://at.linkedin.com/jobs/view/senior-product-owner-f%C3%BCr-digitale-versicherungsl%C3%B6sungen-m-w-d-at-w%C3%BCstenrot-gruppe-4402706412?trk=public_jobs_topcard-title",
       "status": "Not applied",
       "fitScore": 50,
       "matchedKeywords": [
@@ -40,7 +76,7 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 2,
+      "id": 6,
       "company": "kununu",
       "role": "Product Manager (m/f/d)",
       "sector": "Tech",
@@ -76,22 +112,59 @@
       "experienceLevel": "Mid-Senior level"
     },
     {
-      "id": 4,
-      "company": "ProChema GmbH",
-      "role": "PRODUCT & INDUSTRY MANAGER (m/f/d) Marketing & Import of Chemical Raw Materials (m/f/d)",
-      "sector": "Tech",
-      "posted": "2026-08-02",
-      "salary": "5000–5000",
+      "id": 5,
+      "company": "Sportradar",
+      "role": "Business QA Analyst [m/f/d]",
+      "sector": "iGaming",
+      "posted": "2026-08-03",
+      "salary": "—",
       "city": "Vienna",
       "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/product-industry-manager-m-f-d-marketing-import-of-chemical-raw-materials-m-f-d-at-prochema-gmbh-4445835756?trk=public_jobs_topcard-title",
+      "url": "https://at.linkedin.com/jobs/view/business-qa-analyst-m-f-d-at-sportradar-4448157081?trk=public_jobs_topcard-title",
       "status": "Not applied",
-      "fitScore": 11,
+      "fitScore": 27,
       "matchedKeywords": [
-        "Product Management"
+        "Agile",
+        "LLM",
+        "iGaming",
+        "UAT",
+        "JIRA",
+        "Cross-functional"
       ],
       "unmatchedKeywords": [
         "Product Owner",
+        "Product Management",
+        "Backlog Prioritisation",
+        "Stakeholder Management",
+        "User Story",
+        "Product Roadmap",
+        "API",
+        "Payments",
+        "Data-driven",
+        "CBAP"
+      ],
+      "applicationsCount": "Be among the first 25 applicants",
+      "contractType": "Full-time",
+      "experienceLevel": "Associate"
+    },
+    {
+      "id": 3,
+      "company": "Niederösterreichische Versicherung AG",
+      "role": "Senior Business Intelligence-Analyst (w/m/d)",
+      "sector": "Tech",
+      "posted": "2026-08-03",
+      "salary": "—",
+      "city": "St Pölten",
+      "platform": "LinkedIn",
+      "url": "https://at.linkedin.com/jobs/view/senior-business-intelligence-analyst-w-m-d-at-nieder%C3%B6sterreichische-versicherung-ag-4448134873?trk=public_jobs_topcard-title",
+      "status": "Not applied",
+      "fitScore": 11,
+      "matchedKeywords": [
+        "Data-driven"
+      ],
+      "unmatchedKeywords": [
+        "Product Owner",
+        "Product Management",
         "Agile",
         "Backlog Prioritisation",
         "Stakeholder Management",
@@ -104,7 +177,6 @@
         "UAT",
         "JIRA",
         "Cross-functional",
-        "Data-driven",
         "CBAP"
       ],
       "applicationsCount": "Be among the first 25 applicants",
@@ -112,7 +184,7 @@
       "experienceLevel": "Associate"
     },
     {
-      "id": 3,
+      "id": 4,
       "company": "Jobera.com",
       "role": "Digital Product Innovation Manager (m/f/d)",
       "sector": "Tech",
