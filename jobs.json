@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-08-03T08:59:58.976Z",
+  "synced_at": "2026-08-03T14:12:33.530Z",
   "source": "LinkedIn via Apify (last 24h)",
-  "count": 6,
+  "count": 11,
   "jobs": [
     {
-      "id": 1,
+      "id": 2,
       "company": "DEVjobs",
       "role": "Product Owner @ XiTrust",
       "sector": "Tech",
@@ -40,7 +40,43 @@
       "experienceLevel": "Associate"
     },
     {
-      "id": 2,
+      "id": 4,
+      "company": "TECCON Consulting GmbH",
+      "role": "Junior Product Owner",
+      "sector": "Tech",
+      "posted": "2026-08-03",
+      "salary": "—",
+      "city": "Gleisdorf",
+      "platform": "LinkedIn",
+      "url": "https://at.linkedin.com/jobs/view/junior-product-owner-at-teccon-consulting-gmbh-4380682892?trk=public_jobs_topcard-title",
+      "status": "Not applied",
+      "fitScore": 56,
+      "matchedKeywords": [
+        "Product Management",
+        "Agile",
+        "User Story",
+        "CBAP"
+      ],
+      "unmatchedKeywords": [
+        "Product Owner",
+        "Backlog Prioritisation",
+        "Stakeholder Management",
+        "Product Roadmap",
+        "LLM",
+        "API",
+        "iGaming",
+        "Payments",
+        "UAT",
+        "JIRA",
+        "Cross-functional",
+        "Data-driven"
+      ],
+      "applicationsCount": "",
+      "contractType": "Full-time",
+      "experienceLevel": "Associate"
+    },
+    {
+      "id": 1,
       "company": "Wüstenrot Gruppe",
       "role": "Senior Product Owner für digitale Versicherungslösungen (m/w/d)",
       "sector": "Tech",
@@ -76,20 +112,54 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 6,
-      "company": "kununu",
-      "role": "Product Manager (m/f/d)",
-      "sector": "Tech",
-      "posted": "2026-08-02",
+      "id": 11,
+      "company": "A.M.I. Agency for Medical Innovations GmbH",
+      "role": "Product Manager for Surgical Instruments and Implants (m/f/x)",
+      "sector": "Intl Org",
+      "posted": "2026-08-03",
       "salary": "—",
-      "city": "Vienna",
+      "city": "Feldkirch",
       "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/product-manager-m-f-d-at-kununu-4402989018?trk=public_jobs_topcard-title",
+      "url": "https://at.linkedin.com/jobs/view/product-manager-for-surgical-instruments-and-implants-m-f-x-at-a-m-i-agency-for-medical-innovations-gmbh-4448175202?trk=public_jobs_topcard-title",
       "status": "Not applied",
       "fitScore": 39,
       "matchedKeywords": [
-        "Data-driven"
+        "Product Management"
       ],
+      "unmatchedKeywords": [
+        "Product Owner",
+        "Agile",
+        "Backlog Prioritisation",
+        "Stakeholder Management",
+        "User Story",
+        "Product Roadmap",
+        "LLM",
+        "API",
+        "iGaming",
+        "Payments",
+        "UAT",
+        "JIRA",
+        "Cross-functional",
+        "Data-driven",
+        "CBAP"
+      ],
+      "applicationsCount": "Be among the first 25 applicants",
+      "contractType": "Part-time",
+      "experienceLevel": "Entry level"
+    },
+    {
+      "id": 9,
+      "company": "Alza.at",
+      "role": "Product Manager",
+      "sector": "Tech",
+      "posted": "2026-08-03",
+      "salary": "—",
+      "city": "Vienna",
+      "platform": "LinkedIn",
+      "url": "https://at.linkedin.com/jobs/view/product-manager-at-alza-at-4432340837?trk=public_jobs_topcard-title",
+      "status": "Not applied",
+      "fitScore": 36,
+      "matchedKeywords": [],
       "unmatchedKeywords": [
         "Product Owner",
         "Product Management",
@@ -105,14 +175,15 @@
         "UAT",
         "JIRA",
         "Cross-functional",
+        "Data-driven",
         "CBAP"
       ],
-      "applicationsCount": "Over 200 applicants",
+      "applicationsCount": "Be among the first 25 applicants",
       "contractType": "Full-time",
-      "experienceLevel": "Mid-Senior level"
+      "experienceLevel": "Entry level"
     },
     {
-      "id": 5,
+      "id": 6,
       "company": "Sportradar",
       "role": "Business QA Analyst [m/f/d]",
       "sector": "iGaming",
@@ -148,7 +219,115 @@
       "experienceLevel": "Associate"
     },
     {
+      "id": 5,
+      "company": "tech11 GmbH",
+      "role": "Senior IT Business Analyst Insurance (m/w/d)",
+      "sector": "Fintech",
+      "posted": "2026-08-03",
+      "salary": "—",
+      "city": "Vienna",
+      "platform": "LinkedIn",
+      "url": "https://at.linkedin.com/jobs/view/senior-it-business-analyst-insurance-m-w-d-at-tech11-gmbh-4445891915?trk=public_jobs_topcard-title",
+      "status": "Not applied",
+      "fitScore": 23,
+      "matchedKeywords": [
+        "API",
+        "CBAP"
+      ],
+      "unmatchedKeywords": [
+        "Product Owner",
+        "Product Management",
+        "Agile",
+        "Backlog Prioritisation",
+        "Stakeholder Management",
+        "User Story",
+        "Product Roadmap",
+        "LLM",
+        "iGaming",
+        "Payments",
+        "UAT",
+        "JIRA",
+        "Cross-functional",
+        "Data-driven"
+      ],
+      "applicationsCount": "Be among the first 25 applicants",
+      "contractType": "Full-time",
+      "experienceLevel": "Associate"
+    },
+    {
       "id": 3,
+      "company": "AT&S",
+      "role": "Technical Project Manager R&D",
+      "sector": "Tech",
+      "posted": "2026-08-03",
+      "salary": "—",
+      "city": "Leoben",
+      "platform": "LinkedIn",
+      "url": "https://at.linkedin.com/jobs/view/technical-project-manager-r-d-at-at-s-4432726254?trk=public_jobs_topcard-title",
+      "status": "Not applied",
+      "fitScore": 15,
+      "matchedKeywords": [
+        "LLM",
+        "Cross-functional"
+      ],
+      "unmatchedKeywords": [
+        "Product Owner",
+        "Product Management",
+        "Agile",
+        "Backlog Prioritisation",
+        "Stakeholder Management",
+        "User Story",
+        "Product Roadmap",
+        "API",
+        "iGaming",
+        "Payments",
+        "UAT",
+        "JIRA",
+        "Data-driven",
+        "CBAP"
+      ],
+      "applicationsCount": "",
+      "contractType": "Full-time",
+      "experienceLevel": "Not Applicable"
+    },
+    {
+      "id": 7,
+      "company": "easily",
+      "role": "Software Entwickler",
+      "sector": "Tech",
+      "posted": "2026-08-03",
+      "salary": "290–290",
+      "city": "Graz",
+      "platform": "LinkedIn",
+      "url": "https://at.linkedin.com/jobs/view/software-entwickler-at-easily-4445896362?trk=public_jobs_topcard-title",
+      "status": "Not applied",
+      "fitScore": 11,
+      "matchedKeywords": [
+        "Product Owner"
+      ],
+      "unmatchedKeywords": [
+        "Product Management",
+        "Agile",
+        "Backlog Prioritisation",
+        "Stakeholder Management",
+        "User Story",
+        "Product Roadmap",
+        "LLM",
+        "API",
+        "iGaming",
+        "Payments",
+        "UAT",
+        "JIRA",
+        "Cross-functional",
+        "Data-driven",
+        "CBAP"
+      ],
+      "applicationsCount": "Be among the first 25 applicants",
+      "contractType": "Full-time",
+      "experienceLevel": "Not Applicable"
+    },
+    {
+      "id": 10,
       "company": "Niederösterreichische Versicherung AG",
       "role": "Senior Business Intelligence-Analyst (w/m/d)",
       "sector": "Tech",
@@ -184,7 +363,7 @@
       "experienceLevel": "Associate"
     },
     {
-      "id": 4,
+      "id": 8,
       "company": "Jobera.com",
       "role": "Digital Product Innovation Manager (m/f/d)",
       "sector": "Tech",
