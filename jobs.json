@@ -1,18 +1,18 @@
 {
-  "synced_at": "2026-08-02T18:52:28.014Z",
+  "synced_at": "2026-08-03T01:44:31.032Z",
   "source": "LinkedIn via Apify (last 24h)",
   "count": 4,
   "jobs": [
     {
-      "id": 3,
+      "id": 1,
       "company": "Wüstenrot Gruppe",
       "role": "Senior Product Owner für digitale Versicherungslösungen (m/w/d)",
       "sector": "Tech",
       "posted": "2026-08-02",
       "salary": "—",
-      "city": "Salzburg",
+      "city": "Vienna",
       "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/senior-product-owner-f%C3%BCr-digitale-versicherungsl%C3%B6sungen-m-w-d-at-w%C3%BCstenrot-gruppe-4402706412?trk=public_jobs_topcard-title",
+      "url": "https://at.linkedin.com/jobs/view/senior-product-owner-f%C3%BCr-digitale-versicherungsl%C3%B6sungen-m-w-d-at-w%C3%BCstenrot-gruppe-4402705457?trk=public_jobs_topcard-title",
       "status": "Not applied",
       "fitScore": 50,
       "matchedKeywords": [
@@ -40,7 +40,7 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 1,
+      "id": 2,
       "company": "kununu",
       "role": "Product Manager (m/f/d)",
       "sector": "Tech",
@@ -112,7 +112,7 @@
       "experienceLevel": "Associate"
     },
     {
-      "id": 2,
+      "id": 3,
       "company": "Jobera.com",
       "role": "Digital Product Innovation Manager (m/f/d)",
       "sector": "Tech",
