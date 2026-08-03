@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-08-03T14:12:33.530Z",
+  "synced_at": "2026-08-03T19:16:41.968Z",
   "source": "LinkedIn via Apify (last 24h)",
   "count": 11,
   "jobs": [
     {
-      "id": 2,
+      "id": 3,
       "company": "DEVjobs",
       "role": "Product Owner @ XiTrust",
       "sector": "Tech",
@@ -40,7 +40,7 @@
       "experienceLevel": "Associate"
     },
     {
-      "id": 4,
+      "id": 2,
       "company": "TECCON Consulting GmbH",
       "role": "Junior Product Owner",
       "sector": "Tech",
@@ -76,43 +76,7 @@
       "experienceLevel": "Associate"
     },
     {
-      "id": 1,
-      "company": "Wüstenrot Gruppe",
-      "role": "Senior Product Owner für digitale Versicherungslösungen (m/w/d)",
-      "sector": "Tech",
-      "posted": "2026-08-02",
-      "salary": "—",
-      "city": "Salzburg",
-      "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/senior-product-owner-f%C3%BCr-digitale-versicherungsl%C3%B6sungen-m-w-d-at-w%C3%BCstenrot-gruppe-4402706412?trk=public_jobs_topcard-title",
-      "status": "Not applied",
-      "fitScore": 50,
-      "matchedKeywords": [
-        "Product Owner",
-        "JIRA"
-      ],
-      "unmatchedKeywords": [
-        "Product Management",
-        "Agile",
-        "Backlog Prioritisation",
-        "Stakeholder Management",
-        "User Story",
-        "Product Roadmap",
-        "LLM",
-        "API",
-        "iGaming",
-        "Payments",
-        "UAT",
-        "Cross-functional",
-        "Data-driven",
-        "CBAP"
-      ],
-      "applicationsCount": "",
-      "contractType": "Full-time",
-      "experienceLevel": "Not Applicable"
-    },
-    {
-      "id": 11,
+      "id": 9,
       "company": "A.M.I. Agency for Medical Innovations GmbH",
       "role": "Product Manager for Surgical Instruments and Implants (m/f/x)",
       "sector": "Intl Org",
@@ -148,7 +112,7 @@
       "experienceLevel": "Entry level"
     },
     {
-      "id": 9,
+      "id": 7,
       "company": "Alza.at",
       "role": "Product Manager",
       "sector": "Tech",
@@ -214,12 +178,48 @@
         "Data-driven",
         "CBAP"
       ],
-      "applicationsCount": "Be among the first 25 applicants",
+      "applicationsCount": "",
       "contractType": "Full-time",
       "experienceLevel": "Associate"
     },
     {
       "id": 5,
+      "company": "Bitpanda",
+      "role": "Senior Product Marketing Specialist",
+      "sector": "Tech",
+      "posted": "2026-08-03",
+      "salary": "—",
+      "city": "Vienna",
+      "platform": "LinkedIn",
+      "url": "https://at.linkedin.com/jobs/view/senior-product-marketing-specialist-at-bitpanda-4436349492?trk=public_jobs_topcard-title",
+      "status": "Not applied",
+      "fitScore": 24,
+      "matchedKeywords": [
+        "Product Management",
+        "Product Roadmap",
+        "Payments",
+        "Cross-functional",
+        "Data-driven"
+      ],
+      "unmatchedKeywords": [
+        "Product Owner",
+        "Agile",
+        "Backlog Prioritisation",
+        "Stakeholder Management",
+        "User Story",
+        "LLM",
+        "API",
+        "iGaming",
+        "UAT",
+        "JIRA",
+        "CBAP"
+      ],
+      "applicationsCount": "",
+      "contractType": "Full-time",
+      "experienceLevel": "Not Applicable"
+    },
+    {
+      "id": 8,
       "company": "tech11 GmbH",
       "role": "Senior IT Business Analyst Insurance (m/w/d)",
       "sector": "Fintech",
@@ -255,7 +255,43 @@
       "experienceLevel": "Associate"
     },
     {
-      "id": 3,
+      "id": 1,
+      "company": "Frequentis",
+      "role": "Solution Architect - Defence (all genders)",
+      "sector": "Tech",
+      "posted": "2026-08-03",
+      "salary": "—",
+      "city": "Vienna",
+      "platform": "LinkedIn",
+      "url": "https://at.linkedin.com/jobs/view/solution-architect-defence-all-genders-at-frequentis-4447982940?trk=public_jobs_topcard-title",
+      "status": "Not applied",
+      "fitScore": 18,
+      "matchedKeywords": [
+        "Product Management",
+        "Cross-functional",
+        "CBAP"
+      ],
+      "unmatchedKeywords": [
+        "Product Owner",
+        "Agile",
+        "Backlog Prioritisation",
+        "Stakeholder Management",
+        "User Story",
+        "Product Roadmap",
+        "LLM",
+        "API",
+        "iGaming",
+        "Payments",
+        "UAT",
+        "JIRA",
+        "Data-driven"
+      ],
+      "applicationsCount": "Be among the first 25 applicants",
+      "contractType": "Full-time",
+      "experienceLevel": "Not Applicable"
+    },
+    {
+      "id": 4,
       "company": "AT&S",
       "role": "Technical Project Manager R&D",
       "sector": "Tech",
@@ -291,7 +327,7 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 7,
+      "id": 10,
       "company": "easily",
       "role": "Software Entwickler",
       "sector": "Tech",
@@ -327,7 +363,7 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 10,
+      "id": 11,
       "company": "Niederösterreichische Versicherung AG",
       "role": "Senior Business Intelligence-Analyst (w/m/d)",
       "sector": "Tech",
@@ -361,41 +397,6 @@
       "applicationsCount": "Be among the first 25 applicants",
       "contractType": "Full-time",
       "experienceLevel": "Associate"
-    },
-    {
-      "id": 8,
-      "company": "Jobera.com",
-      "role": "Digital Product Innovation Manager (m/f/d)",
-      "sector": "Tech",
-      "posted": "2026-08-02",
-      "salary": "—",
-      "city": "Vienna",
-      "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/digital-product-innovation-manager-m-f-d-at-jobera-com-4447668058?trk=public_jobs_topcard-title",
-      "status": "Not applied",
-      "fitScore": 8,
-      "matchedKeywords": [],
-      "unmatchedKeywords": [
-        "Product Owner",
-        "Product Management",
-        "Agile",
-        "Backlog Prioritisation",
-        "Stakeholder Management",
-        "User Story",
-        "Product Roadmap",
-        "LLM",
-        "API",
-        "iGaming",
-        "Payments",
-        "UAT",
-        "JIRA",
-        "Cross-functional",
-        "Data-driven",
-        "CBAP"
-      ],
-      "applicationsCount": "Be among the first 25 applicants",
-      "contractType": "Full-time",
-      "experienceLevel": "Not Applicable"
     }
   ]
 }
