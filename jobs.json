@@ -1,7 +1,7 @@
 {
-  "synced_at": "2026-08-04T13:44:25.772Z",
+  "synced_at": "2026-08-04T19:17:55.036Z",
   "source": "LinkedIn via Apify (last 24h)",
-  "count": 9,
+  "count": 11,
   "jobs": [
     {
       "id": 1,
@@ -40,7 +40,7 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 2,
+      "id": 7,
       "company": "apsa personnel concepts",
       "role": "Product Manager – Digitale Lösungen (w/m/d)",
       "sector": "Tech",
@@ -76,7 +76,7 @@
       "experienceLevel": "Associate"
     },
     {
-      "id": 5,
+      "id": 2,
       "company": "Fabasoft",
       "role": "Product Owner Frontend Development (w/m/d)",
       "sector": "Tech",
@@ -111,7 +111,115 @@
       "experienceLevel": "Associate"
     },
     {
-      "id": 4,
+      "id": 5,
+      "company": "Bybit EU",
+      "role": "Senior Payments Product Manager",
+      "sector": "Fintech",
+      "posted": "2026-08-04",
+      "salary": "—",
+      "city": "Vienna",
+      "platform": "LinkedIn",
+      "url": "https://at.linkedin.com/jobs/view/senior-payments-product-manager-at-bybit-eu-4448532462?trk=public_jobs_topcard-title",
+      "status": "Not applied",
+      "fitScore": 43,
+      "matchedKeywords": [
+        "Stakeholder Management",
+        "Payments"
+      ],
+      "unmatchedKeywords": [
+        "Product Owner",
+        "Product Management",
+        "Agile",
+        "Backlog Prioritisation",
+        "User Story",
+        "Product Roadmap",
+        "LLM",
+        "API",
+        "iGaming",
+        "UAT",
+        "JIRA",
+        "Cross-functional",
+        "Data-driven",
+        "CBAP"
+      ],
+      "applicationsCount": "Be among the first 25 applicants",
+      "contractType": "Full-time",
+      "experienceLevel": "Mid-Senior level"
+    },
+    {
+      "id": 6,
+      "company": "STARCON | HR Experts",
+      "role": "Product Manager (w/m/d)",
+      "sector": "Tech",
+      "posted": "2026-08-04",
+      "salary": "—",
+      "city": "Salzburg",
+      "platform": "LinkedIn",
+      "url": "https://at.linkedin.com/jobs/view/product-manager-w-m-d-at-starcon-hr-experts-4448514577?trk=public_jobs_topcard-title",
+      "status": "Not applied",
+      "fitScore": 43,
+      "matchedKeywords": [
+        "Product Owner",
+        "Agile"
+      ],
+      "unmatchedKeywords": [
+        "Product Management",
+        "Backlog Prioritisation",
+        "Stakeholder Management",
+        "User Story",
+        "Product Roadmap",
+        "LLM",
+        "API",
+        "iGaming",
+        "Payments",
+        "UAT",
+        "JIRA",
+        "Cross-functional",
+        "Data-driven",
+        "CBAP"
+      ],
+      "applicationsCount": "Be among the first 25 applicants",
+      "contractType": "Full-time",
+      "experienceLevel": "Associate"
+    },
+    {
+      "id": 11,
+      "company": "HCLTech",
+      "role": "MES Business Analyst",
+      "sector": "Tech",
+      "posted": "2026-08-04",
+      "salary": "—",
+      "city": "Vienna",
+      "platform": "LinkedIn",
+      "url": "https://at.linkedin.com/jobs/view/mes-business-analyst-at-hcltech-4446653745?trk=public_jobs_topcard-title",
+      "status": "Not applied",
+      "fitScore": 38,
+      "matchedKeywords": [
+        "Agile",
+        "Stakeholder Management",
+        "User Story",
+        "LLM",
+        "UAT",
+        "Data-driven",
+        "CBAP"
+      ],
+      "unmatchedKeywords": [
+        "Product Owner",
+        "Product Management",
+        "Backlog Prioritisation",
+        "Product Roadmap",
+        "API",
+        "iGaming",
+        "Payments",
+        "JIRA",
+        "Cross-functional"
+      ],
+      "applicationsCount": "Be among the first 25 applicants",
+      "contractType": "Full-time",
+      "experienceLevel": "Mid-Senior level"
+    },
+    {
+      "id": 10,
       "company": "Erste Digital",
       "role": "Business Analyst (Teilzeit oder Vollzeit Karenzvertretung)",
       "sector": "Tech",
@@ -147,43 +255,7 @@
       "experienceLevel": "Mid-Senior level"
     },
     {
-      "id": 3,
-      "company": "Bitpanda",
-      "role": "Senior Product Marketing Specialist",
-      "sector": "Tech",
-      "posted": "2026-08-03",
-      "salary": "—",
-      "city": "Vienna",
-      "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/senior-product-marketing-specialist-at-bitpanda-4436349492?trk=public_jobs_topcard-title",
-      "status": "Not applied",
-      "fitScore": 24,
-      "matchedKeywords": [
-        "Product Management",
-        "Product Roadmap",
-        "Payments",
-        "Cross-functional",
-        "Data-driven"
-      ],
-      "unmatchedKeywords": [
-        "Product Owner",
-        "Agile",
-        "Backlog Prioritisation",
-        "Stakeholder Management",
-        "User Story",
-        "LLM",
-        "API",
-        "iGaming",
-        "UAT",
-        "JIRA",
-        "CBAP"
-      ],
-      "applicationsCount": "",
-      "contractType": "Full-time",
-      "experienceLevel": "Not Applicable"
-    },
-    {
-      "id": 8,
+      "id": 9,
       "company": "Financial Transparency Solutions",
       "role": "Backend Software Engineer (Mid-Level) (f/m/d)",
       "sector": "Fintech",
@@ -219,43 +291,7 @@
       "experienceLevel": "Entry level"
     },
     {
-      "id": 6,
-      "company": "Frequentis",
-      "role": "Solution Architect - Defence (all genders)",
-      "sector": "Tech",
-      "posted": "2026-08-03",
-      "salary": "—",
-      "city": "Vienna",
-      "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/solution-architect-defence-all-genders-at-frequentis-4447982940?trk=public_jobs_topcard-title",
-      "status": "Not applied",
-      "fitScore": 18,
-      "matchedKeywords": [
-        "Product Management",
-        "Cross-functional",
-        "CBAP"
-      ],
-      "unmatchedKeywords": [
-        "Product Owner",
-        "Agile",
-        "Backlog Prioritisation",
-        "Stakeholder Management",
-        "User Story",
-        "Product Roadmap",
-        "LLM",
-        "API",
-        "iGaming",
-        "Payments",
-        "UAT",
-        "JIRA",
-        "Data-driven"
-      ],
-      "applicationsCount": "Be among the first 25 applicants",
-      "contractType": "Full-time",
-      "experienceLevel": "Not Applicable"
-    },
-    {
-      "id": 7,
+      "id": 4,
       "company": "Infineon Technologies",
       "role": "Senior Project Manager for Sensor Product Development (f/m/div)",
       "sector": "Tech",
@@ -291,7 +327,43 @@
       "experienceLevel": "Mid-Senior level"
     },
     {
-      "id": 9,
+      "id": 3,
+      "company": "evoila",
+      "role": "Technical Project Manager (m/w/d)",
+      "sector": "Tech",
+      "posted": "2026-08-04",
+      "salary": "—",
+      "city": "Vienna",
+      "platform": "LinkedIn",
+      "url": "https://at.linkedin.com/jobs/view/technical-project-manager-m-w-d-at-evoila-4439848615?trk=public_jobs_topcard-title",
+      "status": "Not applied",
+      "fitScore": 11,
+      "matchedKeywords": [
+        "Agile"
+      ],
+      "unmatchedKeywords": [
+        "Product Owner",
+        "Product Management",
+        "Backlog Prioritisation",
+        "Stakeholder Management",
+        "User Story",
+        "Product Roadmap",
+        "LLM",
+        "API",
+        "iGaming",
+        "Payments",
+        "UAT",
+        "JIRA",
+        "Cross-functional",
+        "Data-driven",
+        "CBAP"
+      ],
+      "applicationsCount": "",
+      "contractType": "Full-time",
+      "experienceLevel": "Not Applicable"
+    },
+    {
+      "id": 8,
       "company": "Global Blue by Shift4",
       "role": "Sales Business Development | Payments",
       "sector": "Fintech",
