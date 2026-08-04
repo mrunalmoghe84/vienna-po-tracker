@@ -1,46 +1,10 @@
 {
-  "synced_at": "2026-08-04T08:15:47.337Z",
+  "synced_at": "2026-08-04T13:44:25.772Z",
   "source": "LinkedIn via Apify (last 24h)",
   "count": 9,
   "jobs": [
     {
       "id": 1,
-      "company": "TECCON Consulting GmbH",
-      "role": "Junior Product Owner",
-      "sector": "Tech",
-      "posted": "2026-08-03",
-      "salary": "—",
-      "city": "Gleisdorf",
-      "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/junior-product-owner-at-teccon-consulting-gmbh-4380682892?trk=public_jobs_topcard-title",
-      "status": "Not applied",
-      "fitScore": 56,
-      "matchedKeywords": [
-        "Product Management",
-        "Agile",
-        "User Story",
-        "CBAP"
-      ],
-      "unmatchedKeywords": [
-        "Product Owner",
-        "Backlog Prioritisation",
-        "Stakeholder Management",
-        "Product Roadmap",
-        "LLM",
-        "API",
-        "iGaming",
-        "Payments",
-        "UAT",
-        "JIRA",
-        "Cross-functional",
-        "Data-driven"
-      ],
-      "applicationsCount": "",
-      "contractType": "Full-time",
-      "experienceLevel": "Associate"
-    },
-    {
-      "id": 2,
       "company": "Grünenthal Group",
       "role": "IT Product Owner Procurement & Supply Chain (m/f/d)",
       "sector": "Tech",
@@ -76,53 +40,53 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 5,
-      "company": "A.M.I. Agency for Medical Innovations GmbH",
-      "role": "Product Manager for Surgical Instruments and Implants (m/f/x)",
-      "sector": "Intl Org",
-      "posted": "2026-08-03",
+      "id": 2,
+      "company": "apsa personnel concepts",
+      "role": "Product Manager – Digitale Lösungen (w/m/d)",
+      "sector": "Tech",
+      "posted": "2026-08-04",
       "salary": "—",
-      "city": "Feldkirch",
+      "city": "Vienna",
       "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/product-manager-for-surgical-instruments-and-implants-m-f-x-at-a-m-i-agency-for-medical-innovations-gmbh-4448175202?trk=public_jobs_topcard-title",
+      "url": "https://at.linkedin.com/jobs/view/product-manager-%E2%80%93-digitale-l%C3%B6sungen-w-m-d-at-apsa-personnel-concepts-4448837704?trk=public_jobs_topcard-title",
       "status": "Not applied",
-      "fitScore": 39,
+      "fitScore": 46,
       "matchedKeywords": [
-        "Product Management"
+        "Product Owner",
+        "User Story",
+        "JIRA"
       ],
       "unmatchedKeywords": [
-        "Product Owner",
+        "Product Management",
         "Agile",
         "Backlog Prioritisation",
         "Stakeholder Management",
-        "User Story",
         "Product Roadmap",
         "LLM",
         "API",
         "iGaming",
         "Payments",
         "UAT",
-        "JIRA",
         "Cross-functional",
         "Data-driven",
         "CBAP"
       ],
       "applicationsCount": "Be among the first 25 applicants",
-      "contractType": "Part-time",
-      "experienceLevel": "Entry level"
+      "contractType": "Full-time",
+      "experienceLevel": "Associate"
     },
     {
-      "id": 7,
-      "company": "Alza.at",
-      "role": "Product Manager",
+      "id": 5,
+      "company": "Fabasoft",
+      "role": "Product Owner Frontend Development (w/m/d)",
       "sector": "Tech",
-      "posted": "2026-08-03",
+      "posted": "2026-08-04",
       "salary": "—",
-      "city": "Vienna",
+      "city": "Linz",
       "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/product-manager-at-alza-at-4432340837?trk=public_jobs_topcard-title",
+      "url": "https://at.linkedin.com/jobs/view/product-owner-frontend-development-w-m-d-at-fabasoft-4401043612?trk=public_jobs_topcard-title",
       "status": "Not applied",
-      "fitScore": 36,
+      "fitScore": 43,
       "matchedKeywords": [],
       "unmatchedKeywords": [
         "Product Owner",
@@ -142,12 +106,48 @@
         "Data-driven",
         "CBAP"
       ],
-      "applicationsCount": "Be among the first 25 applicants",
+      "applicationsCount": "",
       "contractType": "Full-time",
-      "experienceLevel": "Entry level"
+      "experienceLevel": "Associate"
     },
     {
-      "id": 9,
+      "id": 4,
+      "company": "Erste Digital",
+      "role": "Business Analyst (Teilzeit oder Vollzeit Karenzvertretung)",
+      "sector": "Tech",
+      "posted": "2026-08-04",
+      "salary": "—",
+      "city": "Vienna",
+      "platform": "LinkedIn",
+      "url": "https://at.linkedin.com/jobs/view/business-analyst-teilzeit-oder-vollzeit-karenzvertretung-at-erste-digital-4448845535?trk=public_jobs_topcard-title",
+      "status": "Not applied",
+      "fitScore": 29,
+      "matchedKeywords": [
+        "Stakeholder Management",
+        "LLM",
+        "JIRA",
+        "CBAP"
+      ],
+      "unmatchedKeywords": [
+        "Product Owner",
+        "Product Management",
+        "Agile",
+        "Backlog Prioritisation",
+        "User Story",
+        "Product Roadmap",
+        "API",
+        "iGaming",
+        "Payments",
+        "UAT",
+        "Cross-functional",
+        "Data-driven"
+      ],
+      "applicationsCount": "Be among the first 25 applicants",
+      "contractType": "Full-time",
+      "experienceLevel": "Mid-Senior level"
+    },
+    {
+      "id": 3,
       "company": "Bitpanda",
       "role": "Senior Product Marketing Specialist",
       "sector": "Tech",
@@ -184,42 +184,42 @@
     },
     {
       "id": 8,
-      "company": "tech11 GmbH",
-      "role": "Senior IT Business Analyst Insurance (m/w/d)",
+      "company": "Financial Transparency Solutions",
+      "role": "Backend Software Engineer (Mid-Level) (f/m/d)",
       "sector": "Fintech",
-      "posted": "2026-08-03",
+      "posted": "2026-08-04",
       "salary": "—",
       "city": "Vienna",
       "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/senior-it-business-analyst-insurance-m-w-d-at-tech11-gmbh-4445891915?trk=public_jobs_topcard-title",
+      "url": "https://at.linkedin.com/jobs/view/backend-software-engineer-mid-level-f-m-d-at-financial-transparency-solutions-4446610961?trk=public_jobs_topcard-title",
       "status": "Not applied",
-      "fitScore": 23,
+      "fitScore": 21,
       "matchedKeywords": [
-        "API",
-        "CBAP"
-      ],
-      "unmatchedKeywords": [
         "Product Owner",
         "Product Management",
         "Agile",
+        "UAT"
+      ],
+      "unmatchedKeywords": [
         "Backlog Prioritisation",
         "Stakeholder Management",
         "User Story",
         "Product Roadmap",
         "LLM",
+        "API",
         "iGaming",
         "Payments",
-        "UAT",
         "JIRA",
         "Cross-functional",
-        "Data-driven"
+        "Data-driven",
+        "CBAP"
       ],
-      "applicationsCount": "Be among the first 25 applicants",
+      "applicationsCount": "",
       "contractType": "Full-time",
-      "experienceLevel": "Associate"
+      "experienceLevel": "Entry level"
     },
     {
-      "id": 4,
+      "id": 6,
       "company": "Frequentis",
       "role": "Solution Architect - Defence (all genders)",
       "sector": "Tech",
@@ -255,20 +255,55 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 3,
-      "company": "AT&S",
-      "role": "Technical Project Manager R&D",
+      "id": 7,
+      "company": "Infineon Technologies",
+      "role": "Senior Project Manager for Sensor Product Development (f/m/div)",
       "sector": "Tech",
-      "posted": "2026-08-03",
+      "posted": "2026-08-04",
       "salary": "—",
-      "city": "Leoben",
+      "city": "Graz",
       "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/technical-project-manager-r-d-at-at-s-4432726254?trk=public_jobs_topcard-title",
+      "url": "https://at.linkedin.com/jobs/view/senior-project-manager-for-sensor-product-development-f-m-div-at-infineon-technologies-4448863836?trk=public_jobs_topcard-title",
       "status": "Not applied",
-      "fitScore": 15,
+      "fitScore": 18,
       "matchedKeywords": [
-        "LLM",
+        "Product Management",
+        "Agile",
         "Cross-functional"
+      ],
+      "unmatchedKeywords": [
+        "Product Owner",
+        "Backlog Prioritisation",
+        "Stakeholder Management",
+        "User Story",
+        "Product Roadmap",
+        "LLM",
+        "API",
+        "iGaming",
+        "Payments",
+        "UAT",
+        "JIRA",
+        "Data-driven",
+        "CBAP"
+      ],
+      "applicationsCount": "Be among the first 25 applicants",
+      "contractType": "Full-time",
+      "experienceLevel": "Mid-Senior level"
+    },
+    {
+      "id": 9,
+      "company": "Global Blue by Shift4",
+      "role": "Sales Business Development | Payments",
+      "sector": "Fintech",
+      "posted": "2026-08-04",
+      "salary": "5000–10000",
+      "city": "Salzburg",
+      "platform": "LinkedIn",
+      "url": "https://at.linkedin.com/jobs/view/sales-business-development-payments-at-global-blue-by-shift4-4446633140?trk=public_jobs_topcard-title",
+      "status": "Not applied",
+      "fitScore": 11,
+      "matchedKeywords": [
+        "Payments"
       ],
       "unmatchedKeywords": [
         "Product Owner",
@@ -278,44 +313,9 @@
         "Stakeholder Management",
         "User Story",
         "Product Roadmap",
-        "API",
-        "iGaming",
-        "Payments",
-        "UAT",
-        "JIRA",
-        "Data-driven",
-        "CBAP"
-      ],
-      "applicationsCount": "",
-      "contractType": "Full-time",
-      "experienceLevel": "Not Applicable"
-    },
-    {
-      "id": 6,
-      "company": "easily",
-      "role": "Software Entwickler",
-      "sector": "Tech",
-      "posted": "2026-08-03",
-      "salary": "290–290",
-      "city": "Graz",
-      "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/software-entwickler-at-easily-4445896362?trk=public_jobs_topcard-title",
-      "status": "Not applied",
-      "fitScore": 11,
-      "matchedKeywords": [
-        "Product Owner"
-      ],
-      "unmatchedKeywords": [
-        "Product Management",
-        "Agile",
-        "Backlog Prioritisation",
-        "Stakeholder Management",
-        "User Story",
-        "Product Roadmap",
         "LLM",
         "API",
         "iGaming",
-        "Payments",
         "UAT",
         "JIRA",
         "Cross-functional",
@@ -324,7 +324,7 @@
       ],
       "applicationsCount": "Be among the first 25 applicants",
       "contractType": "Full-time",
-      "experienceLevel": "Not Applicable"
+      "experienceLevel": "Associate"
     }
   ]
 }
