@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-08-03T19:16:41.968Z",
+  "synced_at": "2026-08-04T01:20:52.657Z",
   "source": "LinkedIn via Apify (last 24h)",
-  "count": 11,
+  "count": 12,
   "jobs": [
     {
-      "id": 3,
+      "id": 1,
       "company": "DEVjobs",
       "role": "Product Owner @ XiTrust",
       "sector": "Tech",
@@ -40,7 +40,43 @@
       "experienceLevel": "Associate"
     },
     {
-      "id": 2,
+      "id": 7,
+      "company": "Grünenthal Group",
+      "role": "IT Product Owner Procurement & Supply Chain (m/f/d)",
+      "sector": "Tech",
+      "posted": "2026-08-03",
+      "salary": "—",
+      "city": "Vienna",
+      "platform": "LinkedIn",
+      "url": "https://at.linkedin.com/jobs/view/it-product-owner-procurement-supply-chain-m-f-d-at-gr%C3%BCnenthal-group-4448398663?trk=public_jobs_topcard-title",
+      "status": "Not applied",
+      "fitScore": 56,
+      "matchedKeywords": [
+        "Product Management",
+        "LLM",
+        "Cross-functional",
+        "Data-driven"
+      ],
+      "unmatchedKeywords": [
+        "Product Owner",
+        "Agile",
+        "Backlog Prioritisation",
+        "Stakeholder Management",
+        "User Story",
+        "Product Roadmap",
+        "API",
+        "iGaming",
+        "Payments",
+        "UAT",
+        "JIRA",
+        "CBAP"
+      ],
+      "applicationsCount": "Be among the first 25 applicants",
+      "contractType": "Full-time",
+      "experienceLevel": "Not Applicable"
+    },
+    {
+      "id": 9,
       "company": "TECCON Consulting GmbH",
       "role": "Junior Product Owner",
       "sector": "Tech",
@@ -76,7 +112,7 @@
       "experienceLevel": "Associate"
     },
     {
-      "id": 9,
+      "id": 6,
       "company": "A.M.I. Agency for Medical Innovations GmbH",
       "role": "Product Manager for Surgical Instruments and Implants (m/f/x)",
       "sector": "Intl Org",
@@ -112,7 +148,7 @@
       "experienceLevel": "Entry level"
     },
     {
-      "id": 7,
+      "id": 2,
       "company": "Alza.at",
       "role": "Product Manager",
       "sector": "Tech",
@@ -147,7 +183,7 @@
       "experienceLevel": "Entry level"
     },
     {
-      "id": 6,
+      "id": 5,
       "company": "Sportradar",
       "role": "Business QA Analyst [m/f/d]",
       "sector": "iGaming",
@@ -183,7 +219,7 @@
       "experienceLevel": "Associate"
     },
     {
-      "id": 5,
+      "id": 8,
       "company": "Bitpanda",
       "role": "Senior Product Marketing Specialist",
       "sector": "Tech",
@@ -219,7 +255,7 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 8,
+      "id": 3,
       "company": "tech11 GmbH",
       "role": "Senior IT Business Analyst Insurance (m/w/d)",
       "sector": "Fintech",
@@ -255,7 +291,7 @@
       "experienceLevel": "Associate"
     },
     {
-      "id": 1,
+      "id": 11,
       "company": "Frequentis",
       "role": "Solution Architect - Defence (all genders)",
       "sector": "Tech",
@@ -291,7 +327,7 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 4,
+      "id": 12,
       "company": "AT&S",
       "role": "Technical Project Manager R&D",
       "sector": "Tech",
@@ -327,7 +363,7 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 10,
+      "id": 4,
       "company": "easily",
       "role": "Software Entwickler",
       "sector": "Tech",
@@ -363,7 +399,7 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 11,
+      "id": 10,
       "company": "Niederösterreichische Versicherung AG",
       "role": "Senior Business Intelligence-Analyst (w/m/d)",
       "sector": "Tech",
