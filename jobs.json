@@ -1,82 +1,10 @@
 {
-  "synced_at": "2026-08-04T01:20:52.657Z",
+  "synced_at": "2026-08-04T08:15:47.337Z",
   "source": "LinkedIn via Apify (last 24h)",
-  "count": 12,
+  "count": 9,
   "jobs": [
     {
       "id": 1,
-      "company": "DEVjobs",
-      "role": "Product Owner @ XiTrust",
-      "sector": "Tech",
-      "posted": "2026-08-03",
-      "salary": "63–80",
-      "city": "Graz",
-      "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/product-owner-%40-xitrust-at-devjobs-4447697711?trk=public_jobs_topcard-title",
-      "status": "Not applied",
-      "fitScore": 59,
-      "matchedKeywords": [
-        "Product Owner",
-        "Agile",
-        "User Story",
-        "LLM",
-        "JIRA"
-      ],
-      "unmatchedKeywords": [
-        "Product Management",
-        "Backlog Prioritisation",
-        "Stakeholder Management",
-        "Product Roadmap",
-        "API",
-        "iGaming",
-        "Payments",
-        "UAT",
-        "Cross-functional",
-        "Data-driven",
-        "CBAP"
-      ],
-      "applicationsCount": "Be among the first 25 applicants",
-      "contractType": "Full-time",
-      "experienceLevel": "Associate"
-    },
-    {
-      "id": 7,
-      "company": "Grünenthal Group",
-      "role": "IT Product Owner Procurement & Supply Chain (m/f/d)",
-      "sector": "Tech",
-      "posted": "2026-08-03",
-      "salary": "—",
-      "city": "Vienna",
-      "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/it-product-owner-procurement-supply-chain-m-f-d-at-gr%C3%BCnenthal-group-4448398663?trk=public_jobs_topcard-title",
-      "status": "Not applied",
-      "fitScore": 56,
-      "matchedKeywords": [
-        "Product Management",
-        "LLM",
-        "Cross-functional",
-        "Data-driven"
-      ],
-      "unmatchedKeywords": [
-        "Product Owner",
-        "Agile",
-        "Backlog Prioritisation",
-        "Stakeholder Management",
-        "User Story",
-        "Product Roadmap",
-        "API",
-        "iGaming",
-        "Payments",
-        "UAT",
-        "JIRA",
-        "CBAP"
-      ],
-      "applicationsCount": "Be among the first 25 applicants",
-      "contractType": "Full-time",
-      "experienceLevel": "Not Applicable"
-    },
-    {
-      "id": 9,
       "company": "TECCON Consulting GmbH",
       "role": "Junior Product Owner",
       "sector": "Tech",
@@ -112,7 +40,43 @@
       "experienceLevel": "Associate"
     },
     {
-      "id": 6,
+      "id": 2,
+      "company": "Grünenthal Group",
+      "role": "IT Product Owner Procurement & Supply Chain (m/f/d)",
+      "sector": "Tech",
+      "posted": "2026-08-03",
+      "salary": "—",
+      "city": "Vienna",
+      "platform": "LinkedIn",
+      "url": "https://at.linkedin.com/jobs/view/it-product-owner-procurement-supply-chain-m-f-d-at-gr%C3%BCnenthal-group-4448398663?trk=public_jobs_topcard-title",
+      "status": "Not applied",
+      "fitScore": 56,
+      "matchedKeywords": [
+        "Product Management",
+        "LLM",
+        "Cross-functional",
+        "Data-driven"
+      ],
+      "unmatchedKeywords": [
+        "Product Owner",
+        "Agile",
+        "Backlog Prioritisation",
+        "Stakeholder Management",
+        "User Story",
+        "Product Roadmap",
+        "API",
+        "iGaming",
+        "Payments",
+        "UAT",
+        "JIRA",
+        "CBAP"
+      ],
+      "applicationsCount": "Be among the first 25 applicants",
+      "contractType": "Full-time",
+      "experienceLevel": "Not Applicable"
+    },
+    {
+      "id": 5,
       "company": "A.M.I. Agency for Medical Innovations GmbH",
       "role": "Product Manager for Surgical Instruments and Implants (m/f/x)",
       "sector": "Intl Org",
@@ -148,7 +112,7 @@
       "experienceLevel": "Entry level"
     },
     {
-      "id": 2,
+      "id": 7,
       "company": "Alza.at",
       "role": "Product Manager",
       "sector": "Tech",
@@ -183,43 +147,7 @@
       "experienceLevel": "Entry level"
     },
     {
-      "id": 5,
-      "company": "Sportradar",
-      "role": "Business QA Analyst [m/f/d]",
-      "sector": "iGaming",
-      "posted": "2026-08-03",
-      "salary": "—",
-      "city": "Vienna",
-      "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/business-qa-analyst-m-f-d-at-sportradar-4448157081?trk=public_jobs_topcard-title",
-      "status": "Not applied",
-      "fitScore": 27,
-      "matchedKeywords": [
-        "Agile",
-        "LLM",
-        "iGaming",
-        "UAT",
-        "JIRA",
-        "Cross-functional"
-      ],
-      "unmatchedKeywords": [
-        "Product Owner",
-        "Product Management",
-        "Backlog Prioritisation",
-        "Stakeholder Management",
-        "User Story",
-        "Product Roadmap",
-        "API",
-        "Payments",
-        "Data-driven",
-        "CBAP"
-      ],
-      "applicationsCount": "",
-      "contractType": "Full-time",
-      "experienceLevel": "Associate"
-    },
-    {
-      "id": 8,
+      "id": 9,
       "company": "Bitpanda",
       "role": "Senior Product Marketing Specialist",
       "sector": "Tech",
@@ -255,7 +183,7 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 3,
+      "id": 8,
       "company": "tech11 GmbH",
       "role": "Senior IT Business Analyst Insurance (m/w/d)",
       "sector": "Fintech",
@@ -291,7 +219,7 @@
       "experienceLevel": "Associate"
     },
     {
-      "id": 11,
+      "id": 4,
       "company": "Frequentis",
       "role": "Solution Architect - Defence (all genders)",
       "sector": "Tech",
@@ -327,7 +255,7 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 12,
+      "id": 3,
       "company": "AT&S",
       "role": "Technical Project Manager R&D",
       "sector": "Tech",
@@ -363,7 +291,7 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 4,
+      "id": 6,
       "company": "easily",
       "role": "Software Entwickler",
       "sector": "Tech",
@@ -397,42 +325,6 @@
       "applicationsCount": "Be among the first 25 applicants",
       "contractType": "Full-time",
       "experienceLevel": "Not Applicable"
-    },
-    {
-      "id": 10,
-      "company": "Niederösterreichische Versicherung AG",
-      "role": "Senior Business Intelligence-Analyst (w/m/d)",
-      "sector": "Tech",
-      "posted": "2026-08-03",
-      "salary": "—",
-      "city": "St Pölten",
-      "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/senior-business-intelligence-analyst-w-m-d-at-nieder%C3%B6sterreichische-versicherung-ag-4448134873?trk=public_jobs_topcard-title",
-      "status": "Not applied",
-      "fitScore": 11,
-      "matchedKeywords": [
-        "Data-driven"
-      ],
-      "unmatchedKeywords": [
-        "Product Owner",
-        "Product Management",
-        "Agile",
-        "Backlog Prioritisation",
-        "Stakeholder Management",
-        "User Story",
-        "Product Roadmap",
-        "LLM",
-        "API",
-        "iGaming",
-        "Payments",
-        "UAT",
-        "JIRA",
-        "Cross-functional",
-        "CBAP"
-      ],
-      "applicationsCount": "Be among the first 25 applicants",
-      "contractType": "Full-time",
-      "experienceLevel": "Associate"
     }
   ]
 }
