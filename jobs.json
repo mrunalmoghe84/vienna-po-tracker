@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-08-05T01:25:59.953Z",
+  "synced_at": "2026-08-05T08:14:39.882Z",
   "source": "LinkedIn via Apify (last 24h)",
   "count": 10,
   "jobs": [
     {
-      "id": 4,
+      "id": 8,
       "company": "apsa personnel concepts",
       "role": "Product Manager – Digitale Lösungen (w/m/d)",
       "sector": "Tech",
@@ -40,23 +40,22 @@
       "experienceLevel": "Associate"
     },
     {
-      "id": 2,
-      "company": "STARCON | HR Experts",
-      "role": "Product Manager (w/m/d)",
+      "id": 1,
+      "company": "Fabasoft",
+      "role": "Product Owner Frontend Development (w/m/d)",
       "sector": "Tech",
       "posted": "2026-08-04",
       "salary": "—",
-      "city": "Salzburg",
+      "city": "Linz",
       "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/product-manager-w-m-d-at-starcon-hr-experts-4448514577?trk=public_jobs_topcard-title",
+      "url": "https://at.linkedin.com/jobs/view/product-owner-frontend-development-w-m-d-at-fabasoft-4401043612?trk=public_jobs_topcard-title",
       "status": "Not applied",
       "fitScore": 43,
-      "matchedKeywords": [
-        "Product Owner",
-        "Agile"
-      ],
+      "matchedKeywords": [],
       "unmatchedKeywords": [
+        "Product Owner",
         "Product Management",
+        "Agile",
         "Backlog Prioritisation",
         "Stakeholder Management",
         "User Story",
@@ -71,12 +70,12 @@
         "Data-driven",
         "CBAP"
       ],
-      "applicationsCount": "Be among the first 25 applicants",
+      "applicationsCount": "",
       "contractType": "Full-time",
       "experienceLevel": "Associate"
     },
     {
-      "id": 9,
+      "id": 6,
       "company": "Bybit EU",
       "role": "Senior Payments Product Manager",
       "sector": "Fintech",
@@ -110,41 +109,6 @@
       "applicationsCount": "Be among the first 25 applicants",
       "contractType": "Full-time",
       "experienceLevel": "Mid-Senior level"
-    },
-    {
-      "id": 10,
-      "company": "Fabasoft",
-      "role": "Product Owner Frontend Development (w/m/d)",
-      "sector": "Tech",
-      "posted": "2026-08-04",
-      "salary": "—",
-      "city": "Linz",
-      "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/product-owner-frontend-development-w-m-d-at-fabasoft-4401043612?trk=public_jobs_topcard-title",
-      "status": "Not applied",
-      "fitScore": 43,
-      "matchedKeywords": [],
-      "unmatchedKeywords": [
-        "Product Owner",
-        "Product Management",
-        "Agile",
-        "Backlog Prioritisation",
-        "Stakeholder Management",
-        "User Story",
-        "Product Roadmap",
-        "LLM",
-        "API",
-        "iGaming",
-        "Payments",
-        "UAT",
-        "JIRA",
-        "Cross-functional",
-        "Data-driven",
-        "CBAP"
-      ],
-      "applicationsCount": "",
-      "contractType": "Full-time",
-      "experienceLevel": "Associate"
     },
     {
       "id": 7,
@@ -183,7 +147,7 @@
       "experienceLevel": "Mid-Senior level"
     },
     {
-      "id": 1,
+      "id": 9,
       "company": "Erste Digital",
       "role": "Business Analyst (Teilzeit oder Vollzeit Karenzvertretung)",
       "sector": "Tech",
@@ -219,7 +183,7 @@
       "experienceLevel": "Mid-Senior level"
     },
     {
-      "id": 5,
+      "id": 4,
       "company": "Financial Transparency Solutions",
       "role": "Backend Software Engineer (Mid-Level) (f/m/d)",
       "sector": "Fintech",
@@ -255,7 +219,7 @@
       "experienceLevel": "Entry level"
     },
     {
-      "id": 6,
+      "id": 5,
       "company": "Infineon Technologies",
       "role": "Senior Project Manager for Sensor Product Development (f/m/div)",
       "sector": "Tech",
@@ -292,6 +256,41 @@
     },
     {
       "id": 3,
+      "company": "Wüstenrot Gruppe",
+      "role": "Business Analyst:in Regulatory Reporting (m/w/d)",
+      "sector": "Tech",
+      "posted": "2026-08-05",
+      "salary": "—",
+      "city": "Vienna",
+      "platform": "LinkedIn",
+      "url": "https://at.linkedin.com/jobs/view/business-analyst-in-regulatory-reporting-m-w-d-at-w%C3%BCstenrot-gruppe-4426622563?trk=public_jobs_topcard-title",
+      "status": "Not applied",
+      "fitScore": 16,
+      "matchedKeywords": [],
+      "unmatchedKeywords": [
+        "Product Owner",
+        "Product Management",
+        "Agile",
+        "Backlog Prioritisation",
+        "Stakeholder Management",
+        "User Story",
+        "Product Roadmap",
+        "LLM",
+        "API",
+        "iGaming",
+        "Payments",
+        "UAT",
+        "JIRA",
+        "Cross-functional",
+        "Data-driven",
+        "CBAP"
+      ],
+      "applicationsCount": "",
+      "contractType": "Full-time",
+      "experienceLevel": "Not Applicable"
+    },
+    {
+      "id": 2,
       "company": "Global Blue by Shift4",
       "role": "Sales Business Development | Payments",
       "sector": "Fintech",
@@ -327,7 +326,7 @@
       "experienceLevel": "Associate"
     },
     {
-      "id": 8,
+      "id": 10,
       "company": "evoila",
       "role": "Technical Project Manager (m/w/d)",
       "sector": "Tech",
