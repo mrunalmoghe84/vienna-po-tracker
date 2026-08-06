@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-08-05T19:12:16.445Z",
+  "synced_at": "2026-08-06T01:23:48.063Z",
   "source": "LinkedIn via Apify (last 24h)",
   "count": 7,
   "jobs": [
     {
-      "id": 7,
+      "id": 2,
       "company": "ComplyGuard",
       "role": "CRM Product Owner / CAM Manager (m/w/d) - iGaming & Sportwetten",
       "sector": "iGaming",
@@ -40,7 +40,7 @@
       "experienceLevel": "Mid-Senior level"
     },
     {
-      "id": 3,
+      "id": 6,
       "company": "Bitpanda",
       "role": "Senior Product Marketing Specialist",
       "sector": "Tech",
@@ -76,7 +76,7 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 6,
+      "id": 4,
       "company": "philoro EDELMETALLE",
       "role": "Business Analyst (m/w/d) – Schwerpunkte: ERP & Digitalisierung",
       "sector": "Tech",
@@ -112,7 +112,7 @@
       "experienceLevel": "Associate"
     },
     {
-      "id": 4,
+      "id": 5,
       "company": "Berger Logistik",
       "role": "IT Service & Business Analyst (m/w/d)",
       "sector": "Tech",
@@ -148,7 +148,7 @@
       "experienceLevel": "Associate"
     },
     {
-      "id": 2,
+      "id": 7,
       "company": "Wüstenrot Gruppe",
       "role": "Business Analyst:in Regulatory Reporting (m/w/d)",
       "sector": "Tech",
@@ -218,7 +218,7 @@
       "experienceLevel": "Mid-Senior level"
     },
     {
-      "id": 5,
+      "id": 3,
       "company": "sportsbusiness.at",
       "role": "[Job] Technical Project Manager:in – AhoiKapptn!",
       "sector": "iGaming",
