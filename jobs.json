@@ -1,18 +1,54 @@
 {
-  "synced_at": "2026-08-08T18:21:32.412Z",
+  "synced_at": "2026-08-09T00:49:09.972Z",
   "source": "LinkedIn via Apify (last 24h)",
-  "count": 12,
+  "count": 11,
   "jobs": [
     {
-      "id": 9,
+      "id": 5,
+      "company": "XXXLdigital – Part of XXXL Group",
+      "role": "Senior Product Owner - Purchasing Platform (m/w/d)",
+      "sector": "Tech",
+      "posted": "2026-08-08",
+      "salary": "—",
+      "city": "Vienna",
+      "platform": "LinkedIn",
+      "url": "https://at.linkedin.com/jobs/view/senior-product-owner-purchasing-platform-m-w-d-at-xxxldigital-%E2%80%93-part-of-xxxl-group-4439601224?trk=public_jobs_topcard-title",
+      "status": "Not applied",
+      "fitScore": 53,
+      "matchedKeywords": [
+        "Product Owner",
+        "Product Management",
+        "Data-driven"
+      ],
+      "unmatchedKeywords": [
+        "Agile",
+        "Backlog Prioritisation",
+        "Stakeholder Management",
+        "User Story",
+        "Product Roadmap",
+        "LLM",
+        "API",
+        "iGaming",
+        "Payments",
+        "UAT",
+        "JIRA",
+        "Cross-functional",
+        "CBAP"
+      ],
+      "applicationsCount": "Be among the first 25 applicants",
+      "contractType": "Full-time",
+      "experienceLevel": "Not Applicable"
+    },
+    {
+      "id": 10,
       "company": "XXXLdigital – Part of XXXL Group",
       "role": "Product Manager - Konfiguratoren (w/m/d)",
       "sector": "Tech",
       "posted": "2026-08-08",
       "salary": "—",
-      "city": "Linz",
+      "city": "Wels",
       "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/product-manager-konfiguratoren-w-m-d-at-xxxldigital-%E2%80%93-part-of-xxxl-group-4439297300?trk=public_jobs_topcard-title",
+      "url": "https://at.linkedin.com/jobs/view/product-manager-konfiguratoren-w-m-d-at-xxxldigital-%E2%80%93-part-of-xxxl-group-4439298258?trk=public_jobs_topcard-title",
       "status": "Not applied",
       "fitScore": 43,
       "matchedKeywords": [
@@ -40,7 +76,7 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 4,
+      "id": 7,
       "company": "Red Bull",
       "role": "Logistics Optimization Specialist",
       "sector": "Tech",
@@ -112,23 +148,59 @@
       "experienceLevel": "Associate"
     },
     {
-      "id": 7,
-      "company": "ABB",
-      "role": "Product Specialist & Business Development Antriebstechnik",
+      "id": 2,
+      "company": "INNIO Group",
+      "role": "Program Manager Controls (m/f/d)",
       "sector": "Tech",
-      "posted": "2026-08-07",
+      "posted": "2026-08-08",
       "salary": "—",
-      "city": "Wiener Neudorf",
+      "city": "Jenbach",
       "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/product-specialist-business-development-antriebstechnik-at-abb-4431720868?trk=public_jobs_topcard-title",
+      "url": "https://at.linkedin.com/jobs/view/program-manager-controls-m-f-d-at-innio-group-4424282103?trk=public_jobs_topcard-title",
       "status": "Not applied",
-      "fitScore": 15,
+      "fitScore": 11,
       "matchedKeywords": [
-        "Product Management",
-        "Data-driven"
+        "Cross-functional"
       ],
       "unmatchedKeywords": [
         "Product Owner",
+        "Product Management",
+        "Agile",
+        "Backlog Prioritisation",
+        "Stakeholder Management",
+        "User Story",
+        "Product Roadmap",
+        "LLM",
+        "API",
+        "iGaming",
+        "Payments",
+        "UAT",
+        "JIRA",
+        "Data-driven",
+        "CBAP"
+      ],
+      "applicationsCount": "Be among the first 25 applicants",
+      "contractType": "Full-time",
+      "experienceLevel": "Not Applicable"
+    },
+    {
+      "id": 3,
+      "company": "SEGULA Technologies",
+      "role": "Projektleiter:in (m/w/d)",
+      "sector": "Tech",
+      "posted": "2026-08-08",
+      "salary": "—",
+      "city": "Vienna",
+      "platform": "LinkedIn",
+      "url": "https://at.linkedin.com/jobs/view/projektleiter-in-m-w-d-at-segula-technologies-4433863659?trk=public_jobs_topcard-title",
+      "status": "Not applied",
+      "fitScore": 11,
+      "matchedKeywords": [
+        "CBAP"
+      ],
+      "unmatchedKeywords": [
+        "Product Owner",
+        "Product Management",
         "Agile",
         "Backlog Prioritisation",
         "Stakeholder Management",
@@ -141,81 +213,9 @@
         "UAT",
         "JIRA",
         "Cross-functional",
-        "CBAP"
-      ],
-      "applicationsCount": "Be among the first 25 applicants",
-      "contractType": "Full-time",
-      "experienceLevel": "Not Applicable"
-    },
-    {
-      "id": 2,
-      "company": "Blum Group",
-      "role": "Venture Architect (m/w/d)",
-      "sector": "Tech",
-      "posted": "2026-08-08",
-      "salary": "—",
-      "city": "Höchst",
-      "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/venture-architect-m-w-d-at-blum-group-4440278689?trk=public_jobs_topcard-title",
-      "status": "Not applied",
-      "fitScore": 11,
-      "matchedKeywords": [
-        "LLM"
-      ],
-      "unmatchedKeywords": [
-        "Product Owner",
-        "Product Management",
-        "Agile",
-        "Backlog Prioritisation",
-        "Stakeholder Management",
-        "User Story",
-        "Product Roadmap",
-        "API",
-        "iGaming",
-        "Payments",
-        "UAT",
-        "JIRA",
-        "Cross-functional",
-        "Data-driven",
-        "CBAP"
+        "Data-driven"
       ],
       "applicationsCount": "",
-      "contractType": "Full-time",
-      "experienceLevel": "Not Applicable"
-    },
-    {
-      "id": 3,
-      "company": "ABB",
-      "role": "Process & Toolchain Expert (f/m/d)",
-      "sector": "Tech",
-      "posted": "2026-08-07",
-      "salary": "—",
-      "city": "Eggelsberg",
-      "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/process-toolchain-expert-f-m-d-at-abb-4450381673?trk=public_jobs_topcard-title",
-      "status": "Not applied",
-      "fitScore": 11,
-      "matchedKeywords": [
-        "LLM"
-      ],
-      "unmatchedKeywords": [
-        "Product Owner",
-        "Product Management",
-        "Agile",
-        "Backlog Prioritisation",
-        "Stakeholder Management",
-        "User Story",
-        "Product Roadmap",
-        "API",
-        "iGaming",
-        "Payments",
-        "UAT",
-        "JIRA",
-        "Cross-functional",
-        "Data-driven",
-        "CBAP"
-      ],
-      "applicationsCount": "Be among the first 25 applicants",
       "contractType": "Full-time",
       "experienceLevel": "Not Applicable"
     },
@@ -257,18 +257,18 @@
     },
     {
       "id": 8,
-      "company": "INNIO Group",
-      "role": "Program Manager Controls (m/f/d)",
+      "company": "Blum Group",
+      "role": "Venture Architect (m/w/d)",
       "sector": "Tech",
       "posted": "2026-08-08",
       "salary": "—",
-      "city": "Jenbach",
+      "city": "Höchst",
       "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/program-manager-controls-m-f-d-at-innio-group-4424282103?trk=public_jobs_topcard-title",
+      "url": "https://at.linkedin.com/jobs/view/venture-architect-m-w-d-at-blum-group-4440278689?trk=public_jobs_topcard-title",
       "status": "Not applied",
       "fitScore": 11,
       "matchedKeywords": [
-        "Cross-functional"
+        "LLM"
       ],
       "unmatchedKeywords": [
         "Product Owner",
@@ -278,21 +278,21 @@
         "Stakeholder Management",
         "User Story",
         "Product Roadmap",
-        "LLM",
         "API",
         "iGaming",
         "Payments",
         "UAT",
         "JIRA",
+        "Cross-functional",
         "Data-driven",
         "CBAP"
       ],
-      "applicationsCount": "Be among the first 25 applicants",
+      "applicationsCount": "",
       "contractType": "Full-time",
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 10,
+      "id": 11,
       "company": "Fresenius Medical Care",
       "role": "Senior Software System and Product Architect",
       "sector": "Tech",
@@ -328,43 +328,7 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 12,
-      "company": "SEGULA Technologies",
-      "role": "Projektleiter:in (m/w/d)",
-      "sector": "Tech",
-      "posted": "2026-08-08",
-      "salary": "—",
-      "city": "Vienna",
-      "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/projektleiter-in-m-w-d-at-segula-technologies-4433863659?trk=public_jobs_topcard-title",
-      "status": "Not applied",
-      "fitScore": 11,
-      "matchedKeywords": [
-        "CBAP"
-      ],
-      "unmatchedKeywords": [
-        "Product Owner",
-        "Product Management",
-        "Agile",
-        "Backlog Prioritisation",
-        "Stakeholder Management",
-        "User Story",
-        "Product Roadmap",
-        "LLM",
-        "API",
-        "iGaming",
-        "Payments",
-        "UAT",
-        "JIRA",
-        "Cross-functional",
-        "Data-driven"
-      ],
-      "applicationsCount": "",
-      "contractType": "Full-time",
-      "experienceLevel": "Not Applicable"
-    },
-    {
-      "id": 5,
+      "id": 4,
       "company": "Raiffeisenverband Salzburg",
       "role": "Produktmanager:in Aktivprodukte für Privat- und Geschäftskund:innen",
       "sector": "Tech",
@@ -399,7 +363,7 @@
       "experienceLevel": "Mid-Senior level"
     },
     {
-      "id": 11,
+      "id": 9,
       "company": "PIDSO--Propagation Ideas and Solutions",
       "role": "Produkt Manager (m/w/*)",
       "sector": "Tech",
