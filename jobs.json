@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-08-09T00:49:09.972Z",
+  "synced_at": "2026-08-09T06:36:25.069Z",
   "source": "LinkedIn via Apify (last 24h)",
-  "count": 11,
+  "count": 12,
   "jobs": [
     {
-      "id": 5,
+      "id": 1,
       "company": "XXXLdigital – Part of XXXL Group",
       "role": "Senior Product Owner - Purchasing Platform (m/w/d)",
       "sector": "Tech",
@@ -40,15 +40,15 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 10,
+      "id": 3,
       "company": "XXXLdigital – Part of XXXL Group",
       "role": "Product Manager - Konfiguratoren (w/m/d)",
       "sector": "Tech",
       "posted": "2026-08-08",
       "salary": "—",
-      "city": "Wels",
+      "city": "Linz",
       "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/product-manager-konfiguratoren-w-m-d-at-xxxldigital-%E2%80%93-part-of-xxxl-group-4439298258?trk=public_jobs_topcard-title",
+      "url": "https://at.linkedin.com/jobs/view/product-manager-konfiguratoren-w-m-d-at-xxxldigital-%E2%80%93-part-of-xxxl-group-4439297300?trk=public_jobs_topcard-title",
       "status": "Not applied",
       "fitScore": 43,
       "matchedKeywords": [
@@ -76,7 +76,43 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 7,
+      "id": 9,
+      "company": "Gradient Solutions",
+      "role": "Business IT-Consultant (20-40 h) in Wien gesucht",
+      "sector": "Tech",
+      "posted": "2026-08-09",
+      "salary": "4200–6000",
+      "city": "Vienna",
+      "platform": "LinkedIn",
+      "url": "https://at.linkedin.com/jobs/view/business-it-consultant-20-40-h-in-wien-gesucht-at-gradient-solutions-4449500172?trk=public_jobs_topcard-title",
+      "status": "Not applied",
+      "fitScore": 18,
+      "matchedKeywords": [
+        "Agile",
+        "LLM",
+        "JIRA"
+      ],
+      "unmatchedKeywords": [
+        "Product Owner",
+        "Product Management",
+        "Backlog Prioritisation",
+        "Stakeholder Management",
+        "User Story",
+        "Product Roadmap",
+        "API",
+        "iGaming",
+        "Payments",
+        "UAT",
+        "Cross-functional",
+        "Data-driven",
+        "CBAP"
+      ],
+      "applicationsCount": "Be among the first 25 applicants",
+      "contractType": "Full-time",
+      "experienceLevel": "Associate"
+    },
+    {
+      "id": 11,
       "company": "Red Bull",
       "role": "Logistics Optimization Specialist",
       "sector": "Tech",
@@ -112,7 +148,7 @@
       "experienceLevel": "Associate"
     },
     {
-      "id": 1,
+      "id": 4,
       "company": "dectria",
       "role": "Product Engineer (m/w/d)",
       "sector": "Tech",
@@ -148,7 +184,43 @@
       "experienceLevel": "Associate"
     },
     {
-      "id": 2,
+      "id": 6,
+      "company": "ABB",
+      "role": "Product Specialist & Business Development Antriebstechnik",
+      "sector": "Tech",
+      "posted": "2026-08-09",
+      "salary": "—",
+      "city": "Wiener Neudorf",
+      "platform": "LinkedIn",
+      "url": "https://at.linkedin.com/jobs/view/product-specialist-business-development-antriebstechnik-at-abb-4431720868?trk=public_jobs_topcard-title",
+      "status": "Not applied",
+      "fitScore": 15,
+      "matchedKeywords": [
+        "Product Management",
+        "Data-driven"
+      ],
+      "unmatchedKeywords": [
+        "Product Owner",
+        "Agile",
+        "Backlog Prioritisation",
+        "Stakeholder Management",
+        "User Story",
+        "Product Roadmap",
+        "LLM",
+        "API",
+        "iGaming",
+        "Payments",
+        "UAT",
+        "JIRA",
+        "Cross-functional",
+        "CBAP"
+      ],
+      "applicationsCount": "Be among the first 25 applicants",
+      "contractType": "Full-time",
+      "experienceLevel": "Not Applicable"
+    },
+    {
+      "id": 7,
       "company": "INNIO Group",
       "role": "Program Manager Controls (m/f/d)",
       "sector": "Tech",
@@ -184,7 +256,7 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 3,
+      "id": 8,
       "company": "SEGULA Technologies",
       "role": "Projektleiter:in (m/w/d)",
       "sector": "Tech",
@@ -220,7 +292,7 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 6,
+      "id": 10,
       "company": "Deloitte",
       "role": "(Senior) Consultant (all genders) IT Projektmanagement",
       "sector": "Tech",
@@ -256,43 +328,7 @@
       "experienceLevel": "Associate"
     },
     {
-      "id": 8,
-      "company": "Blum Group",
-      "role": "Venture Architect (m/w/d)",
-      "sector": "Tech",
-      "posted": "2026-08-08",
-      "salary": "—",
-      "city": "Höchst",
-      "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/venture-architect-m-w-d-at-blum-group-4440278689?trk=public_jobs_topcard-title",
-      "status": "Not applied",
-      "fitScore": 11,
-      "matchedKeywords": [
-        "LLM"
-      ],
-      "unmatchedKeywords": [
-        "Product Owner",
-        "Product Management",
-        "Agile",
-        "Backlog Prioritisation",
-        "Stakeholder Management",
-        "User Story",
-        "Product Roadmap",
-        "API",
-        "iGaming",
-        "Payments",
-        "UAT",
-        "JIRA",
-        "Cross-functional",
-        "Data-driven",
-        "CBAP"
-      ],
-      "applicationsCount": "",
-      "contractType": "Full-time",
-      "experienceLevel": "Not Applicable"
-    },
-    {
-      "id": 11,
+      "id": 12,
       "company": "Fresenius Medical Care",
       "role": "Senior Software System and Product Architect",
       "sector": "Tech",
@@ -328,7 +364,7 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 4,
+      "id": 2,
       "company": "Raiffeisenverband Salzburg",
       "role": "Produktmanager:in Aktivprodukte für Privat- und Geschäftskund:innen",
       "sector": "Tech",
@@ -363,7 +399,7 @@
       "experienceLevel": "Mid-Senior level"
     },
     {
-      "id": 9,
+      "id": 5,
       "company": "PIDSO--Propagation Ideas and Solutions",
       "role": "Produkt Manager (m/w/*)",
       "sector": "Tech",
