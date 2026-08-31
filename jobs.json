@@ -1,46 +1,10 @@
 {
-  "synced_at": "2026-08-30T20:12:43.513Z",
+  "synced_at": "2026-08-31T02:05:36.021Z",
   "source": "LinkedIn via Apify (last 24h)",
-  "count": 22,
+  "count": 21,
   "jobs": [
     {
-      "id": 11,
-      "company": "Kira",
-      "role": "Product Owner, Technical - AI Investing App",
-      "sector": "Tech",
-      "posted": "2026-08-30",
-      "salary": "—",
-      "city": "Austria",
-      "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/product-owner-technical-ai-investing-app-at-kira-4459735088?trk=public_jobs_topcard-title",
-      "status": "Not applied",
-      "fitScore": 62,
-      "matchedKeywords": [
-        "Product Owner",
-        "Stakeholder Management",
-        "LLM",
-        "Payments",
-        "Cross-functional",
-        "Data-driven"
-      ],
-      "unmatchedKeywords": [
-        "Product Management",
-        "Agile",
-        "Backlog Prioritisation",
-        "User Story",
-        "Product Roadmap",
-        "API",
-        "iGaming",
-        "UAT",
-        "JIRA",
-        "CBAP"
-      ],
-      "applicationsCount": "Be among the first 25 applicants",
-      "contractType": "Full-time",
-      "experienceLevel": "Director"
-    },
-    {
-      "id": 13,
+      "id": 7,
       "company": "Kira",
       "role": "Product Owner, Technical - AI Finance App",
       "sector": "Tech",
@@ -76,7 +40,7 @@
       "experienceLevel": "Director"
     },
     {
-      "id": 15,
+      "id": 9,
       "company": "Kira",
       "role": "Product Owner, Technical - AI Neobank App",
       "sector": "Fintech",
@@ -112,7 +76,43 @@
       "experienceLevel": "Director"
     },
     {
-      "id": 17,
+      "id": 13,
+      "company": "Kira",
+      "role": "Product Owner, Technical - AI Investing App",
+      "sector": "Tech",
+      "posted": "2026-08-30",
+      "salary": "—",
+      "city": "Austria",
+      "platform": "LinkedIn",
+      "url": "https://at.linkedin.com/jobs/view/product-owner-technical-ai-investing-app-at-kira-4459735088?trk=public_jobs_topcard-title",
+      "status": "Not applied",
+      "fitScore": 62,
+      "matchedKeywords": [
+        "Product Owner",
+        "Stakeholder Management",
+        "LLM",
+        "Payments",
+        "Cross-functional",
+        "Data-driven"
+      ],
+      "unmatchedKeywords": [
+        "Product Management",
+        "Agile",
+        "Backlog Prioritisation",
+        "User Story",
+        "Product Roadmap",
+        "API",
+        "iGaming",
+        "UAT",
+        "JIRA",
+        "CBAP"
+      ],
+      "applicationsCount": "Be among the first 25 applicants",
+      "contractType": "Full-time",
+      "experienceLevel": "Director"
+    },
+    {
+      "id": 18,
       "company": "Kira",
       "role": "Product Owner, Technical - AI Stockbroking App",
       "sector": "Tech",
@@ -148,7 +148,7 @@
       "experienceLevel": "Director"
     },
     {
-      "id": 7,
+      "id": 2,
       "company": "Kira",
       "role": "Product Manager - AI Investing App",
       "sector": "Tech",
@@ -184,7 +184,7 @@
       "experienceLevel": "Entry level"
     },
     {
-      "id": 12,
+      "id": 8,
       "company": "Kira",
       "role": "Product Manager - AI Finance App",
       "sector": "Tech",
@@ -220,7 +220,7 @@
       "experienceLevel": "Entry level"
     },
     {
-      "id": 16,
+      "id": 10,
       "company": "Kira",
       "role": "Product Manager - AI Neobank App",
       "sector": "Fintech",
@@ -256,7 +256,7 @@
       "experienceLevel": "Entry level"
     },
     {
-      "id": 20,
+      "id": 17,
       "company": "XXXLdigital – Part of XXXL Group",
       "role": "Senior Product Owner - Purchasing Platform (m/w/d)",
       "sector": "Tech",
@@ -292,15 +292,15 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 2,
+      "id": 6,
       "company": "XXXLdigital – Part of XXXL Group",
       "role": "Product Manager - Konfiguratoren (w/m/d)",
       "sector": "Tech",
       "posted": "2026-08-30",
       "salary": "—",
-      "city": "Linz",
+      "city": "Wels",
       "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/product-manager-konfiguratoren-w-m-d-at-xxxldigital-%E2%80%93-part-of-xxxl-group-4439297300?trk=public_jobs_topcard-title",
+      "url": "https://at.linkedin.com/jobs/view/product-manager-konfiguratoren-w-m-d-at-xxxldigital-%E2%80%93-part-of-xxxl-group-4439298258?trk=public_jobs_topcard-title",
       "status": "Not applied",
       "fitScore": 43,
       "matchedKeywords": [
@@ -328,43 +328,43 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 6,
-      "company": "Kira",
-      "role": "Product Engineer - AI Neobank App",
-      "sector": "Fintech",
-      "posted": "2026-08-30",
-      "salary": "—",
-      "city": "Austria",
+      "id": 16,
+      "company": "TÜV SÜD",
+      "role": "Product Manager - Supply Chain Due Diligence & Responsible Business Practices (m/f/d)",
+      "sector": "Tech",
+      "posted": "2026-08-31",
+      "salary": "35–55",
+      "city": "Linz-Wels-Steyr Area",
       "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/product-engineer-ai-neobank-app-at-kira-4459724353?trk=public_jobs_topcard-title",
+      "url": "https://at.linkedin.com/jobs/view/product-manager-supply-chain-due-diligence-responsible-business-practices-m-f-d-at-t%C3%BCv-s%C3%BCd-4457162693?trk=public_jobs_topcard-title",
       "status": "Not applied",
-      "fitScore": 27,
+      "fitScore": 43,
       "matchedKeywords": [
-        "Product Owner",
         "Stakeholder Management",
-        "LLM",
-        "Payments",
-        "Cross-functional",
-        "Data-driven"
+        "Cross-functional"
       ],
       "unmatchedKeywords": [
+        "Product Owner",
         "Product Management",
         "Agile",
         "Backlog Prioritisation",
         "User Story",
         "Product Roadmap",
+        "LLM",
         "API",
         "iGaming",
+        "Payments",
         "UAT",
         "JIRA",
+        "Data-driven",
         "CBAP"
       ],
       "applicationsCount": "Be among the first 25 applicants",
       "contractType": "Full-time",
-      "experienceLevel": "Entry level"
+      "experienceLevel": "Not Applicable"
     },
     {
-      "id": 8,
+      "id": 5,
       "company": "Kira",
       "role": "Product Engineer - AI Stockbroking App",
       "sector": "Tech",
@@ -400,79 +400,7 @@
       "experienceLevel": "Entry level"
     },
     {
-      "id": 9,
-      "company": "Kira",
-      "role": "Product Engineer - AI Finance",
-      "sector": "Tech",
-      "posted": "2026-08-29",
-      "salary": "—",
-      "city": "Austria",
-      "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/product-engineer-ai-finance-at-kira-4459719077?trk=public_jobs_topcard-title",
-      "status": "Not applied",
-      "fitScore": 27,
-      "matchedKeywords": [
-        "Product Owner",
-        "Stakeholder Management",
-        "LLM",
-        "Payments",
-        "Cross-functional",
-        "Data-driven"
-      ],
-      "unmatchedKeywords": [
-        "Product Management",
-        "Agile",
-        "Backlog Prioritisation",
-        "User Story",
-        "Product Roadmap",
-        "API",
-        "iGaming",
-        "UAT",
-        "JIRA",
-        "CBAP"
-      ],
-      "applicationsCount": "Be among the first 25 applicants",
-      "contractType": "Full-time",
-      "experienceLevel": "Entry level"
-    },
-    {
-      "id": 10,
-      "company": "Kira",
-      "role": "Product Engineer - AI Investing App",
-      "sector": "Tech",
-      "posted": "2026-08-30",
-      "salary": "—",
-      "city": "Austria",
-      "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/product-engineer-ai-investing-app-at-kira-4459728263?trk=public_jobs_topcard-title",
-      "status": "Not applied",
-      "fitScore": 27,
-      "matchedKeywords": [
-        "Product Owner",
-        "Stakeholder Management",
-        "LLM",
-        "Payments",
-        "Cross-functional",
-        "Data-driven"
-      ],
-      "unmatchedKeywords": [
-        "Product Management",
-        "Agile",
-        "Backlog Prioritisation",
-        "User Story",
-        "Product Roadmap",
-        "API",
-        "iGaming",
-        "UAT",
-        "JIRA",
-        "CBAP"
-      ],
-      "applicationsCount": "Be among the first 25 applicants",
-      "contractType": "Full-time",
-      "experienceLevel": "Entry level"
-    },
-    {
-      "id": 21,
+      "id": 15,
       "company": "Worldline",
       "role": "Senior Business Architect",
       "sector": "Tech",
@@ -514,9 +442,9 @@
       "sector": "Tech",
       "posted": "2026-08-30",
       "salary": "—",
-      "city": "St Pölten",
+      "city": "Salzburg",
       "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/senior-consultant-all-genders-sap-s-4hana-cloud-transformation-expert-at-deloitte-4364726469?trk=public_jobs_topcard-title",
+      "url": "https://at.linkedin.com/jobs/view/senior-consultant-all-genders-sap-s-4hana-cloud-transformation-expert-at-deloitte-4364774698?trk=public_jobs_topcard-title",
       "status": "Not applied",
       "fitScore": 15,
       "matchedKeywords": [
@@ -545,14 +473,14 @@
     },
     {
       "id": 3,
-      "company": "MALOUM",
-      "role": "Senior Product Engineer",
+      "company": "Jobgether",
+      "role": "Senior Consultant",
       "sector": "Tech",
       "posted": "2026-08-30",
-      "salary": "8000–12000",
-      "city": "Vienna",
+      "salary": "—",
+      "city": "Austria",
       "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/senior-product-engineer-at-maloum-4458829777?trk=public_jobs_topcard-title",
+      "url": "https://at.linkedin.com/jobs/view/senior-consultant-at-jobgether-4459750666?trk=public_jobs_topcard-title",
       "status": "Not applied",
       "fitScore": 11,
       "matchedKeywords": [
@@ -616,7 +544,43 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 18,
+      "id": 11,
+      "company": "MALOUM",
+      "role": "Senior Product Engineer",
+      "sector": "Tech",
+      "posted": "2026-08-30",
+      "salary": "8000–12000",
+      "city": "Vienna",
+      "platform": "LinkedIn",
+      "url": "https://at.linkedin.com/jobs/view/senior-product-engineer-at-maloum-4458829777?trk=public_jobs_topcard-title",
+      "status": "Not applied",
+      "fitScore": 11,
+      "matchedKeywords": [
+        "LLM"
+      ],
+      "unmatchedKeywords": [
+        "Product Owner",
+        "Product Management",
+        "Agile",
+        "Backlog Prioritisation",
+        "Stakeholder Management",
+        "User Story",
+        "Product Roadmap",
+        "API",
+        "iGaming",
+        "Payments",
+        "UAT",
+        "JIRA",
+        "Cross-functional",
+        "Data-driven",
+        "CBAP"
+      ],
+      "applicationsCount": "Be among the first 25 applicants",
+      "contractType": "Full-time",
+      "experienceLevel": "Not Applicable"
+    },
+    {
+      "id": 20,
       "company": "Magna International",
       "role": "Sr. Engineer - AI Apps Dev. & Productization",
       "sector": "Tech",
@@ -652,7 +616,7 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 19,
+      "id": 21,
       "company": "Deloitte",
       "role": "(Senior) Consultant (all genders) IT Projektmanagement",
       "sector": "Tech",
@@ -683,47 +647,12 @@
         "Data-driven",
         "CBAP"
       ],
-      "applicationsCount": "37",
+      "applicationsCount": "38",
       "contractType": "Full-time",
       "experienceLevel": "Associate"
     },
     {
-      "id": 5,
-      "company": "Porsche Holding",
-      "role": "Management Accelerator (w/m/d)",
-      "sector": "Tech",
-      "posted": "2026-08-30",
-      "salary": "—",
-      "city": "Salzburg",
-      "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/management-accelerator-w-m-d-at-porsche-holding-4393916218?trk=public_jobs_topcard-title",
-      "status": "Not applied",
-      "fitScore": 8,
-      "matchedKeywords": [],
-      "unmatchedKeywords": [
-        "Product Owner",
-        "Product Management",
-        "Agile",
-        "Backlog Prioritisation",
-        "Stakeholder Management",
-        "User Story",
-        "Product Roadmap",
-        "LLM",
-        "API",
-        "iGaming",
-        "Payments",
-        "UAT",
-        "JIRA",
-        "Cross-functional",
-        "Data-driven",
-        "CBAP"
-      ],
-      "applicationsCount": "97",
-      "contractType": "Full-time",
-      "experienceLevel": "Associate"
-    },
-    {
-      "id": 14,
+      "id": 12,
       "company": "Lam Research",
       "role": "Product Structure Engineer (all genders)",
       "sector": "Tech",
@@ -758,7 +687,42 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 22,
+      "id": 14,
+      "company": "Porsche Holding",
+      "role": "Management Accelerator (w/m/d)",
+      "sector": "Tech",
+      "posted": "2026-08-30",
+      "salary": "—",
+      "city": "Salzburg",
+      "platform": "LinkedIn",
+      "url": "https://at.linkedin.com/jobs/view/management-accelerator-w-m-d-at-porsche-holding-4393916218?trk=public_jobs_topcard-title",
+      "status": "Not applied",
+      "fitScore": 8,
+      "matchedKeywords": [],
+      "unmatchedKeywords": [
+        "Product Owner",
+        "Product Management",
+        "Agile",
+        "Backlog Prioritisation",
+        "Stakeholder Management",
+        "User Story",
+        "Product Roadmap",
+        "LLM",
+        "API",
+        "iGaming",
+        "Payments",
+        "UAT",
+        "JIRA",
+        "Cross-functional",
+        "Data-driven",
+        "CBAP"
+      ],
+      "applicationsCount": "95",
+      "contractType": "Full-time",
+      "experienceLevel": "Associate"
+    },
+    {
+      "id": 19,
       "company": "Raiffeisenverband Salzburg",
       "role": "Produktmanager:in Aktivprodukte für Privat- und Geschäftskund:innen",
       "sector": "Tech",
