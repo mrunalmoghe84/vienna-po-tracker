@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-09-27T15:56:41.827Z",
+  "synced_at": "2026-09-27T20:33:17.950Z",
   "source": "LinkedIn via Apify (last 24h)",
-  "count": 26,
+  "count": 20,
   "jobs": [
     {
-      "id": 11,
+      "id": 19,
       "company": "Senior Quality - Jobplattform 45plus",
       "role": "DevOps Product Owner (w/m/d)",
       "sector": "Tech",
@@ -40,15 +40,15 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 9,
+      "id": 12,
       "company": "Frequentis",
-      "role": "Product Manager – Air Traffic Management (all genders)",
+      "role": "Product Manager – Air Traffic Management (all genders) - DE",
       "sector": "Automotive",
-      "posted": "2026-09-26",
+      "posted": "2026-09-27",
       "salary": "—",
       "city": "Vienna",
       "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/product-manager-%E2%80%93-air-traffic-management-all-genders-at-frequentis-4435261559?trk=public_jobs_topcard-title",
+      "url": "https://at.linkedin.com/jobs/view/product-manager-%E2%80%93-air-traffic-management-all-genders-de-at-frequentis-4436389423?trk=public_jobs_topcard-title",
       "status": "Not applied",
       "fitScore": 43,
       "matchedKeywords": [
@@ -71,12 +71,12 @@
         "Data-driven",
         "CBAP"
       ],
-      "applicationsCount": "67",
+      "applicationsCount": "36",
       "contractType": "Full-time",
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 7,
+      "id": 11,
       "company": "TGW Logistics",
       "role": "Product Manager Automation Architecture Conveyor Technology (M/F/D)*",
       "sector": "Automotive",
@@ -111,42 +111,7 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 17,
-      "company": "Eurotours",
-      "role": "Product Manager Self-Drive (m/w/d)",
-      "sector": "Tech",
-      "posted": "2026-09-26",
-      "salary": "—",
-      "city": "Kitzbühel",
-      "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/product-manager-self-drive-m-w-d-at-eurotours-4435050595?trk=public_jobs_topcard-title",
-      "status": "Not applied",
-      "fitScore": 36,
-      "matchedKeywords": [],
-      "unmatchedKeywords": [
-        "Product Owner",
-        "Product Management",
-        "Agile",
-        "Backlog Prioritisation",
-        "Stakeholder Management",
-        "User Story",
-        "Product Roadmap",
-        "LLM",
-        "API",
-        "iGaming",
-        "Payments",
-        "UAT",
-        "JIRA",
-        "Cross-functional",
-        "Data-driven",
-        "CBAP"
-      ],
-      "applicationsCount": "Be among the first 25 applicants",
-      "contractType": "Full-time",
-      "experienceLevel": "Not Applicable"
-    },
-    {
-      "id": 5,
+      "id": 8,
       "company": "Worldline",
       "role": "Business Engineer - Senior",
       "sector": "Tech",
@@ -177,12 +142,12 @@
         "Data-driven",
         "CBAP"
       ],
-      "applicationsCount": "40",
+      "applicationsCount": "43",
       "contractType": "Full-time",
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 6,
+      "id": 5,
       "company": "R&C Request GmbH",
       "role": "Strategischer Implementierungsmanager für Enterprise AI (m/w/d)",
       "sector": "Tech",
@@ -218,7 +183,7 @@
       "experienceLevel": "Associate"
     },
     {
-      "id": 18,
+      "id": 13,
       "company": "AT&S",
       "role": "Specialist R&D Portfolio & Funding Management",
       "sector": "Tech",
@@ -254,43 +219,7 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 8,
-      "company": "BCG Platinion",
-      "role": "(Senior) AI Tech Consultant – Consumer Industries (all genders) – BCG Platinion Vienna, Austria",
-      "sector": "Tech",
-      "posted": "2026-09-26",
-      "salary": "—",
-      "city": "Vienna",
-      "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/senior-ai-tech-consultant-%E2%80%93-consumer-industries-all-genders-%E2%80%93-bcg-platinion-vienna-austria-at-bcg-platinion-4434640431?trk=public_jobs_topcard-title",
-      "status": "Not applied",
-      "fitScore": 18,
-      "matchedKeywords": [
-        "Agile",
-        "LLM",
-        "Data-driven"
-      ],
-      "unmatchedKeywords": [
-        "Product Owner",
-        "Product Management",
-        "Backlog Prioritisation",
-        "Stakeholder Management",
-        "User Story",
-        "Product Roadmap",
-        "API",
-        "iGaming",
-        "Payments",
-        "UAT",
-        "JIRA",
-        "Cross-functional",
-        "CBAP"
-      ],
-      "applicationsCount": "Be among the first 25 applicants",
-      "contractType": "Full-time",
-      "experienceLevel": "Not Applicable"
-    },
-    {
-      "id": 23,
+      "id": 17,
       "company": "fonio.ai",
       "role": "Technical Customer Success Manager (UK)",
       "sector": "Tech",
@@ -321,48 +250,12 @@
         "Cross-functional",
         "CBAP"
       ],
-      "applicationsCount": "86",
+      "applicationsCount": "87",
       "contractType": "Full-time",
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 15,
-      "company": "Roche",
-      "role": "Network Technical Lead - Digital Health Solutions (IVD & MD)",
-      "sector": "Tech",
-      "posted": "2026-09-26",
-      "salary": "—",
-      "city": "Vienna",
-      "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/network-technical-lead-digital-health-solutions-ivd-md-at-roche-4454325165?trk=public_jobs_topcard-title",
-      "status": "Not applied",
-      "fitScore": 15,
-      "matchedKeywords": [
-        "Stakeholder Management",
-        "Cross-functional"
-      ],
-      "unmatchedKeywords": [
-        "Product Owner",
-        "Product Management",
-        "Agile",
-        "Backlog Prioritisation",
-        "User Story",
-        "Product Roadmap",
-        "LLM",
-        "API",
-        "iGaming",
-        "Payments",
-        "UAT",
-        "JIRA",
-        "Data-driven",
-        "CBAP"
-      ],
-      "applicationsCount": "27",
-      "contractType": "Full-time",
-      "experienceLevel": "Associate"
-    },
-    {
-      "id": 19,
+      "id": 1,
       "company": "Bene",
       "role": "SAP Inhouse Berater für PP/EWM - Stream: Schedule 2 Produce & Store to Fulfill (all genders)",
       "sector": "Tech",
@@ -398,43 +291,7 @@
       "experienceLevel": "Associate"
     },
     {
-      "id": 20,
-      "company": "Infineon Technologies",
-      "role": "Senior Staff Engineer Process Integration for Wide Bandgap Power Technologies (w/m/div)",
-      "sector": "Tech",
-      "posted": "2026-09-27",
-      "salary": "—",
-      "city": "Villach",
-      "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/senior-staff-engineer-process-integration-for-wide-bandgap-power-technologies-w-m-div-at-infineon-technologies-4408280121?trk=public_jobs_topcard-title",
-      "status": "Not applied",
-      "fitScore": 15,
-      "matchedKeywords": [
-        "Agile",
-        "LLM"
-      ],
-      "unmatchedKeywords": [
-        "Product Owner",
-        "Product Management",
-        "Backlog Prioritisation",
-        "Stakeholder Management",
-        "User Story",
-        "Product Roadmap",
-        "API",
-        "iGaming",
-        "Payments",
-        "UAT",
-        "JIRA",
-        "Cross-functional",
-        "Data-driven",
-        "CBAP"
-      ],
-      "applicationsCount": "51",
-      "contractType": "Full-time",
-      "experienceLevel": "Mid-Senior level"
-    },
-    {
-      "id": 25,
+      "id": 15,
       "company": "Infineon Technologies",
       "role": "Principal Engineer Product Definition (f/m/div)",
       "sector": "Tech",
@@ -470,26 +327,62 @@
       "experienceLevel": "Mid-Senior level"
     },
     {
-      "id": 2,
-      "company": "WienIT GmbH",
-      "role": "IT Business Consultant (w/m/d)",
+      "id": 18,
+      "company": "Infineon Technologies",
+      "role": "Senior Staff Engineer Process Integration for Wide Bandgap Power Technologies (w/m/div)",
       "sector": "Tech",
       "posted": "2026-09-27",
       "salary": "—",
-      "city": "Vienna",
+      "city": "Villach",
       "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/it-business-consultant-w-m-d-at-wienit-gmbh-4416190341?trk=public_jobs_topcard-title",
+      "url": "https://at.linkedin.com/jobs/view/senior-staff-engineer-process-integration-for-wide-bandgap-power-technologies-w-m-div-at-infineon-technologies-4408280121?trk=public_jobs_topcard-title",
       "status": "Not applied",
-      "fitScore": 11,
+      "fitScore": 15,
       "matchedKeywords": [
-        "User Story"
+        "Agile",
+        "LLM"
       ],
       "unmatchedKeywords": [
         "Product Owner",
         "Product Management",
-        "Agile",
         "Backlog Prioritisation",
         "Stakeholder Management",
+        "User Story",
+        "Product Roadmap",
+        "API",
+        "iGaming",
+        "Payments",
+        "UAT",
+        "JIRA",
+        "Cross-functional",
+        "Data-driven",
+        "CBAP"
+      ],
+      "applicationsCount": "51",
+      "contractType": "Full-time",
+      "experienceLevel": "Mid-Senior level"
+    },
+    {
+      "id": 2,
+      "company": "TGW Logistics",
+      "role": "Project Manager Focus Software (M/F/D)*",
+      "sector": "Tech",
+      "posted": "2026-09-27",
+      "salary": "—",
+      "city": "Marchtrenk",
+      "platform": "LinkedIn",
+      "url": "https://at.linkedin.com/jobs/view/project-manager-focus-software-m-f-d-at-tgw-logistics-4413353237?trk=public_jobs_topcard-title",
+      "status": "Not applied",
+      "fitScore": 11,
+      "matchedKeywords": [
+        "Agile"
+      ],
+      "unmatchedKeywords": [
+        "Product Owner",
+        "Product Management",
+        "Backlog Prioritisation",
+        "Stakeholder Management",
+        "User Story",
         "Product Roadmap",
         "LLM",
         "API",
@@ -501,7 +394,7 @@
         "Data-driven",
         "CBAP"
       ],
-      "applicationsCount": "102",
+      "applicationsCount": "66",
       "contractType": "Full-time",
       "experienceLevel": "Not Applicable"
     },
@@ -542,19 +435,55 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 13,
-      "company": "ABB",
-      "role": "SAP Solution Consultant (f/m/d)",
+      "id": 6,
+      "company": "WienIT GmbH",
+      "role": "IT Business Consultant (w/m/d)",
       "sector": "Tech",
-      "posted": "2026-09-26",
+      "posted": "2026-09-27",
       "salary": "—",
-      "city": "Eggelsberg",
+      "city": "Vienna",
       "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/sap-solution-consultant-f-m-d-at-abb-4432974750?trk=public_jobs_topcard-title",
+      "url": "https://at.linkedin.com/jobs/view/it-business-consultant-w-m-d-at-wienit-gmbh-4416190341?trk=public_jobs_topcard-title",
       "status": "Not applied",
       "fitScore": 11,
       "matchedKeywords": [
-        "Cross-functional"
+        "User Story"
+      ],
+      "unmatchedKeywords": [
+        "Product Owner",
+        "Product Management",
+        "Agile",
+        "Backlog Prioritisation",
+        "Stakeholder Management",
+        "Product Roadmap",
+        "LLM",
+        "API",
+        "iGaming",
+        "Payments",
+        "UAT",
+        "JIRA",
+        "Cross-functional",
+        "Data-driven",
+        "CBAP"
+      ],
+      "applicationsCount": "103",
+      "contractType": "Full-time",
+      "experienceLevel": "Not Applicable"
+    },
+    {
+      "id": 9,
+      "company": "Liebherr Group",
+      "role": "BI Projektleiter Finance (m/w/d)",
+      "sector": "Tech",
+      "posted": "2026-09-27",
+      "salary": "—",
+      "city": "Nenzing",
+      "platform": "LinkedIn",
+      "url": "https://at.linkedin.com/jobs/view/bi-projektleiter-finance-m-w-d-at-liebherr-group-4416517434?trk=public_jobs_topcard-title",
+      "status": "Not applied",
+      "fitScore": 11,
+      "matchedKeywords": [
+        "Data-driven"
       ],
       "unmatchedKeywords": [
         "Product Owner",
@@ -570,51 +499,15 @@
         "Payments",
         "UAT",
         "JIRA",
-        "Data-driven",
+        "Cross-functional",
         "CBAP"
       ],
-      "applicationsCount": "Be among the first 25 applicants",
+      "applicationsCount": "25",
       "contractType": "Full-time",
       "experienceLevel": "Not Applicable"
     },
     {
       "id": 16,
-      "company": "TGW Logistics",
-      "role": "Project Manager Focus Software (M/F/D)*",
-      "sector": "Tech",
-      "posted": "2026-09-27",
-      "salary": "—",
-      "city": "Marchtrenk",
-      "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/project-manager-focus-software-m-f-d-at-tgw-logistics-4413353237?trk=public_jobs_topcard-title",
-      "status": "Not applied",
-      "fitScore": 11,
-      "matchedKeywords": [
-        "Agile"
-      ],
-      "unmatchedKeywords": [
-        "Product Owner",
-        "Product Management",
-        "Backlog Prioritisation",
-        "Stakeholder Management",
-        "User Story",
-        "Product Roadmap",
-        "LLM",
-        "API",
-        "iGaming",
-        "Payments",
-        "UAT",
-        "JIRA",
-        "Cross-functional",
-        "Data-driven",
-        "CBAP"
-      ],
-      "applicationsCount": "65",
-      "contractType": "Full-time",
-      "experienceLevel": "Not Applicable"
-    },
-    {
-      "id": 22,
       "company": "RAITEC GmbH",
       "role": "AI- & Cloud Engineer (m/w/d)",
       "sector": "Tech",
@@ -645,48 +538,12 @@
         "Data-driven",
         "CBAP"
       ],
-      "applicationsCount": "56",
+      "applicationsCount": "58",
       "contractType": "Full-time",
       "experienceLevel": "Associate"
     },
     {
-      "id": 24,
-      "company": "KPMG Austria",
-      "role": "Senior Consultant für SAP AI & Development",
-      "sector": "Tech",
-      "posted": "2026-09-27",
-      "salary": "—",
-      "city": "Vienna",
-      "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/senior-consultant-f%C3%BCr-sap-ai-development-at-kpmg-austria-4470808376?trk=public_jobs_topcard-title",
-      "status": "Not applied",
-      "fitScore": 11,
-      "matchedKeywords": [
-        "LLM"
-      ],
-      "unmatchedKeywords": [
-        "Product Owner",
-        "Product Management",
-        "Agile",
-        "Backlog Prioritisation",
-        "Stakeholder Management",
-        "User Story",
-        "Product Roadmap",
-        "API",
-        "iGaming",
-        "Payments",
-        "UAT",
-        "JIRA",
-        "Cross-functional",
-        "Data-driven",
-        "CBAP"
-      ],
-      "applicationsCount": "Be among the first 25 applicants",
-      "contractType": "Full-time",
-      "experienceLevel": "Not Applicable"
-    },
-    {
-      "id": 1,
+      "id": 3,
       "company": "NTS Netzwerk Telekom Service AG",
       "role": "Business Relationship Manager (m/w/d)",
       "sector": "Tech",
@@ -721,15 +578,15 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 3,
-      "company": "Devoteam",
-      "role": "Senior IT-Consultant - Digitalisierung (m/w/d)",
+      "id": 7,
+      "company": "KISKA",
+      "role": "Digital Project Manager – Smart Home & Building Technology",
       "sector": "Tech",
-      "posted": "2026-09-26",
+      "posted": "2026-09-27",
       "salary": "—",
-      "city": "Vienna",
+      "city": "Salzburg",
       "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/senior-it-consultant-digitalisierung-m-w-d-at-devoteam-4351857208?trk=public_jobs_topcard-title",
+      "url": "https://at.linkedin.com/jobs/view/digital-project-manager-%E2%80%93-smart-home-building-technology-at-kiska-4428102319?trk=public_jobs_topcard-title",
       "status": "Not applied",
       "fitScore": 8,
       "matchedKeywords": [],
@@ -751,9 +608,9 @@
         "Data-driven",
         "CBAP"
       ],
-      "applicationsCount": "Be among the first 25 applicants",
+      "applicationsCount": "109",
       "contractType": "Full-time",
-      "experienceLevel": "Mid-Senior level"
+      "experienceLevel": "Not Applicable"
     },
     {
       "id": 10,
@@ -791,7 +648,7 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 12,
+      "id": 14,
       "company": "Blum Group",
       "role": "Produktmanager für Verarbeitungshilfen (m/w/d)",
       "sector": "Tech",
@@ -826,42 +683,7 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 14,
-      "company": "ABB",
-      "role": "SAP Solution Consultant (w/m/d)",
-      "sector": "Tech",
-      "posted": "2026-09-26",
-      "salary": "—",
-      "city": "Eggelsberg",
-      "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/sap-solution-consultant-w-m-d-at-abb-4433220775?trk=public_jobs_topcard-title",
-      "status": "Not applied",
-      "fitScore": 8,
-      "matchedKeywords": [],
-      "unmatchedKeywords": [
-        "Product Owner",
-        "Product Management",
-        "Agile",
-        "Backlog Prioritisation",
-        "Stakeholder Management",
-        "User Story",
-        "Product Roadmap",
-        "LLM",
-        "API",
-        "iGaming",
-        "Payments",
-        "UAT",
-        "JIRA",
-        "Cross-functional",
-        "Data-driven",
-        "CBAP"
-      ],
-      "applicationsCount": "Be among the first 25 applicants",
-      "contractType": "Full-time",
-      "experienceLevel": "Not Applicable"
-    },
-    {
-      "id": 21,
+      "id": 20,
       "company": "TECCON Consulting GmbH",
       "role": "SAP-PP Spezialist (m/w/d)",
       "sector": "Tech",
@@ -894,41 +716,6 @@
       "applicationsCount": "Be among the first 25 applicants",
       "contractType": "Full-time",
       "experienceLevel": "Associate"
-    },
-    {
-      "id": 26,
-      "company": "Liebherr Maritime Cranes",
-      "role": "NextGen - Machine-Application-Developer (m/w/d)",
-      "sector": "Tech",
-      "posted": "2026-09-26",
-      "salary": "—",
-      "city": "Nenzing",
-      "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/nextgen-machine-application-developer-m-w-d-at-liebherr-maritime-cranes-4426134311?trk=public_jobs_topcard-title",
-      "status": "Not applied",
-      "fitScore": 8,
-      "matchedKeywords": [],
-      "unmatchedKeywords": [
-        "Product Owner",
-        "Product Management",
-        "Agile",
-        "Backlog Prioritisation",
-        "Stakeholder Management",
-        "User Story",
-        "Product Roadmap",
-        "LLM",
-        "API",
-        "iGaming",
-        "Payments",
-        "UAT",
-        "JIRA",
-        "Cross-functional",
-        "Data-driven",
-        "CBAP"
-      ],
-      "applicationsCount": "Be among the first 25 applicants",
-      "contractType": "Full-time",
-      "experienceLevel": "Not Applicable"
     }
   ]
 }
