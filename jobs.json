@@ -1,10 +1,10 @@
 {
-  "synced_at": "2026-09-27T20:33:17.950Z",
+  "synced_at": "2026-09-28T02:22:01.749Z",
   "source": "LinkedIn via Apify (last 24h)",
-  "count": 20,
+  "count": 19,
   "jobs": [
     {
-      "id": 19,
+      "id": 13,
       "company": "Senior Quality - Jobplattform 45plus",
       "role": "DevOps Product Owner (w/m/d)",
       "sector": "Tech",
@@ -111,7 +111,7 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 8,
+      "id": 6,
       "company": "Worldline",
       "role": "Business Engineer - Senior",
       "sector": "Tech",
@@ -142,12 +142,12 @@
         "Data-driven",
         "CBAP"
       ],
-      "applicationsCount": "43",
+      "applicationsCount": "44",
       "contractType": "Full-time",
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 5,
+      "id": 7,
       "company": "R&C Request GmbH",
       "role": "Strategischer Implementierungsmanager für Enterprise AI (m/w/d)",
       "sector": "Tech",
@@ -183,7 +183,7 @@
       "experienceLevel": "Associate"
     },
     {
-      "id": 13,
+      "id": 15,
       "company": "AT&S",
       "role": "Specialist R&D Portfolio & Funding Management",
       "sector": "Tech",
@@ -255,43 +255,7 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 1,
-      "company": "Bene",
-      "role": "SAP Inhouse Berater für PP/EWM - Stream: Schedule 2 Produce & Store to Fulfill (all genders)",
-      "sector": "Tech",
-      "posted": "2026-09-26",
-      "salary": "—",
-      "city": "Waidhofen",
-      "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/sap-inhouse-berater-f%C3%BCr-pp-ewm-stream-schedule-2-produce-store-to-fulfill-all-genders-at-bene-4465085054?trk=public_jobs_topcard-title",
-      "status": "Not applied",
-      "fitScore": 15,
-      "matchedKeywords": [
-        "Agile",
-        "UAT"
-      ],
-      "unmatchedKeywords": [
-        "Product Owner",
-        "Product Management",
-        "Backlog Prioritisation",
-        "Stakeholder Management",
-        "User Story",
-        "Product Roadmap",
-        "LLM",
-        "API",
-        "iGaming",
-        "Payments",
-        "JIRA",
-        "Cross-functional",
-        "Data-driven",
-        "CBAP"
-      ],
-      "applicationsCount": "Be among the first 25 applicants",
-      "contractType": "Full-time",
-      "experienceLevel": "Associate"
-    },
-    {
-      "id": 15,
+      "id": 9,
       "company": "Infineon Technologies",
       "role": "Principal Engineer Product Definition (f/m/div)",
       "sector": "Tech",
@@ -327,7 +291,7 @@
       "experienceLevel": "Mid-Senior level"
     },
     {
-      "id": 18,
+      "id": 14,
       "company": "Infineon Technologies",
       "role": "Senior Staff Engineer Process Integration for Wide Bandgap Power Technologies (w/m/div)",
       "sector": "Tech",
@@ -435,7 +399,7 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 6,
+      "id": 5,
       "company": "WienIT GmbH",
       "role": "IT Business Consultant (w/m/d)",
       "sector": "Tech",
@@ -471,7 +435,7 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 9,
+      "id": 8,
       "company": "Liebherr Group",
       "role": "BI Projektleiter Finance (m/w/d)",
       "sector": "Tech",
@@ -507,7 +471,7 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 16,
+      "id": 18,
       "company": "RAITEC GmbH",
       "role": "AI- & Cloud Engineer (m/w/d)",
       "sector": "Tech",
@@ -538,12 +502,12 @@
         "Data-driven",
         "CBAP"
       ],
-      "applicationsCount": "58",
+      "applicationsCount": "59",
       "contractType": "Full-time",
       "experienceLevel": "Associate"
     },
     {
-      "id": 3,
+      "id": 1,
       "company": "NTS Netzwerk Telekom Service AG",
       "role": "Business Relationship Manager (m/w/d)",
       "sector": "Tech",
@@ -578,7 +542,7 @@
       "experienceLevel": "Not Applicable"
     },
     {
-      "id": 7,
+      "id": 3,
       "company": "KISKA",
       "role": "Digital Project Manager – Smart Home & Building Technology",
       "sector": "Tech",
@@ -614,76 +578,6 @@
     },
     {
       "id": 10,
-      "company": "Iventa. The Human Management Group",
-      "role": "Technischer Produktmanager / Produktentwickler (m/w/d)",
-      "sector": "Tech",
-      "posted": "2026-09-27",
-      "salary": "—",
-      "city": "Schärding",
-      "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/technischer-produktmanager-produktentwickler-m-w-d-at-iventa-the-human-management-group-4427188565?trk=public_jobs_topcard-title",
-      "status": "Not applied",
-      "fitScore": 8,
-      "matchedKeywords": [],
-      "unmatchedKeywords": [
-        "Product Owner",
-        "Product Management",
-        "Agile",
-        "Backlog Prioritisation",
-        "Stakeholder Management",
-        "User Story",
-        "Product Roadmap",
-        "LLM",
-        "API",
-        "iGaming",
-        "Payments",
-        "UAT",
-        "JIRA",
-        "Cross-functional",
-        "Data-driven",
-        "CBAP"
-      ],
-      "applicationsCount": "Be among the first 25 applicants",
-      "contractType": "Full-time",
-      "experienceLevel": "Not Applicable"
-    },
-    {
-      "id": 14,
-      "company": "Blum Group",
-      "role": "Produktmanager für Verarbeitungshilfen (m/w/d)",
-      "sector": "Tech",
-      "posted": "2026-09-26",
-      "salary": "—",
-      "city": "Höchst",
-      "platform": "LinkedIn",
-      "url": "https://at.linkedin.com/jobs/view/produktmanager-f%C3%BCr-verarbeitungshilfen-m-w-d-at-blum-group-4450999238?trk=public_jobs_topcard-title",
-      "status": "Not applied",
-      "fitScore": 8,
-      "matchedKeywords": [],
-      "unmatchedKeywords": [
-        "Product Owner",
-        "Product Management",
-        "Agile",
-        "Backlog Prioritisation",
-        "Stakeholder Management",
-        "User Story",
-        "Product Roadmap",
-        "LLM",
-        "API",
-        "iGaming",
-        "Payments",
-        "UAT",
-        "JIRA",
-        "Cross-functional",
-        "Data-driven",
-        "CBAP"
-      ],
-      "applicationsCount": "Be among the first 25 applicants",
-      "contractType": "Full-time",
-      "experienceLevel": "Not Applicable"
-    },
-    {
-      "id": 20,
       "company": "TECCON Consulting GmbH",
       "role": "SAP-PP Spezialist (m/w/d)",
       "sector": "Tech",
@@ -716,6 +610,76 @@
       "applicationsCount": "Be among the first 25 applicants",
       "contractType": "Full-time",
       "experienceLevel": "Associate"
+    },
+    {
+      "id": 16,
+      "company": "Blum Group",
+      "role": "Produktmanager für Verarbeitungshilfen (m/w/d)",
+      "sector": "Tech",
+      "posted": "2026-09-27",
+      "salary": "—",
+      "city": "Höchst",
+      "platform": "LinkedIn",
+      "url": "https://at.linkedin.com/jobs/view/produktmanager-f%C3%BCr-verarbeitungshilfen-m-w-d-at-blum-group-4450999238?trk=public_jobs_topcard-title",
+      "status": "Not applied",
+      "fitScore": 8,
+      "matchedKeywords": [],
+      "unmatchedKeywords": [
+        "Product Owner",
+        "Product Management",
+        "Agile",
+        "Backlog Prioritisation",
+        "Stakeholder Management",
+        "User Story",
+        "Product Roadmap",
+        "LLM",
+        "API",
+        "iGaming",
+        "Payments",
+        "UAT",
+        "JIRA",
+        "Cross-functional",
+        "Data-driven",
+        "CBAP"
+      ],
+      "applicationsCount": "Be among the first 25 applicants",
+      "contractType": "Full-time",
+      "experienceLevel": "Not Applicable"
+    },
+    {
+      "id": 19,
+      "company": "Iventa. The Human Management Group",
+      "role": "Technischer Produktmanager / Produktentwickler (m/w/d)",
+      "sector": "Tech",
+      "posted": "2026-09-27",
+      "salary": "—",
+      "city": "Schärding",
+      "platform": "LinkedIn",
+      "url": "https://at.linkedin.com/jobs/view/technischer-produktmanager-produktentwickler-m-w-d-at-iventa-the-human-management-group-4427188565?trk=public_jobs_topcard-title",
+      "status": "Not applied",
+      "fitScore": 8,
+      "matchedKeywords": [],
+      "unmatchedKeywords": [
+        "Product Owner",
+        "Product Management",
+        "Agile",
+        "Backlog Prioritisation",
+        "Stakeholder Management",
+        "User Story",
+        "Product Roadmap",
+        "LLM",
+        "API",
+        "iGaming",
+        "Payments",
+        "UAT",
+        "JIRA",
+        "Cross-functional",
+        "Data-driven",
+        "CBAP"
+      ],
+      "applicationsCount": "Be among the first 25 applicants",
+      "contractType": "Full-time",
+      "experienceLevel": "Not Applicable"
     }
   ]
 }
